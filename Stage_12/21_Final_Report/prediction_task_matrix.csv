@@ -1,0 +1,5 @@
+task,prediction_unit,feature_dataset,target_dataset,N_projects,N_samples,verified_samples,missing_samples,leakage_status,baseline_available,baseline_error,ml_eligible,reason,next_data_required
+Concrete quantity estimation,Element,Geometry+Str,Concrete,1,54,54,0,PASS,YES,0%,NO (N=1),Requires VLM Queue Execution,VLM extraction of Track A structural PDFs
+Steel quantity estimation,Element,Geometry+Str,Steel,0,0,0,ALL,N/A,NO,N/A,NO,No reinforcement data yet,VLM extraction of bar bending schedules
+Labour estimation,Project,Qty+Features,Labour,0,0,0,ALL,N/A,NO,N/A,NO,No observed ground truth,Contractor manpower records
+Cost estimation,Project,Eng Qty,Cost,8,8,8,0,FAIL,NO,N/A,NO,N=8 is too small,Expand to 50+ projects

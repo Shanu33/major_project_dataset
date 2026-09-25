@@ -1,0 +1,5 @@
+request_id,priority,missing_item_description,required_for_phase,impact_if_not_provided,potential_source_document
+REQ-001,HIGH,Structural Drawings,Quantity Takeoff / Estimation,Cannot estimate structural quantities accurately,Design Documentation
+REQ-002,HIGH,MEP Drawings,Quantity Takeoff / Estimation,Cannot estimate MEP quantities accurately,Design Documentation
+REQ-003,HIGH,Landscape Drawings,Quantity Takeoff / Estimation,Cannot estimate landscaping quantities accurately,Design Documentation
+REQ-004,CRITICAL,Detailed BOQ with quantities (Volume 2 only contains abstracts),Ground-Truth Extraction,Cannot perform BOQ calculation audit or ground-truth training,Tender/Contract Documents

@@ -1,0 +1,9 @@
+project,data_element,quarantine_reason,resolution_path
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+EPI-Dhenkanal-ICDS-Staff-Quarters,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+MHDC-PMAY-Khairi-Kamptee-Nagpur,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+NIT-Nalanda,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+OIL-RITES-Duliajan-BQ-Housing,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+SBI-DN-Nagar-Andheri-122-Flats,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+SBI-GIFT-City-Twin-Towers,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction
+TCIL-NVS-JNV-Azamgarh-Quarters,BOQ_Line_Items,Binary PDF format. Unstructured.,Apply OCR / Tabular extraction

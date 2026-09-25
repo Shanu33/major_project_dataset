@@ -1,0 +1,10 @@
+{
+  "selected_tower": "Type-II Staff Quarters Block",
+  "building_type": "Staff Quarters",
+  "number_of_floors": "G+1",
+  "number_of_units": 8,
+  "sources": {
+    "scope": "README.md, Volume1_Technical_Bid_NIT_GCC_SCC_Specs.pdf",
+    "drawings": "04_Architectural_Drawings/Type_II_Quarters_Architectural_Floor_Plan_and_Area_Statement.pdf"
+  }
+}

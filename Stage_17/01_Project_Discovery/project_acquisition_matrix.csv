@@ -1,0 +1,17 @@
+project_id,boq_pdf_status,drawing_pdf_status,geometry_evidence,boq_target_evidence,candidate_status,reason
+OIL-RITES-Duliajan,VERIFIED,VERIFIED,YES,YES,VERIFIED,Already part of N=3 base
+NIT-Nalanda,VERIFIED,VERIFIED,YES,YES,VERIFIED,Already part of N=3 base
+TCIL-Azamgarh,VERIFIED,VERIFIED,YES,YES,VERIFIED,Already part of N=3 base
+EPI-Dhenkanal,MISSING,MISSING,NO,NO,BLOCKED,Tender documents only; no main drawing attachments
+DFCCIL-Sarmatanr,MISSING,MISSING,NO,NO,BLOCKED,Tender documents misnamed as drawings; no actual CAD/PDF drawings
+MHDC-PMAY,MISSING,MISSING,NO,NO,BLOCKED,No complete drawing sets; missing detailed BOQ
+BHEL-Jagdishpur,PRESENT,MISSING,NO,YES,BLOCKED,Has SCC and Spec but no structural geometry/drawings
+BMC-Deonar,MISSING,PRESENT,YES,NO,BLOCKED,Has drawing PDFs but EPC contract lacks element-level BOQ
+SBI-GIFT-City,PRESENT,MISSING,NO,YES,BLOCKED,Has massive BOQ but structural drawings are absent
+SBI-DN-Nagar,PRESENT,MISSING,NO,YES,BLOCKED,Tender drawings PDF is actually an NIT document
+EPI-Trimbakeshwar,MISSING,MISSING,NO,NO,BLOCKED,Large PDF contains furniture specs and NIT conditions; no structural drawings
+CPWD-RBI-Kharghar,MISSING,MISSING,NO,NO,BLOCKED,Only interior furniture specs found
+KMRL-Kochi-Metro,MISSING,MISSING,NO,NO,BLOCKED,Corpus contains only stub 1KB files
+Purvanchal-Sunbliss,MISSING,MISSING,NO,NO,BLOCKED,Only CA certificates and ATS files
+AIIMS-Delhi,MISSING,MISSING,NO,NO,BLOCKED,Corpus files are audit stubs or generic CPWD rate files
+

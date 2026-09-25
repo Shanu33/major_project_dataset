@@ -1,0 +1,4 @@
+request_id,priority,missing_document,reason
+REQ-SBI-E-ARCH,HIGH,"Complete Architectural Drawing Set (Floor plans, elevations, sections)",Required for building entity footprint and envelope modeling.
+REQ-SBI-E-BOQ,CRITICAL,Itemized Bill of Quantities (BOQ),Required for ground-truth training targets and cost analysis.
+REQ-SBI-E-EXTRACTION,HIGH,Deep PDF Extraction of existing Tender Volumes,Missing drawings or BOQ may be embedded within the main tender PDF.

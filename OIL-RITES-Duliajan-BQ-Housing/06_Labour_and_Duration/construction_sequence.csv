@@ -1,0 +1,25 @@
+WBS ID,Activity Name,Predecessor,Duration (Days),Start Month,Finish Month,Critical Path,Resource Crew Assigned
+1.01,Mobilization site survey & layout setting out,None,15,M01,M01,YES,Survey crew & site engineers
+1.02,Bored pile foundation installation (207 piles),1.01,45,M01,M02,YES,2 Piling rigs + 14 workers
+1.03,Pile head chipping integrity testing & lean concrete,1.02,15,M02,M03,YES,Air compressor crew + testing team
+1.04,Pile caps fabrication reinforcement & concreting,1.03,30,M03,M04,YES,16 Bar benders + 10 carpenters + pump crew
+1.05,Plinth beams & stilt grade slab concreting,1.04,20,M04,M04,YES,Plinth concrete & rebar gangs
+1.06,Stilt floor columns & shear walls to +3.00m,1.05,18,M04,M05,YES,Column shuttering & concreting crew
+1.07,First residential floor beam-slab cycle (+6.05m),1.06,20,M05,M06,YES,Floor slab formwork & rebar gang
+1.08,Second residential floor beam-slab cycle (+9.10m),1.07,18,M06,M06,YES,Floor slab formwork & rebar gang
+1.09,Third residential floor beam-slab cycle (+12.15m),1.08,18,M06,M07,YES,Floor slab formwork & rebar gang
+1.10,Fourth residential floor beam-slab cycle (+15.20m),1.09,18,M07,M08,YES,Floor slab formwork & rebar gang
+1.11,Fifth residential floor beam-slab cycle (+18.25m),1.10,18,M08,M08,YES,Floor slab formwork & rebar gang
+1.12,Sixth residential floor beam-slab cycle (+21.30m),1.11,18,M08,M09,YES,Floor slab formwork & rebar gang
+1.13,Terrace structural roof slab & parapet beam (+21.30m),1.12,18,M09,M10,YES,Floor slab formwork & rebar gang
+1.14,Mumty room lift machine room & OHT tank (+24.00m),1.13,20,M10,M10,YES,Terrace core concrete gang
+1.15,External 230mm & internal 115mm brick masonry,1.09 (lagged),75,M07,M10,NO,16 Masons + 24 helpers
+1.16,Terrace elastomeric waterproofing & brick-bat coba,1.14,25,M10,M11,YES,Waterproofing specialist gang
+1.17,Internal electrical conduit wiring & plumbing drops,1.15 (lagged),60,M08,M11,NO,MEP installers & electricians
+1.18,Internal cement plastering & ceiling punning,1.17 (lagged),60,M09,M12,NO,24 Plasterers + helpers
+1.19,External 18mm waterproof plastering (scaffolding),1.14,45,M10,M12,YES,External plastering gang
+1.20,Flooring tiling & stone works in flats & stairs,1.18 (lagged),50,M11,M13,NO,12 Tile masons + helpers
+1.21,Door frames window frames glazing & railings,1.18 (lagged),45,M11,M13,NO,Carpenters & aluminium fitters
+1.22,Interior & exterior painting and polish,1.20,40,M12,M14,YES,Painters & helpers
+1.23,Sanitary fixtures electrical switches lift commissioning,1.21,30,M13,M14,NO,MEP fit-out specialists
+1.24,Final testing cleaning snagging & handover,1.22,30,M14,M15,YES,Commissioning team & QA/QC

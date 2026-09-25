@@ -1,0 +1,15 @@
+{
+  "project_id": "MHDC-PMAY-KHAIRI-KAMPTEE-2023",
+  "project_title": "Construction of Affordable Housing Project of 1444 LIG Tenements Under PMAY(U) at Khairi, Kamptee, Nagpur",
+  "client": {
+    "name": "Maharashtra Housing Development Corporation Limited (MHDC)",
+    "sector": "State PSU"
+  },
+  "selected_model_scope": {
+    "scope_description": "LIG Tenement Block (one typical block)"
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DOCUMENT_AUDIT_IN_PROGRESS"
+  }
+}

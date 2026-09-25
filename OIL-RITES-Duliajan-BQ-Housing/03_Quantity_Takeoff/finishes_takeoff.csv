@@ -1,0 +1,14 @@
+Item ID,Finish Item,Surface Category,Location / Scope,Formula / Basis,Total Quantity,Unit,Material Specification,Drawing Source
+FIN-001,Internal wall plaster 12mm,Plastering,Living bed kitchen corridor walls,2 x net internal partitions + inner face external walls,9200.00,sq.m,Cement mortar 1:6 with neat cement punning,AR/TD/016-017 & DBR
+FIN-002,Ceiling plaster 6mm,Plastering,Soffits of all slabs & beams,Underside of 6 typical slabs + stilt ceiling + beams,2800.00,sq.m,Cement mortar 1:3 smooth sponge finish,AR/TD/016-017 & DBR
+FIN-003,External wall plaster 18mm,Plastering,Exterior building facade,Gross facade area less openings + reveals,2850.00,sq.m,Two coats (12mm 1:5 + 6mm 1:4 waterproof),AR/TD/010-011 & DBR
+FIN-004,Internal acrylic emulsion,Painting,All internal plastered surfaces,Internal wall plaster + ceiling plaster,12000.00,sq.m,Two coats premium acrylic emulsion over primer/putty,AR/TD/010-013 & DBR
+FIN-005,External weather-shield,Painting,All external plastered facade,External plaster area,2850.00,sq.m,Two coats exterior weather-shield acrylic emulsion,AR/TD/010-011 & DBR
+FIN-006,Synthetic enamel painting,Painting,Doors windows railings steel,Both faces doors railings grills louvers,850.00,sq.m,Two coats synthetic enamel paint over primer,AR/TD/014-015 & DBR
+FIN-007,Vitrified tile flooring,Flooring,Living dining bedrooms corridors,62.5 sqm per unit x 24 units = 1500 sqm,1500.00,sq.m,600x600mm double-charged vitrified tiles in CM 1:4,AR/TD/017 & DBR
+FIN-008,Anti-skid ceramic flooring,Flooring,Toilets & balconies,15.83 sqm per unit x 24 units = 380 sqm,380.00,sq.m,300x300mm anti-skid matte ceramic tiles in CM 1:4,AR/TD/017 & TD/019
+FIN-009,Glazed ceramic wall tiles,Dado,Toilets (2.1m ht) & kitchen counter,46.67 sqm per unit x 24 units = 1120 sqm,1120.00,sq.m,300x450mm glazed ceramic wall tiles in CM 1:3,AR/TD/017 & TD/019
+FIN-010,Kota stone flooring,Flooring,Staircase treads risers landings,7 floors x 45.7 sqm = 320 sqm,320.00,sq.m,25mm thick polished Kota stone with grooved nosing,AR/TD/013 & TD/021
+FIN-011,Granite kitchen platform,Platform,Kitchen counters in 24 units,2.7 sqm per unit x 24 units = 64.8 sqm,64.80,sq.m,18mm thick jet black polished granite over RCC slab,AR/TD/005 & TD/019
+FIN-012,VDF flooring,Flooring,Stilt floor parking & driveways,Full stilt floor plinth area,483.60,sq.m,100mm M20 vacuum dewatered concrete with ironite,AR/TD/016
+FIN-013,Terrace waterproofing,Waterproofing,Terrace structural roof slab,Full terrace plinth area,483.60,sq.m,Elastomeric membrane + brick-bat coba + china mosaic,AR/TD/018

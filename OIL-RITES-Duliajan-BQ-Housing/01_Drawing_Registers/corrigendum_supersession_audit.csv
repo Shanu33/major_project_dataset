@@ -1,0 +1,9 @@
+Original sheet ID,Original revision,Corrigendum sheet ID,New revision,Change described,Selected tower affected,Decision,Evidence
+RITES/BLD/AR/TD/001-025,R0,None (Vector addendum),R0,Technical queries addendum and clarification drawings,NO,CURRENT,90-page addendum audited; no geometric change to housing tower footprint or heights
+RITES/BLD/STR/TD/HOUSING(G+6)/100-110,R0,None (Vector addendum),R0,Structural clarification addendum,NO,CURRENT,207 pile count column schedules and beam framing preserved without change
+RITES/BLD/STR/TD/GH(G+3)/111-128,R0,None (Vector addendum),R0,Guest house clarifications,NO (EXCLUDED),NOT_RELEVANT,Guest house is outside single tower scope
+RITES/BLD/STR/TD/CS/129-143,R0,None (Vector addendum),R0,Community centre clarifications,NO (EXCLUDED),NOT_RELEVANT,Community centre is outside single tower scope
+RITES/BLD/STR/TD/ESS/144-150,R0,None (Vector addendum),R0,Substation clarifications,NO (EXCLUDED),NOT_RELEVANT,Substation is outside single tower scope
+RITES/BLD/EL/TEN/201-205,R0,None (Vector addendum),R0,Internal electrification clarifications,NO,CURRENT,Tower internal lighting and power schematics confirmed unchanged
+RITES/BLD/DR/TEN/401-404,R0,None (Vector addendum),R0,Internal plumbing & drainage clarifications,NO,CURRENT,Tower internal sanitary stacks confirmed unchanged
+RITES/BLD/FF/TEN/501-504,R0,None (Vector addendum),R0,Fire fighting riser clarifications,NO,CURRENT,Tower wet riser and hose reel schematics confirmed unchanged

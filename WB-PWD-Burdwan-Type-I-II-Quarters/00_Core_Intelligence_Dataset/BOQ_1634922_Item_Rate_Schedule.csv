@@ -1,0 +1,18 @@
+Item No,Sub-Head,Item Description,Quantity,Unit,Estimated Rate (INR),Estimated Amount (INR)
+1.1,Earthwork,"Earthwork in excavation of foundation trenches or drains in all kinds of soil including slurry or foul position including dressing sides and ramming bottoms, lift up to 1.5 m, lead up to 30 m as directed",1850,cum,182.40,337440.00
+1.2,Earthwork,"Filling in foundation trenches and under floor with good selected earth excavated from trenches in 150mm layers including watering and ramming",920,cum,115.60,106352.00
+2.1,PCC,"Plain cement concrete (1:3:6) with graded stone aggregate 20 mm nominal size in foundation and under floors",280,cum,5250.00,1470000.00
+2.2,RCC Substructure,"Reinforced cement concrete work in isolated footings, column bases, and plinth beams: M25 Grade design mix",340,cum,7150.00,2431000.00
+2.3,RCC Superstructure,"Reinforced cement concrete work in columns, beams, lintels, chajjas, staircases and roof slabs up to G+2 level: M25 Grade design mix",680,cum,7890.00,5365200.00
+3.1,Reinforcement Steel,"Supplying and placing in position thermo-mechanically treated (TMT) reinforcement bars Fe-500D for RCC work including cutting, bending, hooking, and binding wire",92,MT,73500.00,6762000.00
+4.1,Brick Masonry,"Brickwork with 1st class standard burnt clay bricks in foundation and superstructure up to 2nd floor level in cement mortar 1:4",520,cum,5620.00,2922400.00
+5.1,Plastering,"15 mm thick cement plaster (1:4) on brick walls and ceilings including rounding off corners and curing",6400,sqm,215.00,1376000.00
+5.2,External Plastering,"20 mm thick two-coat cement plaster (1:3) with waterproofing compound on external wall faces",3200,sqm,385.00,1232000.00
+6.1,Flooring,"Vitrified tile flooring (600x600 mm) of approved make laid over 20 mm thick cement mortar 1:4 in living, dining, and bedrooms",1450,sqm,1120.00,1624000.00
+6.2,Flooring,"Ceramic anti-skid floor tiles (300x300 mm) in toilets, bathrooms, and cooking area over cement bed",380,sqm,860.00,326800.00
+7.1,Joinery,"Factory-made seasoned Sal wood door frame with 35 mm thick flush door shutters and anodized aluminum fittings",48,nos,6850.00,328800.00
+7.2,Joinery,"Anodized aluminum two-track sliding windows with 4 mm float glass and insect proof mesh",72,nos,4250.00,306000.00
+8.1,Sanitary & Plumbing,"Complete internal water supply distribution with CPVC pipes, vitreous china sanitary ware, CP fittings, and UPVC drainage stacks (Type-I & Type-II quarters)",16,units,68000.00,1088000.00
+9.1,Electrical Installation,"Internal electrification with concealed rigid PVC conduit wiring, FRLS copper conductors, modular switches, DBs, and earthing installation",16,units,58000.00,928000.00
+10.1,Campus Infrastructure,"External site infrastructure: RCC septic tank, soak well, boundary wall, entrance gate, internal paved pathway, and peripheral surface drainage",1,job,5956008.00,5956008.00
+Total,,,,,,32500000.00

@@ -1,0 +1,7 @@
+Cost Parameter,Full Project Value,Single Tower Benchmark Allocation,Unit,Validation Status,Confidence,Use for Model Validation,Reason / Audit Finding
+Total Contract Award Baseline,1281400000,160175000,INR,NOT_VALIDATED,LOW,NO,"Contract awarded to M/s Badri Rai & Company for ₹128.14 Cr (excl GST) per Dec 2025 tender dealt record. Pro-rata 1/8th allocation (₹16.0175 Cr) is a rough project-level benchmark only, not validated tower cost."
+Estimated Civil & Structural Base Cost,-,81500000,INR,NOT_VALIDATED,LOW,NO,Derived from CPWD DSR market rates applied to drawing takeoffs. No itemized official BOQ/rate/amount available for selected tower scope.
+Estimated MEP & Services Base Cost,-,24500000,INR,NOT_VALIDATED,LOW,NO,Assumed 30% rule of thumb. No itemized official BOQ/rate/amount available for selected tower scope.
+Estimated Finishes & Architectural Base Cost,-,19000000,INR,NOT_VALIDATED,LOW,NO,Assumed market finishing rates. No itemized official BOQ/rate/amount available for selected tower scope.
+Single Tower Estimated Direct Cost,-,125000000,INR,NOT_VALIDATED,LOW,NO,"Engineering takeoff synthesis (~₹36,556/sq.m plinth area). No official priced BOQ available for selected tower scope."
+Cost Accuracy Summary,-,-,-,NOT_CALCULATED,LOW,NO,Cost accuracy: NOT CALCULATED. Reason: no official itemized priced BOQ available for the selected tower scope.

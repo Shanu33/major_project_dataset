@@ -1,0 +1,16 @@
+{
+  "building_name": "E-Type Staff Quarters Building",
+  "structural_parameters": {
+    "above_ground_storeys": 4,
+    "stilt_parking": true,
+    "basement_levels": "NOT_AVAILABLE - Requires PDF page extraction",
+    "foundation_type": "NOT_AVAILABLE - Requires PDF page extraction",
+    "floor_to_floor_height_m": "NOT_AVAILABLE - Requires PDF page extraction"
+  },
+  "architectural_parameters": {
+    "total_built_up_area_sqm": "NOT_AVAILABLE - Requires PDF page extraction",
+    "number_of_units": "NOT_AVAILABLE - Requires PDF page extraction",
+    "unit_configurations": "NOT_AVAILABLE - Requires PDF page extraction"
+  },
+  "notes": "Information extracted from file_manifest.csv and Award_Summary_Biswas_Engineering.md. Detailed parameters require extraction from volume02.pdf (Technical Specifications/Drawings)."
+}

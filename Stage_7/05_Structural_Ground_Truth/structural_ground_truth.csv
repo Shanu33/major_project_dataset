@@ -1,0 +1,9 @@
+project_id,foundation_type,concrete_grade,source_document,origin,confidence
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,MISSING,M20,Text Extraction,DIRECT,MEDIUM
+EPI-Dhenkanal-ICDS-Staff-Quarters,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+MHDC-PMAY-Khairi-Kamptee-Nagpur,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+NIT-Nalanda,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+OIL-RITES-Duliajan-BQ-Housing,MISSING,M30,Text Extraction,DIRECT,MEDIUM
+SBI-DN-Nagar-Andheri-122-Flats,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+SBI-GIFT-City-Twin-Towers,MISSING,M30,Text Extraction,DIRECT,MEDIUM
+TCIL-NVS-JNV-Azamgarh-Quarters,MISSING,MISSING,Text Extraction,MISSING,MEDIUM

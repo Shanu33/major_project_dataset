@@ -1,0 +1,6 @@
+document_id,document_category,filename,relative_path,file_size_bytes,project_identity_match,selected_scope_match,authority_status,usable_for_model_input,usable_as_training_target_evidence,notes
+DFC-DOC-001,Tender_Document,Tender_Document_Quarter_KQR_HZB_RJ3Y.pdf,00_Core_Intelligence_Dataset/Tender_Document_Quarter_KQR_HZB_RJ3Y.pdf,3330847,YES,YES,OFFICIAL,YES,YES,"Master Tender Document containing BOQ and specs"
+DFC-DOC-002,NIT,NIT_for_KKK_EN_QTR_DHN_I_PH_I_I4PB.pdf,00_Core_Intelligence_Dataset/NIT_for_KKK_EN_QTR_DHN_I_PH_I_I4PB.pdf,489940,YES,YES,OFFICIAL,YES,NO,"NIT document for the quarters project"
+DFC-DOC-003,Tender_Document,Tender_document_DHN_I_ZDV9.pdf,00_Core_Intelligence_Dataset/Tender_document_DHN_I_ZDV9.pdf,2478165,YES,YES,OFFICIAL,YES,YES,"Tender document for balance work execution"
+DFC-DOC-004,Tender_Document,Tender_document_QTR_14_ZCW3.pdf,99_Unverified_or_Related_References/Tender_document_QTR_14_ZCW3.pdf,2582278,UNCERTAIN,UNCERTAIN,OFFICIAL,NO,NO,"Unverified reference tender document"
+DFC-DOC-005,Tender_Document,Tender_document_dhn_ddu_3EW4.pdf,99_Unverified_or_Related_References/Tender_document_dhn_ddu_3EW4.pdf,1531365,UNCERTAIN,UNCERTAIN,OFFICIAL,NO,NO,"Unverified reference tender document"

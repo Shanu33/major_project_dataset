@@ -1,0 +1,41 @@
+{
+  "project_id": "TCIL-NVS-JNV-AZAMGARH-QUARTERS-2024",
+  "document_name": "Volume2_Financial_Bid_BOQ_Drawings.pdf",
+  "page_number": 51,
+  "drawing_title": "AOR Road.. Page No. 2",
+  "elements": [
+    {
+      "element_id": "ROAD-PAVEMENT-1",
+      "element_type": "CC_PAVEMENT",
+      "dimensions": {
+        "length_m": {"value": 10.00, "origin": "DIRECT"},
+        "width_m": {"value": 3.50, "origin": "DIRECT"},
+        "depth_m": {"value": 0.15, "origin": "DIRECT"}
+      },
+      "count": {"value": 1, "origin": "DIRECT"},
+      "material": {
+        "concrete_grade": "M-25",
+        "origin": "DIRECT"
+      },
+      "source_evidence": "S.N. 10 Providing and laying C.C. pavement of mix M-25... detailed measurement row",
+      "confidence": "HIGH"
+    },
+    {
+      "element_id": "ROAD-KERB-1",
+      "element_type": "KERB_STONE",
+      "dimensions": {
+        "length_m": {"value": 10.00, "origin": "DIRECT"},
+        "width_m": {"value": 0.15, "origin": "DIRECT"},
+        "depth_m": {"value": 0.45, "origin": "DIRECT"}
+      },
+      "count": {"value": 2, "origin": "DIRECT"},
+      "material": {
+        "concrete_grade": "M-25",
+        "origin": "DIRECT"
+      },
+      "source_evidence": "S.N. 9 Providing and laying... kerb stone... detailed measurement row",
+      "confidence": "HIGH"
+    }
+  ]
+}
+

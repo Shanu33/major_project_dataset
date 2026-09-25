@@ -1,0 +1,4 @@
+category,expected_count,extracted_count,missing_count,notes
+Architectural,0,4,0,"Partially extracted from MD files"
+Structural,0,1,0,"Partially extracted from MD files"
+MEP,0,0,0,"Pending extraction"

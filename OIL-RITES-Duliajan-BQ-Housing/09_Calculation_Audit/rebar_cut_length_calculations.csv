@@ -1,0 +1,10 @@
+Bar Mark ID,Member Description,Member Dimensions (mm),Clear Cover (mm),Bar Diameter (mm),Straight Length (mm),Hook / Lap Additions (mm),Bend Deductions (mm),Net Cut Length (mm),Governing Formula,Confidence Status
+BM-C1-01,C1 Column Vertical,1200 x 350,40,32,3000,1600,150,3450,Clear floor ht (3000) + Lap (50d = 1600) - Cranking deduction,CODE_DERIVED_ASSUMPTION
+BM-C2-01,C2 Column Vertical,1200 x 300,40,25,3000,1250,100,3250,Clear floor ht (3000) + Lap (50d = 1250) - Cranking deduction,CODE_DERIVED_ASSUMPTION
+BM-C3-01,C3 Column Vertical,1200 x 300,40,20,3000,1000,80,3250,Clear floor ht (3000) + Lap (50d = 1000) - Cranking deduction,CODE_DERIVED_ASSUMPTION
+BM-FB-01,Floor Beam Top Extra,230 x 600,30,25,1200,950,50,2100,Span/3 (1200) + Anchorage Ld (950) - Bend 2d,CODE_DERIVED_ASSUMPTION
+BM-FB-02,Floor Beam Bottom Main,230 x 600,30,20,3600,650,50,4200,Clear span (3600) + 2x Anchorage into columns - Bends,CODE_DERIVED_ASSUMPTION
+BM-FB-04,Beam Stirrup 2-legged,230 x 600,30,8,1480,120,50,1550,2*(170 + 540) + 2*Hook(75) - 3*90deg(2d),CODE_DERIVED_ASSUMPTION
+BM-SL-01,Slab Bottom Bar,Span 3600 x 125,20,8,3600,950,50,4500,Clear span (3600) + 2x Ld anchorage into beams - Bends,CODE_DERIVED_ASSUMPTION
+BM-ST-01,Stair Waist Slab Bar,Waist 150,25,12,3200,1050,50,4200,Incline length (3200) + Landing embedded length - Bends,CODE_DERIVED_ASSUMPTION
+BM-PL-01,Bored Pile Longitudinal,600 Dia x 18000,75,20,18000,1000,0,18500,Pile shaft length (18000) + Cap development length (1000),ESTIMATED

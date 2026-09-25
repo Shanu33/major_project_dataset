@@ -1,0 +1,11 @@
+Element Mark,Element Type,Cross Section (mm),Count per Floor,Number of Levels,Total Member Count,Clear Height per Level (m),Total Height (m),Gross Volume (m3),Concrete Grade,Drawing Reference,Confidence Status,Audit Notes
+C1,Column,1200 x 350,4,7,28,3.00,21.00,35.28,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+C2,Column,1200 x 300,8,7,56,3.00,21.00,60.48,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+C3,Column,1200 x 300,4,7,28,3.00,21.00,30.24,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW1,Shear Wall,1260 x 230,12,7,84,3.00,21.00,73.03,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW2,Shear Wall,1500 x 230,4,7,28,3.00,21.00,28.98,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW3,Shear Wall,1380 x 230,4,7,28,3.00,21.00,26.66,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW4,Shear Wall,2925 x 230,4,7,28,3.00,21.00,56.51,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW5,Shear Wall,5030 x 230,4,7,28,3.00,21.00,97.18,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Exact schedule on Sheet 104; 3.0m height assumed repeated across 7 levels
+SW6-SW10,Core Shear Walls,13890 x 230,5,7,35,3.00,21.00,67.09,M30,STR/TD/HOUSING(G+6)/104,MEDIUM,Lift and duct walls totaling 13.89m run length; 3.0m clear height assumed repeated
+PED-MUM,Mumty Columns/Pedestals,300 x 300 / 350 x 350,8,1,8,2.70,2.70,6.74,M30,STR/TD/HOUSING(G+6)/109,MEDIUM,Columns supporting mumty roof and water tank frame

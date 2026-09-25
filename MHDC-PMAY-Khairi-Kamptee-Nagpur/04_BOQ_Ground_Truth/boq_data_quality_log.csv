@@ -1,0 +1,2 @@
+issue_id,file_name,page_number,item_no,issue_type,description,severity,resolution_status
+001,VolumeIK-P1.pdf,ALL,ALL,MISSING_BOQ,No detailed BOQ found in Volume I. Likely in Volume II or missing.,HIGH,PENDING

@@ -1,0 +1,4 @@
+Element Description,Level,Number of Flights / Units,Waist Slab / Wall Thick (mm),Flight Length / Plan Area (m/sq.m),Width / Height (m),Net Volume (m3),Concrete Grade,Drawing Reference,Confidence Status,Audit Notes
+Doglegged Staircase Cores (2 nos),Stilt to Terrace,28,150,3.20m flight / 1.50m landing,1.20m width,26.60,M30,STR/TD/HOUSING(G+6)/110,MEDIUM,Flight geometry scheduled on Sheet 110; repeated flight multiplier across 28 flights
+Mumty Enclosure & Roof Slab,Terrace to Mumty,1,125,35.20 sq.m slab + walls,2.70m ht,10.03,M30,STR/TD/HOUSING(G+6)/109,MEDIUM,Mumty enclosure dimensions scheduled on Sheet 109
+Overhead Water Tank (OHT),Above Mumty Roof,2,150 (walls) / 200 (base),28.00 sq.m footprint,2.20m ht,16.50,M30,STR/TD/HOUSING(G+6)/109 & MEP,ASSUMPTION_REQUIRED,Twin compartment tank; wall/slab thickness estimated (ASM-010) without structural schedule

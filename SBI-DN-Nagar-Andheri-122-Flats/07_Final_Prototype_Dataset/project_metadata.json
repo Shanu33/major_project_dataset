@@ -1,0 +1,23 @@
+{
+  "project_id": "SBI-DN-NAGAR-ANDHERI-122-FLATS-2024",
+  "project_title": "Redevelopment of SBI Staff Quarters at DN Nagar, Andheri (West), Mumbai",
+  "client": {
+    "name": "State Bank of India",
+    "sector": "Banking PSU"
+  },
+  "tender_reference": "SBI/CC/LHO/MUM/2023-24/02",
+  "location": {
+    "city": "Andheri",
+    "district": "Mumbai",
+    "state": "Maharashtra"
+  },
+  "contract_type": "EPC",
+  "selected_model_scope": {
+    "scope_description": "One Executive Quarters High-Rise Tower (2B+Stilt+17)",
+    "dwelling_units": 122
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DOCUMENT_AUDIT_IN_PROGRESS"
+  }
+}

@@ -1,0 +1,7 @@
+Item ID,Masonry Type,Location / Level,Wall Thickness (m),Gross Length (m),Clear Height (m),Gross Area (sq.m),Deductions Area (sq.m),Net Wall Area (sq.m),Net Volume (m3),Mortar Ratio,Drawing Source
+MAS-001,External perimeter brickwork,Floors 1 to 6 (typical),0.230,92.32 per floor,2.600,1440.19,330.01,1110.18,255.34,CM 1:6,AR/TD/007 & TD/010-011
+MAS-002,Terrace parapet brickwork,Terrace level (+21.30m),0.230,92.32 perimeter,1.000,92.32,0.00,92.32,21.23,CM 1:6,AR/TD/008 & TD/012
+MAS-003,Stilt perimeter screening walls,Stilt floor (+0.00m),0.230,55.00 perimeter,2.750,151.25,0.00,151.25,34.79,CM 1:6,AR/TD/006
+MAS-004,Mumty room external brickwork,Terrace (+21.30m to +24.0m),0.230,24.00 perimeter,2.700,64.80,6.00,58.80,13.52,CM 1:6,AR/TD/009
+MAS-005,Internal partition brickwork,Floors 1 to 6 (typical),0.115,185.00 per floor,2.600,2886.00,288.00,2598.00,298.77,CM 1:4 with hoop iron,AR/TD/005 & TD/007
+MAS-SUMMARY,TOTAL BRICK MASONRY,Entire Tower Scope,Both 230mm & 115mm,Various,Various,4634.56,624.01,4010.55,623.65,CM 1:6 / 1:4,Architectural Drawings

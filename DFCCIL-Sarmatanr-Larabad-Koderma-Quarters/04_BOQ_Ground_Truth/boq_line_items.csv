@@ -1,0 +1,9 @@
+item_no,sub_head,description,quantity,unit,rate,amount,source_page,extraction_method,confidence
+"Schedule A","Civil","Type-II Quarters (Three Storied, Block of 6 units)",,,"",15583024.51,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule B","Civil","Type-II Quarters (Single Storied, Block of 2 units)",,,"",1298585.38,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule C","Civil","Type-II Quarters (Single Storied, Block of 1 unit)",,,"",162323.17,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule D","Civil","Type-III Quarters (Single Storied, Block of 1 unit)",,,"",214564.78,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule E","Civil","Type-IV Quarters (Single Storied, Block of 1 unit)",,,"",266371.28,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule F","Civil","Deep Boring & ROW Demarcation",200,"Hours","",161200.00,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule G","MEP","Deep Boring & Hand Pumps",,,"",354313.00,"Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"
+"Schedule H","MEP","Internal & External Electrification",,,"","","Detailed_BOQ_Cost_Abstract_and_Schedule_of_Prices.md","manual","high"

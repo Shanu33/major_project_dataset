@@ -1,0 +1,39 @@
+{
+  "project_id": "string",
+  "document_name": "string",
+  "page_number": "integer",
+  "drawing_number": "string",
+  "extraction_method": "string",
+  "verification_status": "string",
+  "elements": [
+    {
+      "element_id": "string",
+      "element_type": "string",
+      "dimensions": {
+        "length": {
+          "value": "float",
+          "unit": "string",
+          "origin": "DIRECT"
+        },
+        "width": {
+          "value": "float",
+          "unit": "string",
+          "origin": "DIRECT"
+        },
+        "depth": {
+          "value": "float",
+          "unit": "string",
+          "origin": "DIRECT"
+        }
+      },
+      "count": {
+        "value": "integer",
+        "origin": "DIRECT"
+      },
+      "source_evidence": {
+        "document": "string",
+        "page": "integer"
+      }
+    }
+  ]
+}

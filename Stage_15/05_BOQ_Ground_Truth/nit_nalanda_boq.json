@@ -1,0 +1,31 @@
+[
+  {
+    "project_id": "NIT-Nalanda",
+    "document_name": "05.-boq-schedule-b-combined.pdf",
+    "page_number": 1,
+    "item_no": "1.003",
+    "dsr_ref": "20.2.5",
+    "description": "Boring, providing and installing bored cast-in-situ reinforced cement concrete piles of grade M-25... (c) : 600 mm dia piles",
+    "unit": "Metre",
+    "quantity": 51259,
+    "rate": 3444.81,
+    "amount": 176577656,
+    "extraction_method": "VLM_AGENT",
+    "confidence": "HIGH"
+  },
+  {
+    "project_id": "NIT-Nalanda",
+    "document_name": "05.-boq-schedule-b-combined.pdf",
+    "page_number": 1,
+    "item_no": "1.004",
+    "dsr_ref": "20.2A.1",
+    "description": "Boring, providing and installation bored cast-in-situ reinforced cement concrete piles of grade M-25... Crawler mounted, telescopic boom hydraulic pilling Rig... 600 mm dia piles",
+    "unit": "Metre",
+    "quantity": 7293,
+    "rate": 4680.68,
+    "amount": 34136173,
+    "extraction_method": "VLM_AGENT",
+    "confidence": "HIGH"
+  }
+]
+

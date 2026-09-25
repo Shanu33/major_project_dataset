@@ -1,0 +1,24 @@
+document_id,document_category,filename,relative_path,file_size_bytes,project_identity_match,selected_scope_match,authority_status,usable_for_model_input,usable_as_training_target_evidence,notes
+DHK-DOC-001,Unknown,README.md,README.md,3226,TRUE,TRUE,Official,FALSE,FALSE,
+DHK-DOC-002,Unknown,file_manifest.csv,file_manifest.csv,9661,TRUE,TRUE,Official,FALSE,FALSE,
+DHK-DOC-003,Metadata,Award_Summary_Biswas_Engineering.md,00_Core_Intelligence_Dataset/Award_Summary_Biswas_Engineering.md,767,TRUE,TRUE,Official,FALSE,TRUE,Award summary documentation
+DHK-DOC-004,Unknown,NITdated250927.pdf,00_Core_Intelligence_Dataset/NITdated250927.pdf,459317,TRUE,TRUE,Official,FALSE,FALSE,
+DHK-DOC-005,NIT / Contract Conditions,Volume1.pdf,00_Core_Intelligence_Dataset/Volume1.pdf,18213831,TRUE,TRUE,Official,TRUE,FALSE,Likely NIT and conditions of contract
+DHK-DOC-006,BOQ,Volume3.pdf,00_Core_Intelligence_Dataset/Volume3.pdf,426014,TRUE,TRUE,Official,TRUE,TRUE,Likely BOQ schedule
+DHK-DOC-007,Drawings & Specs (Copy),volume2.pdf,00_Core_Intelligence_Dataset/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-008,Unknown,NITdated250927.pdf,01_Tender_NIT_PreBid/NITdated250927.pdf,459317,TRUE,TRUE,Official,FALSE,FALSE,
+DHK-DOC-009,NIT / Contract Conditions,Volume1.pdf,01_Tender_NIT_PreBid/Volume1.pdf,18213831,TRUE,TRUE,Official,TRUE,FALSE,Likely NIT and conditions of contract
+DHK-DOC-010,BOQ,Volume3.pdf,01_Tender_NIT_PreBid/Volume3.pdf,426014,TRUE,TRUE,Official,TRUE,TRUE,Likely BOQ schedule
+DHK-DOC-011,Drawings & Specs (Copy),volume2.pdf,01_Tender_NIT_PreBid/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-012,BOQ,Volume3.pdf,02_Cost_BOQ_Makes/Volume3.pdf,426014,TRUE,TRUE,Official,TRUE,TRUE,Likely BOQ schedule
+DHK-DOC-013,Drawings & Specs,volume02.pdf,03_Technical_Specifications_Reports/volume02.pdf,21720220,TRUE,TRUE,Official,TRUE,FALSE,Likely contains architectural and structural drawings. HIGH PRIORITY for extraction.
+DHK-DOC-014,Drawings & Specs,volume2.pdf,03_Technical_Specifications_Reports/volume2.pdf,689340,TRUE,TRUE,Official,TRUE,FALSE,Likely contains architectural and structural drawings. HIGH PRIORITY for extraction.
+DHK-DOC-015,Drawings & Specs (Copy),volume2.pdf,04_Architectural_Drawings/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-016,Drawings & Specs (Copy),volume2.pdf,05_Structural_Drawings/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-017,Drawings & Specs (Copy),volume2.pdf,06_MEP_Services/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-018,Drawings & Specs (Copy),volume2.pdf,07_Landscape_Infrastructure/volume2.pdf,689340,TRUE,TRUE,Official,FALSE,FALSE,Duplicate retained for structure
+DHK-DOC-019,Work Order,10Cr_22May2024_01_WO.pdf,08_Execution_Actuals/10Cr_22May2024_01_WO.pdf,303527,TRUE,TRUE,Official,FALSE,TRUE,Execution stage document showing awarded amounts
+DHK-DOC-020,Work Order,10Cr_23Feb2024_01_WO.pdf,08_Execution_Actuals/10Cr_23Feb2024_01_WO.pdf,304636,TRUE,TRUE,Official,FALSE,TRUE,Execution stage document showing awarded amounts
+DHK-DOC-021,Work Order,10Cr_24Apr2024_01_WO.pdf,08_Execution_Actuals/10Cr_24Apr2024_01_WO.pdf,305572,TRUE,TRUE,Official,FALSE,TRUE,Execution stage document showing awarded amounts
+DHK-DOC-022,Metadata,Award_Summary_Biswas_Engineering.md,08_Execution_Actuals/Award_Summary_Biswas_Engineering.md,767,TRUE,TRUE,Official,FALSE,TRUE,Award summary documentation
+DHK-DOC-023,Unknown,.gitkeep,99_Unverified_or_Related_References/.gitkeep,0,TRUE,TRUE,Official,FALSE,FALSE,

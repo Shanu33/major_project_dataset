@@ -1,0 +1,4 @@
+Prediction_Task,Unit,X_Available,Y_Available,N_Projects,N_Samples,Leakage,Status
+Concrete Quantity,Element,YES,YES,1,54,PASS,DATA_ACQUISITION_REQUIRED
+Steel Quantity,Element,NO,NO,0,0,FAIL,DATA_ACQUISITION_REQUIRED
+Labour,Project,NO,NO,0,0,FAIL,DATA_ACQUISITION_REQUIRED

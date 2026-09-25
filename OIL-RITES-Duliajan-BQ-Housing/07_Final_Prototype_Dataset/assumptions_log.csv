@@ -1,0 +1,11 @@
+Assumption ID,Scope Trade,Parameter Name,Adopted Value,Engineering Basis,Governing Standard,Sensitivity / Impact,Confidence Classification
+ASM-001,Geotechnical / Piling,Average pile length,18.0 m,Depth into dense sand/gravel stratum per DBR range 15-20m,IS 2911:2010 & DBR p.35,HIGH - Foundation concrete volume baseline,ESTIMATED
+ASM-002,Geotechnical / Piling,Pile rebar percentage,1.20% by volume (8-T20 cage),Seismic moment confinement at pile head,IS 13920 & IS 2911,HIGH - Substructure steel baseline,ESTIMATED
+ASM-003,Foundation / Caps,Average pile cap thickness,1.0 m,Two-way shear & punching shear capacity,IS 456:2000 Cl 34,MEDIUM - Pile cap concrete volume,ESTIMATED
+ASM-004,Superstructure / Framing,Column/Wall rebar intensity,Scheduled (172.5 kg/m3 avg),Integration of schedules C1-C3 SW1-SW10,STR/TD/104 & IS 13920,HIGH - Heavy Zone V ductile steel,MEDIUM
+ASM-005,Superstructure / Framing,Beam rebar intensity,Scheduled (140.0 kg/m3 avg),Longitudinal and shear reinforcement integration,STR/TD/108 & IS 13920,HIGH - Beam reinforcement baseline,MEDIUM
+ASM-006,Superstructure / Slabs,Slab rebar intensity,Scheduled (90.0 kg/m3 avg),Two-way mesh T8@125 / T8@150 c/c,STR/TD/107 & IS 456,MEDIUM - Floor slab steel baseline,MEDIUM
+ASM-007,Architectural / Masonry,External wall opening deductions,23.0% gross area,Direct deduction of windows and doors,"AR/TD/005, 010, 011",LOW - Net brickwork precision,MEDIUM
+ASM-008,Architectural / Masonry,Internal wall opening deductions,10.0% gross area,Direct deduction of door openings D1-D3,"AR/TD/005, 007",LOW - Net partition brickwork,MEDIUM
+ASM-009,Architectural / Finishes,Plaster thickness,12mm int / 18mm ext,Two-coat waterproof external plaster,CPWD Specifications 2019,LOW - Plaster volume precision,MEDIUM
+ASM-010,Superstructure / Tanks,OHT Wall & Slab Dimensions,150mm walls / 200mm base,Standard water retaining structure practice,IS 3370,LOW - OHT concrete/steel precision,ESTIMATED

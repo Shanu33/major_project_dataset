@@ -1,0 +1,2 @@
+project_id,element_id,boq_item_id,relationship_type,mapping_confidence,reason
+NIT-Nalanda,P1,1.003,PARTIAL_MATCH,HIGH,BOQ describes 600mm dia piles in running metres. Drawing confirms pile is 600mm dia. Total count unknown from drawing so absolute quantities cannot be compared.

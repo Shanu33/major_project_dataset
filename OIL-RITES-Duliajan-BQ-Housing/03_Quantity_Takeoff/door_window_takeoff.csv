@@ -1,0 +1,18 @@
+Mark,Type Description,Width (mm),Height (mm),Frame Material,Shutter Material,Count per Unit,Count per Floor,Total Count,Unit Area (sq.m),Total Area (sq.m),Location / Remarks,Drawing Reference
+D1,Flush Door,800,2100,WPC Frame,WPC Flush Shutter,2,8,48,1.68,80.64,Toilets,AR/TD/005 & TD/014
+D2,Flush Door,1000,2100,Teak Wood (100x60mm),35mm Blockboard Flush Shutter,4,16,96,2.10,201.60,Bedrooms / Kitchen / Study,AR/TD/005 & TD/014
+D3,Main Entry Door,1050,2100,Teak Wood (120x60mm),Flush Door + SS Wire Mesh Shutter,1,4,24,2.21,52.92,Apartment Main Entrance,AR/TD/005 & TD/014
+DW1,Door-Window Combo,2000,2100,Teak Wood Frame,Flush Door + Casement Glass Window,2,8,48,4.20,201.60,Bedroom Balconies,AR/TD/005 & TD/014
+DW2,Door-Window Combo,2295,2100,Teak Wood Frame,Flush Door + Casement Glass Window,1,4,24,4.82,115.67,Living Room Main Balcony,AR/TD/005 & TD/014
+SD1,Fire Rated MS Door,900,2100,MS Box Frame (50x50mm),Double Leaf MS (2-Hr Fire Rated),-,1,7,1.89,13.23,Electrical Shafts,AR/TD/005 & TD/015
+SD2,Service Door,600,2100,MS Angle Frame,Single Leaf MS Painted Shutter,-,1,7,1.26,8.82,Low Voltage (LV) Shafts,AR/TD/005 & TD/015
+SD3,Shaft Door,900,2100,MS Tubular Frame,Single Leaf MS with Vision Glass,-,1,7,1.89,13.23,Fire Hydrant / Hose Reel Shaft,AR/TD/005 & TD/015
+SD4,Mumty Door,1200,2100,MS Heavy Frame,Double Leaf MS Weatherproof,-,-,1,2.52,2.52,Terrace Mumty Entrance,AR/TD/005 & TD/015
+W1,Sliding Window,1200,1200,Aluminium (116.6x25mm),3-Track Sliding with SS Wire Mesh,2,8,48,1.44,69.12,Bedrooms,AR/TD/005 & TD/014
+W2,Kitchen Window,1000,1225,Aluminium Frame,Sliding Glass + MS Safety Grill,1,4,24,1.23,29.40,Kitchens,AR/TD/005 & TD/015
+W3,Staircase Window,2300,1100,Aluminium Frame,Partly Sliding cum Fixed Glass,-,1,7,2.53,17.71,Staircase Mid-Landings,AR/TD/005 & TD/015
+W4,Living Window,1200,1200,Aluminium Frame,Sliding Glass + MS Safety Grill,1,4,24,1.44,34.56,Living Rooms,AR/TD/005 & TD/015
+V1,Ventilator,515,875,Aluminium Frame,Fixed Frosted Glass + Exhaust Provision,1,4,24,0.45,10.81,Common Toilets,AR/TD/005 & TD/014
+V2,Ventilator,615,875,Aluminium Frame,Fixed Frosted Glass + Exhaust Provision,1,4,24,0.54,12.92,Attached Toilets,AR/TD/005 & TD/015
+RAIL-01,Staircase MS Railing,-,1000 ht,MS Square Balusters,50mm dia SS 304 Handrail,-,-,150.00,m,150.00,Staircase flights and landings,AR/TD/013 & TD/021
+RAIL-02,Balcony MS Railing,-,1000 ht,MS Ornamental Section,40mm MS Flat Handrail,-,48,288.00,m,288.00,Apartment Balcony Perimeters,AR/TD/010-011

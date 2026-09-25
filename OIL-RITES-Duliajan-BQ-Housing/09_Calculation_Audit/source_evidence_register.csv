@@ -1,0 +1,31 @@
+Evidence ID,Element / Topic,Source Document,Sheet ID,PDF Page,Dimension / Text Printed,Unit,Derivation,Confidence,Engineering Interpretation
+EVD-001,Footprint Length,Tender_drawing_1,RITES/BLD/AR/TD/006,10,30080,mm,Direct,HIGH,Overall outer structural dimension of stilt floor
+EVD-002,Footprint Width,Tender_drawing_1,RITES/BLD/AR/TD/006,10,16080,mm,Direct,HIGH,Overall outer structural dimension across cross-grid
+EVD-003,Stilt Plinth Area,Tender_drawing_1,RITES/BLD/AR/TD/001,4,483.60,sq.m,Direct,HIGH,Area schedule table for typical housing tower
+EVD-004,Typical Floor Plinth Area,Tender_drawing_1,RITES/BLD/AR/TD/001,4,483.60,sq.m,Direct,HIGH,Area schedule table for typical residential floors 1-6
+EVD-005,Mumty Plinth Area,Tender_drawing_1,RITES/BLD/AR/TD/001,4,34.18,sq.m,Direct,HIGH,Area schedule table for mumty & lift machine room
+EVD-006,Unit Carpet Area,Tender_drawing_1,RITES/BLD/AR/TD/005,9,69,sq.m,Direct,HIGH,Printed note on typical unit plan
+EVD-007,Unit Plinth Area,Tender_drawing_1,RITES/BLD/AR/TD/005,9,90,sq.m,Direct,HIGH,Printed note on typical unit plan
+EVD-008,Stilt Clear Height,Tender_drawing_1,RITES/BLD/AR/TD/012,16,3000,mm,Direct,HIGH,Finished ground level (+0.00) to First floor (+3.00m)
+EVD-009,Floor-to-Floor Height,Tender_drawing_1,RITES/BLD/AR/TD/012,16,3050,mm,Direct,HIGH,Typical residential floor level-to-level height
+EVD-010,Mumty Clear Height,Tender_drawing_1,RITES/BLD/AR/TD/012,16,2700,mm,Direct,HIGH,Terrace slab (+21.30m) to Mumty slab (+24.00m)
+EVD-011,Total Tower Height,Tender_drawing_1,RITES/BLD/AR/TD/010-013,14-17,24000,mm,Direct,HIGH,Ground level to top of mumty slab
+EVD-012,Bored Piles Count,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/100,16,207,piles,Direct,HIGH,Exact count of bored pile markers on foundation layout
+EVD-013,Pile Diameter,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/100,16,600,mm,Direct,HIGH,"Printed label: TYPICAL ELEVATION OF PILE (600MM DIA)"
+EVD-014,Pile Termination Depth,DBR Section 3 / GT Report,DBR_Design_Basis_Report,35,15.0 to 20.0 (18.0 avg),m,Derived,MEDIUM,Subsoil investigation recommendation for bearing strata
+EVD-015,Column C1 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1200x350: 14-T32 + 8-T25,mm,Direct,HIGH,Direct schedule table for Column C1 (4 nos per floor)
+EVD-016,Column C2 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1200x300: 22-T25,mm,Direct,HIGH,Direct schedule table for Column C2 (8 nos per floor)
+EVD-017,Column C3 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1200x300: 22-T20,mm,Direct,HIGH,Direct schedule table for Column C3 (4 nos per floor)
+EVD-018,Shear Wall SW1 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1260x230: 12-T12 + 4-T12,mm,Direct,HIGH,Direct schedule table for Shear Wall SW1 (12 nos per floor)
+EVD-019,Shear Wall SW2 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1500x230: 12-T16 + 6-T12,mm,Direct,HIGH,Direct schedule table for Shear Wall SW2 (4 nos per floor)
+EVD-020,Shear Wall SW3 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,1380x230: 12-T16 + 6-T12,mm,Direct,HIGH,Direct schedule table for Shear Wall SW3 (4 nos per floor)
+EVD-021,Shear Wall SW4 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,2925x230: 24-T12 + 12-T12,mm,Direct,HIGH,Direct schedule table for Shear Wall SW4 (4 nos per floor)
+EVD-022,Shear Wall SW5 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,5030x230: 32-T12+24-T12+14-T12,mm,Direct,HIGH,Direct schedule table for Shear Wall SW5 (4 nos per floor)
+EVD-023,Core Walls SW6-SW10,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/104,20,Combined Core Wall CW1 (230mm thk),mm,Direct,HIGH,Direct schedule for 5 core wall segments (28 to 46 bars T12)
+EVD-024,Plinth Beam Framing,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/105,21,PB1-PB34 at Level +300mm,mm,Direct,HIGH,Layout of 108 plinth beam segments
+EVD-025,Typical Beam Framing,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/107,23,B1-B34 at Typical Floors,mm,Direct,HIGH,Layout of 108 floor beam segments per floor
+EVD-026,Floor Slab S1 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/107,23,125mm: T8@125 / T8@150 c/c,mm,Direct,HIGH,Direct slab schedule on Sheet 107
+EVD-027,Floor Slab S2 Schedule,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/107,23,125mm: T10@125 / T10@150 c/c,mm,Direct,HIGH,Direct slab schedule on Sheet 107
+EVD-028,Staircase Geometry,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/110,26,Flight 1500mm R150 T300 Waist 150mm,mm,Direct,HIGH,Direct dimensions on staircase section
+EVD-029,Mumty & Tank Slabs,Tender_drawing_3,RITES/BLD/STR/TD/HOUSING(G+6)/109,25,Mumty 125mm OHT Bottom 200mm,mm,Direct,HIGH,Direct dimensions and slab schedule on Sheet 109
+EVD-030,EPC 8-Tower Scope,BoQ_3_Plumbing_Sanitary,BoQ_3_Plumbing_Sanitary,1,8 * 3419.38 = 27355 Sq.m,sq.m,Direct,HIGH,Item 1.01 master description establishing 3419.38 sqm/tower

@@ -1,0 +1,4 @@
+scope_element,expected_drawings,available_drawings,coverage_percentage,missing_critical_drawings,notes
+Tower 1 Architectural Floor Plates,Yes,Unknown,0% (Pending Extraction),TBD,"Requires extraction from PART_E_Tender_Drawings.pdf"
+Tower 1 Structural Shear Walls,Yes,Unknown,0% (Pending Extraction),TBD,"Requires extraction from PART_E_Tender_Drawings.pdf"
+Tower 1 Basement Layout,Yes,Unknown,0% (Pending Extraction),TBD,"Requires extraction from PART_E_Tender_Drawings.pdf"

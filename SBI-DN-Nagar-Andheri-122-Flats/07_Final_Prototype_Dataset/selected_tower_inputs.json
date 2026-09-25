@@ -1,0 +1,11 @@
+{
+  "tower_name": "Tower 1",
+  "building_type": "Executive Quarters High-Rise",
+  "floors": "2B+Stilt+17 Floors",
+  "dwelling_units": 122,
+  "built_up_area": "NOT_AVAILABLE",
+  "floor_to_floor_height": "NOT_AVAILABLE",
+  "foundation_type": "NOT_AVAILABLE",
+  "structural_system": "Shear Wall",
+  "notes": "Information extracted from file manifest and README. Detailed dimensions require PDF extraction."
+}

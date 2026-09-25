@@ -1,0 +1,35 @@
+{
+  "project_id": {
+    "value": "DFCCIL-SARMATANR-LARABAD-KODERMA-2024",
+    "source": "Prompt Instruction",
+    "status": "ASSUMPTION_REQUIRED"
+  },
+  "project_title": {
+    "value": "Construction of Railway Staff Quarters at Sarmatanr, Larabad & Koderma",
+    "source": "README.md - Section 1. Project Identity & Verification Summary",
+    "status": "VERIFIED"
+  },
+  "client": {
+    "name": {
+      "value": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)",
+      "source": "README.md - Section 1. Project Identity & Verification Summary",
+      "status": "VERIFIED"
+    },
+    "sector": {
+      "value": "Railway PSU",
+      "source": "Assumption based on client identity",
+      "status": "ASSUMPTION_REQUIRED"
+    }
+  },
+  "selected_model_scope": {
+    "scope_description": {
+      "value": "Staff Quarters Block (one station)",
+      "source": "Prompt Instruction / README.md Section 2",
+      "status": "VERIFIED"
+    }
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DOCUMENT_AUDIT_IN_PROGRESS"
+  }
+}

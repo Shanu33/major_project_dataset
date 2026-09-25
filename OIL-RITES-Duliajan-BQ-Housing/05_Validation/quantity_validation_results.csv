@@ -1,0 +1,15 @@
+Scope / Parameter Description,Calculated Takeoff,Official BOQ Ground Truth,Unit,Scope Consistency Check,Validation Status,Quantity Accuracy,Reason / Audit Remarks
+Tower Plinth Area,3419.38,3419.38,sq.m,PASS,SCOPE_CONSISTENCY_CHECK,N/A,Concordant with BoQ_3 Item 1.01 (27355 sqm / 8).
+Total Dwelling Units,24,24,units,PASS,SCOPE_CONSISTENCY_CHECK,N/A,4 units/floor x 6 residential floors (192 units / 8).
+Number of Storeys,Stilt + 6,Stilt + 6,storeys,PASS,SCOPE_CONSISTENCY_CHECK,N/A,Verified from architectural elevations and tender scope.
+Total Number of Towers,1 (out of 8),1 (out of 8),nos,PASS,SCOPE_CONSISTENCY_CHECK,N/A,Isolated single typical tower model.
+Foundation Bored Piles Count,207,Not in BOQ,piles,PASS,DRAWING_VERIFIED_COUNT,N/A,Direct count from structural sheet 100; pile length/depth not in BOQ.
+Vertical Structural Members Count,49,Not in BOQ,members,PASS,DRAWING_VERIFIED_COUNT,N/A,16 columns (C1-C3) + 33 shear walls (SW1-SW10) directly counted on Sheet 104.
+Scheduled Door Openings Count,216,Not in BOQ,nos,PASS,DRAWING_VERIFIED_COUNT,N/A,"Scheduled on Sheet 005 (48 D1, 96 D2, 72 D3)."
+Scheduled Window/Vent Openings,168,Not in BOQ,nos,PASS,DRAWING_VERIFIED_COUNT,N/A,"Scheduled on Sheet 005 (W1-W4, V1-V2)."
+RCC Concrete Volume (M30),2617.55,No BOQ Line Item,m3,N/A,NOT_VALIDATED,NOT_CALCULATED,No independent itemized BOQ quantities available for selected tower scope.
+PCC Lean Concrete (M10),18.00,No BOQ Line Item,m3,N/A,NOT_VALIDATED,NOT_CALCULATED,No independent itemized BOQ quantities available for selected tower scope.
+Reinforcement Steel (Fe 500D),300.85,No BOQ Line Item,MT,N/A,NOT_VALIDATED,NOT_CALCULATED,No independent itemized BOQ quantities available for selected tower scope.
+Brick Masonry Volume,623.65,No BOQ Line Item,m3,N/A,NOT_VALIDATED,NOT_CALCULATED,No independent itemized BOQ quantities available for selected tower scope.
+Cement Plaster Surface Area,14850.00,No BOQ Line Item,sq.m,N/A,NOT_VALIDATED,NOT_CALCULATED,No independent itemized BOQ quantities available for selected tower scope.
+Overall Material Validation Summary,-,-,-,N/A,Quantity validation coverage: 0%,NOT_CALCULATED,Reason: no independent itemized BOQ quantities available for selected tower scope.

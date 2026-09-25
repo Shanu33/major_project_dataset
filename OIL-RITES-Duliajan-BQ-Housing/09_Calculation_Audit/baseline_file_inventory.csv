@@ -1,0 +1,23 @@
+File,Current row count,Current status,Action,Reason
+03_Quantity_Takeoff/concrete_takeoff.csv,25,PRELIMINARY_COMBINED_ESTIMATE,CORRECTED,Disaggregate generic 'Various' rows into individual cap types beam marks and slab zones
+03_Quantity_Takeoff/reinforcement_takeoff.csv,16,PARAMETRIC_DENSITY_ESTIMATE,CORRECTED,Segregate bar mark schedules into MEDIUM and Estimated totals
+03_Quantity_Takeoff/civil_quantity_takeoff.csv,32,SYNTHESIZED_MASTER_LIST,CORRECTED,Harmonize with conservative formulas and remove BOQ ground truth validation claims
+03_Quantity_Takeoff/masonry_takeoff.csv,7,ROOM_NET_AREA_TAKEOFF,RETAINED,Calculations match architectural plan measurements and opening deductions
+03_Quantity_Takeoff/finishes_takeoff.csv,14,ROOM_FINISH_SCHEDULE_TAKEOFF,RETAINED,Room-wise finish areas directly tied to architectural layout sheets
+03_Quantity_Takeoff/door_window_takeoff.csv,18,SCHEDULE_BASED_COUNTS,RETAINED,Opening marks and frame dimensions directly verified on Sheets 005 014 015
+04_BOQ_Ground_Truth/boq_raw_extraction.csv,11,EPC_LUMP_SUM_SCHEDULE,RETAINED,Verbatim extraction from official EPC schedule BoQ_3
+04_BOQ_Ground_Truth/boq_tower_allocation.csv,10,CLAIMED_MATERIAL_GROUND_TRUTH,CORRECTED,Remove concrete steel and pile counts as BOQ ground truth; retain only plinth area and unit scope consistency
+05_Validation/cost_validation_results.csv,7,PARAMETRIC_COST_BENCHMARK,CORRECTED,Clarify that contract costs are area-allocated and not item-wise BOQ rate validated
+05_Validation/coverage_report.csv,8,DRAWING_COVERAGE_METRICS,RETAINED,Reflects drawing sheet availability across trades
+05_Validation/element_to_boq_mapping.csv,12,SCOPE_CROSS_REFERENCE,CORRECTED,Reflect EPC component scope matching rather than item-rate quantity mapping
+05_Validation/quantity_validation_results.csv,11,CLAIMED_ZERO_ERROR_VALIDATION,SUPERSEDED,Replace false claims of 0% quantity error with scope-consistency verification and drawing estimates
+05_Validation/validation_findings.md,28,PRELIMINARY_AUDIT_TEXT,CORRECTED,Rewrite findings to state clearly that no independent item-wise BOQ exists
+07_Final_Prototype_Dataset/assumptions_log.csv,11,ENGINEERING_ASSUMPTIONS,RETAINED,Document geotechnical and structural parameters
+07_Final_Prototype_Dataset/boq_ground_truth.csv,11,LUMP_SUM_ALLOCATION,CORRECTED,Retain area and unit metrics; mark material quantities as NO_INDEPENDENT_GROUND_TRUTH
+07_Final_Prototype_Dataset/calculated_quantities.csv,24,AGGREGATED_TAKEOFF,SUPERSEDED,Superseded by tripartite confidence files (MEDIUM estimated unsupported)
+07_Final_Prototype_Dataset/dataset_data_dictionary.md,35,METADATA_SPECIFICATION,RETAINED,Updated to reflect audit ledger schema
+07_Final_Prototype_Dataset/excluded_items.csv,13,NON_TOWER_REGISTER,RETAINED,Formal register of non-tower facilities
+07_Final_Prototype_Dataset/final_project_audit.md,24,PRELIMINARY_AUDIT,CORRECTED,Rewrite to standard audit verdict DRAWING_BASED_TAKEOFF_PARTIAL
+07_Final_Prototype_Dataset/project_metadata.json,48,PROJECT_METADATA,CORRECTED,Ensure Dec 2025 tender award context is reflected and March 2025 media award is excluded
+07_Final_Prototype_Dataset/selected_tower_inputs.json,34,ENGINEERING_INPUTS,RETAINED,Direct drawing-based geometric inputs
+07_Final_Prototype_Dataset/validated_items.csv,9,CLAIMED_VALIDATION_TABLE,CORRECTED,Restrict validation to scope and plinth area consistency

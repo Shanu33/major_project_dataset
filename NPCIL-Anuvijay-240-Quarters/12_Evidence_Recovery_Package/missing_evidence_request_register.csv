@@ -1,0 +1,4 @@
+request_id,priority,missing_document,reason
+REQ-NPCIL-ARCH,HIGH,"Complete Architectural Drawing Set (Floor plans, elevations, sections)",Required for building entity footprint and envelope modeling.
+REQ-NPCIL-STR,HIGH,"Complete Structural Drawing Set (Foundation, framing, sections)",Required for structural element quantification and rebar modeling.
+REQ-NPCIL-EXTRACTION,HIGH,Deep PDF Extraction of existing Tender Volumes,Missing drawings or BOQ may be embedded within the main tender PDF.

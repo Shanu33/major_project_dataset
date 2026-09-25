@@ -1,0 +1,2 @@
+document_name,total_pages,extracted_items,extraction_status,quality_issues,missing_sections,notes
+05.-boq-schedule-b-combined.pdf,NOT_AVAILABLE,0,PENDING_OCR,"Full text extraction not possible without visual OCR; PDF is image-based or locked","All sections currently missing",PDF OCR extraction is pending to populate line items.

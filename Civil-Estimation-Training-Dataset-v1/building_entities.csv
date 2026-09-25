@@ -1,0 +1,2 @@
+entity_id,project_id,entity_type,entity_name,storey_profile,plinth_area_sqm,dwelling_units,footprint_length_m,footprint_width_m,scope_status,source_reference
+DUL-BQ-TYPICAL-TOWER-001,OIL-RITES-DULIAJAN-BQ-HOUSING-2025,Residential tower,Typical BQ Workmen Housing Tower,Stilt + 6,3419.38,24,30.08,16.08,DIRECT_SCOPE_EVIDENCE,project_metadata.json; selected_tower_inputs.json; final_project_audit.md

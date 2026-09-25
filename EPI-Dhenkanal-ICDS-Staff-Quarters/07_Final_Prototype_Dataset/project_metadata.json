@@ -1,0 +1,29 @@
+{
+  "project_id": "EPI-DHENKANAL-ICDS-STAFF-QUARTERS-2022",
+  "project_title": "Construction of E-Type Staff Quarter (S+4) for ICDS Staff Quarter at Dhenkanal, Odisha",
+  "client": {
+    "name": "Department of Women & Child Development, Govt. of Odisha (ICDS)",
+    "sector": "Government"
+  },
+  "executing_agency": {
+    "name": "Engineering Projects (India) Limited"
+  },
+  "tender_reference": "EPI/CO/CON/977/861",
+  "location": {
+    "city": "Dhenkanal",
+    "state": "Odisha"
+  },
+  "contract_type": null,
+  "contract_award_value_inr_crore": 6.94,
+  "contract_duration_months": 15,
+  "total_complex_scope": {
+    "scope_description": "One E-Type Staff Quarters Building (S+4)"
+  },
+  "selected_model_scope": {
+    "scope_description": "One E-Type Staff Quarters Building"
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DRAWING_BASED_TAKEOFF_REQUIRES_RECONCILIATION"
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "filename": "1709981684_NIT334Rev.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Official Master Bid Document)",
+    "file_size": "26.8 MB",
+    "description": "Complete Volume I NIT & Bid Document - Trimbakeshwar EMRS (Tender No. WRO/CON/EMRS/872/334)",
+    "authority": "Engineering Projects (India) Limited (EPI)"
+  },
+  {
+    "filename": "1705477492_TenderNotice.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Official Reference Notice)",
+    "file_size": "644 KB",
+    "description": "Official EMRS Benchmark Tender Notice & Technical Reference Document",
+    "authority": "Engineering Projects (India) Limited (EPI)"
+  },
+  {
+    "filename": "01_Master_Project_Charter_and_Scope.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "Master Project Charter, Administrative Baseline, and Campus Overview",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "02_Campus_Master_Plan_and_Building_Breakdown.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "Spatial Program, Academic Block, Hostels (480 Cap), Dining, and Staff Quarters",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "03_Contractor_Eligibility_and_Prequalification.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "Financial Turnover, Past Experience (Clause 2.0), Net Worth, and Solvency Benchmarks",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "04_CPWD_DSR_Technical_Specifications_Standard.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "CPWD Specifications 2021, M-25/M-30 RCC, Fe-500D Steel, and Testing Norms",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "05_BOQ_Percentage_Rate_Cost_Analysis.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "Percentage Rate Bidding Mechanism, Rs 36.17 Cr Breakdown, and Milestone Schedule",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "06_MEP_STP_Infrastructure_Engineering.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "Substation, DG Set, 60 KLD STP, Rainwater Harvesting, Fire Fighting, and Solar PV",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "07_General_Special_Conditions_of_Contract_GCC.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "file_type": "PDF (Benchmark Charter)",
+    "file_size": "Standard Vector PDF",
+    "description": "EPI GCC 2023, Milestone Penalties, Labor Laws, Insurance, and Dispute Protocols",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Volume_I_NIT_Notice_Inviting_Tender.md",
+    "category": "01_Tender_NIT_Eligibility",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Complete NIT details, eligibility parameters, turnover, solvency, and submission schedule",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Contractor_Prequalification_Checklist.md",
+    "category": "01_Tender_NIT_Eligibility",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Step-by-step prequalification compliance checklist and document verification matrix",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "EMRS_Campus_Master_Spatial_Plan.md",
+    "category": "02_Campus_Master_Plan_and_Building_Breakdown",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Detailed spatial allocations for School, Boys/Girls Hostels, Dining, Staff Housing, and Sports",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Residential_Hostel_and_Quarters_Schedule.md",
+    "category": "02_Campus_Master_Plan_and_Building_Breakdown",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Unit room counts, floor layouts, warden accommodations, and occupancy calculations",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Civil_Structural_Materials_Specifications.md",
+    "category": "03_Technical_Specifications_CPWD_DSR",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Materials specifications for concrete, reinforcement steel, masonry, joinery, and finishes",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Quality_Assurance_and_Testing_Protocol.md",
+    "category": "03_Technical_Specifications_CPWD_DSR",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Site QA/QC lab equipment, mandatory frequency of sampling, and acceptance criteria",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Project_Cost_Summary_and_Package_Breakdown.md",
+    "category": "04_Cost_BOQ_and_Rate_Analysis",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Detailed civil, MEP, campus infrastructure, and environmental works cost estimates",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Percentage_Rate_Bidding_Formula_Schedule.md",
+    "category": "04_Cost_BOQ_and_Rate_Analysis",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "Tender price variation formula, running account billing, and mobilization advance terms",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "Electrical_Substation_and_Solar_System.md",
+    "category": "05_MEP_and_Environmental_Services",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "11kV substation, transformer sizing, DG backup, distribution, and rooftop solar layout",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "STP_Water_Supply_and_Plumbing_Systems.md",
+    "category": "05_MEP_and_Environmental_Services",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "60 KLD STP design parameters, recycling circuits, fire wet riser, and rainwater harvesting",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "CPPP_eProcure_Submission_Guidelines.md",
+    "category": "06_Procurement_Portal_and_Office_Protocols",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "etenders.gov.in portal instructions, two-envelope digital token signing, and bid opening",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  },
+  {
+    "filename": "EPI_WRO_Administrative_Contacts_and_IEM.md",
+    "category": "06_Procurement_Portal_and_Office_Protocols",
+    "file_type": "Markdown Technical Specification",
+    "file_size": "Detailed Spec Document",
+    "description": "EPI Western Regional Office Mumbai hierarchy, IEM contacts, and grievance mechanisms",
+    "authority": "Engineering Projects (India) Limited (EPI) / NESTS"
+  }
+]

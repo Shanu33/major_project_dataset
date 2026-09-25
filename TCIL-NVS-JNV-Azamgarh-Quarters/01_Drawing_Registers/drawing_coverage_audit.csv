@@ -1,0 +1,5 @@
+drawing_category,expected_drawings,received_drawings,coverage_status,notes
+Architectural,2,2,Complete,Guest House and Type-II Quarters architectural plans received.
+Structural,2,0,Missing,No structural drawings provided.
+MEP,2,0,Missing,No MEP drawings provided.
+Landscape_and_Infrastructure,1,0,Missing,No Landscape/Infrastructure drawings provided.

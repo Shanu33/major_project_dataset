@@ -1,0 +1,9 @@
+project,validation_rule,status,message
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+EPI-Dhenkanal-ICDS-Staff-Quarters,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+MHDC-PMAY-Khairi-Kamptee-Nagpur,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+NIT-Nalanda,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+OIL-RITES-Duliajan-BQ-Housing,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+SBI-DN-Nagar-Andheri-122-Flats,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+SBI-GIFT-City-Twin-Towers,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.
+TCIL-NVS-JNV-Azamgarh-Quarters,BOQ_TABULAR_FORMAT,FAILED,BOQ locked in binary PDF. Requires OCR.

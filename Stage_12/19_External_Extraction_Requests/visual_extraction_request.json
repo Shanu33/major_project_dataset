@@ -1,0 +1,30 @@
+{
+  "project_id": "",
+  "document_id": "",
+  "page_number": 0,
+  "drawing_type": "",
+  "elements": [
+    {
+      "element_type": "",
+      "element_id": "",
+      "dimensions": {
+        "length_mm": null,
+        "width_mm": null,
+        "depth_mm": null,
+        "height_mm": null,
+        "count": null
+      },
+      "material": {
+        "concrete_grade": null,
+        "steel_grade": null
+      },
+      "source_evidence": {
+        "text_reference": "",
+        "region": "",
+        "dimension_annotation": ""
+      },
+      "confidence": "",
+      "origin": "DIRECT"
+    }
+  ]
+}

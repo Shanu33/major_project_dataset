@@ -1,0 +1,3 @@
+log_id,file_reference,section,issue_description,impact,status
+1,Detailed_BOQ_Cost_Abstract_and_Item_Schedule.md,Civil Works Abstract,BOQ only contains sub-head summaries and lacks detailed line item quantities and rates,Cannot reconstruct full detailed estimate cost from basic quantities,Pending Full BOQ Extraction
+2,Volume2_Financial_Bid_BOQ_Drawings.pdf,Financial Bid,Full detailed BOQ likely embedded in Volume 2 but not parsed in markdown,Detailed unit rates and quantities are missing,Pending PDF Extraction

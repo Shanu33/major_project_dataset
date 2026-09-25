@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "01_Master_Project_Charter_and_Scope_Document.pdf",
+    "category": "00_Core_Intelligence_Dataset",
+    "desc": "Master Engineering Charter \u2014 Construction of 354 Nos Staff Quarters, ZTC Hostel, Academic Block & Infrastructure at CBD Belapur (Kharghar)",
+    "is_core": true,
+    "core_label": "1. Master Project Charter & Comprehensive Scope Document",
+    "url": "https://www.rbi.org.in/Scripts/BS_ViewTenders.aspx?Id=11485"
+  },
+  {
+    "filename": "02_Package2_Interior_Furniture_BOQ_Specifications.pdf",
+    "category": "03_Package2_Interior_Furniture_MEP/01_Interior_BOQ_Scope_Work",
+    "desc": "Package-2 (Interior & Furniture) \u20b946.25 Crore Scope \u2014 Modular Kitchens, Wardrobes, Loose Furniture, Gym Equipment, Signages & Lighting",
+    "is_core": true,
+    "core_label": "2. Package-2 Interior, Furniture & MEP Technical Specifications (\u20b946.25 Cr)",
+    "url": "https://www.etender.cpwd.gov.in"
+  },
+  {
+    "filename": "03_Package1_Civil_Structural_Works_Charter.pdf",
+    "category": "02_Package1_Civil_Structural_Works/01_Tower_Configurations_Breakdown",
+    "desc": "Package-1 Civil & Structural Framework \u2014 9 High-Rise Towers (G+10/11), RCC Framed Structure (M-25/M-30), Seismic Zone III & Podium",
+    "is_core": true,
+    "core_label": "3. Package-1 Civil & Structural Engineering Charter (9 Towers + Podium)",
+    "url": "https://www.etender.cpwd.gov.in"
+  },
+  {
+    "filename": "04_Package3_Electrical_Substation_Solar_EV.pdf",
+    "category": "04_Package3_Electrical_Substation_Solar_EV/01_Substation_Distribution_Network",
+    "desc": "Package-3 Electrical Infrastructure \u2014 SITC of 11kV Substation, Transformers, Solar PV System, EV Charging Stations & ELV Automation",
+    "is_core": true,
+    "core_label": "4. Package-3 Electrical Substation, Solar PV & EV Charging Systems",
+    "url": "https://www.etender.cpwd.gov.in"
+  },
+  {
+    "filename": "05_Podium_Material_Plan_Tower_I_Specification.pdf",
+    "category": "06_Podium_Landscaping_Sports_Infrastructure/01_Podium_Material_Plan_Tower_I",
+    "desc": "Architectural Drawing CPWD/RBI/2021/L0/3/903 \u2014 Podium Material Plan Tower I (24 Finishes Legend & Paver/Cobble/Granite Specifications)",
+    "is_core": true,
+    "core_label": "5. Architectural Podium Material Plan & 24 Materials Legend (NUPC Drawing)",
+    "url": "https://www.scribd.com/document/876863316/PODIUM-MATERIAL-PLAN-TOWER-I"
+  },
+  {
+    "filename": "06_Recreational_Amenities_Sports_Master_Plan.pdf",
+    "category": "06_Podium_Landscaping_Sports_Infrastructure/02_Recreational_Amenities_Schedule",
+    "desc": "Comprehensive Recreational Layout \u2014 Badminton & Basketball Courts, Jogging Track, Skating Rink, Yoga Court, Open Gym & Festive Plaza",
+    "is_core": true,
+    "core_label": "6. Podium Recreational & Sports Amenities Schedule",
+    "url": "https://www.scribd.com/document/876863316/PODIUM-MATERIAL-PLAN-TOWER-I"
+  },
+  {
+    "filename": "07_Institutional_ZTC_Hostel_Academic_Block.pdf",
+    "category": "05_Hostel_Academic_Block_Amenities/01_ZTC_Hostel_and_Academic_Block",
+    "desc": "Institutional Training Complex \u2014 G+8 Zonal Training Centre (ZTC) Hostel (82 Twin-Sharing Rooms) & G+2 Academic Block Facilities",
+    "is_core": true,
+    "core_label": "7. Institutional ZTC Hostel (G+8) & Academic Block (G+2) Facilities",
+    "url": "https://www.rbi.org.in/Scripts/BS_ViewTenders.aspx?Id=11485"
+  }
+]

@@ -1,0 +1,4 @@
+request_id,priority,missing_document,reason
+REQ-WB-PW-ARCH,HIGH,"Complete Architectural Drawing Set (Floor plans, elevations, sections)",Required for building entity footprint and envelope modeling.
+REQ-WB-PW-STR,HIGH,"Complete Structural Drawing Set (Foundation, framing, sections)",Required for structural element quantification and rebar modeling.
+REQ-WB-PW-NIT,MEDIUM,Notice Inviting Tender (NIT) / Conditions of Contract,"Required for project scope, metadata, and duration timelines."

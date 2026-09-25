@@ -1,0 +1,10 @@
+BOQ Item No,Item Description,Tender Scope Quantity,Unit,Rate Basis,Allocated Single Tower Ground Truth,Ground Truth Unit,Allocated Plinth Area (sq.m),Allocated Units,Allocation Ratio,Data Source,Contains Itemwise Materials
+1.01,Residential Blocks (Stilt+6) - Total 08 Towers,27355.00,sq.m,Lump Sum Component,3419.38,sq.m,3419.38,24,0.1250 (1/8),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 1,FALSE
+1.02,Guest House (G+3),1990.00,sq.m,Lump Sum Component,0.00,sq.m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 1,FALSE
+1.03,Community Centre (G+1),1035.00,sq.m,Lump Sum Component,0.00,sq.m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 1,FALSE
+1.04,SUB STATION & PANEL ROOM (Single Storey),368.00,sq.m,Lump Sum Component,0.00,sq.m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE
+1.05,External development works,24675.00,sq.m,Lump Sum Component,0.00,sq.m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE
+1.06,Guard rooms (2 Nos) & Security hut,76.00,sq.m,Lump Sum Component,0.00,sq.m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE
+1.07,Boundary Wall (3.6m ht 768m length),768.00,m,Lump Sum Component,0.00,m,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE
+1.08,Parking shed (Cantilever type),1.00,Lump Sum,Lump Sum Component,0.00,Lump Sum,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE
+1.09,Other External development works (STP/UGT/Roads),1.00,Lump Sum,Lump Sum Component,0.00,Lump Sum,0.00,0,0.0000 (EXCLUDED),BoQ_3_Plumbing_Sanitary_pdf-2025-Aug-28-17-28-6.pdf Page 2,FALSE

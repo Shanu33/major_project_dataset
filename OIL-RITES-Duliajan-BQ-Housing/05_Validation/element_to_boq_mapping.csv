@@ -1,0 +1,9 @@
+Takeoff Element Code,Takeoff Item Description,Model Quantity,Unit,Tender BOQ Item Ref,BOQ Scope Allocation,Validation Type,Audit Finding
+VAL-001,Tower Plinth Area,3419.38,sq.m,BOQ Item 1.01,3419.38 sq.m (1/8th of 27355),SCOPE_CONSISTENCY_CHECK,Perfect match with allocated EPC plinth area
+VAL-002,Dwelling Unit Count,24,units,BOQ Item 1.01,24 units (1/8th of 192),SCOPE_CONSISTENCY_CHECK,Perfect match with tender dwelling unit scope
+VAL-003,Storey Count,Stilt + 6,storeys,BOQ Item 1.01,Stilt + 6 storeys,SCOPE_CONSISTENCY_CHECK,Perfect match with tender vertical profile
+VAL-004,Foundation Piles Count,207,piles,None,No pile item in EPC schedule,DRAWING_VERIFIED_COUNT,Count verified on Sheet 100; no BOQ item exists
+CONC-TOT,Total RCC Concrete M30,2617.55,m3,None,No material BOQ in tender,NO_INDEPENDENT_GROUND_TRUTH,Drawing takeoff; engineering benchmark check (0.766 m3/sq.m)
+STEL-TOT,Total Reinforcement Steel,300.85,MT,None,No material BOQ in tender,NO_INDEPENDENT_GROUND_TRUTH,Drawing takeoff; engineering benchmark check (87.98 kg/sq.m)
+MAS-TOT,Total Brick Masonry,623.65,m3,None,No material BOQ in tender,NO_INDEPENDENT_GROUND_TRUTH,Drawing takeoff; engineering benchmark check (0.182 m3/sq.m)
+FIN-PLS,Total Plaster Area,14850.00,sq.m,None,No material BOQ in tender,NO_INDEPENDENT_GROUND_TRUTH,Drawing takeoff; engineering benchmark check (4.34 m2/sq.m)

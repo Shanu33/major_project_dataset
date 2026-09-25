@@ -1,0 +1,3 @@
+request_id,priority,missing_item,description,impact
+1,"High","OCR processing of Volume3.pdf","BOQ requires OCR extraction","Blocks BOQ extraction and formula audit"
+2,"High","Drawing extraction of volume02.pdf","Need to extract/split drawings from volume02.pdf","Blocks drawing register and quantity takeoff"

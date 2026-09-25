@@ -1,0 +1,17 @@
+sample_type,item,formula,inputs,sample_output,unit,source_register,provenance,scope_limit,allowed_use
+Opening Area,D1 (Toilet Door),width_m * height_m,width=0.800m; height=2.100m,1.680,m2,controlled_opening_register.csv,DERIVED_BASIC_GEOMETRY,Single D1 opening unit,Proof of method for opening deduction area
+Opening Area,W1 (Bedroom Window),width_m * height_m,width=1.200m; height=1.200m,1.440,m2,controlled_opening_register.csv,DERIVED_BASIC_GEOMETRY,Single W1 opening unit,Proof of method for opening deduction area
+Opening Area,DW1 (Balcony Combination),width_m * height_m,width=2.000m; height=2.100m,4.200,m2,controlled_opening_register.csv,DERIVED_BASIC_GEOMETRY,Single DW1 opening unit,Proof of method for opening deduction area
+Opening Area,V1 (Toilet Ventilator),width_m * height_m,width=0.515m; height=0.875m,0.451,m2,controlled_opening_register.csv,DERIVED_BASIC_GEOMETRY,Single V1 opening unit,Proof of method for opening deduction area
+Opening Area,SD1 (Electrical Shaft Door),width_m * height_m,width=0.900m; height=2.100m,1.890,m2,controlled_opening_register.csv,DERIVED_BASIC_GEOMETRY,Single SD1 opening unit,Proof of method for opening deduction area
+Room Floor Area,Living / Dining,length_m * width_m,length=5.520m; width=3.970m,21.914,m2,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room floor area
+Room Perimeter,Living / Dining,2 * (length_m + width_m),length=5.520m; width=3.970m,18.980,m,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room perimeter
+Room Floor Area,Master Bedroom,length_m * width_m,length=3.845m; width=3.220m,12.381,m2,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room floor area
+Room Perimeter,Master Bedroom,2 * (length_m + width_m),length=3.845m; width=3.220m,14.130,m,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room perimeter
+Room Floor Area,Kitchen,length_m * width_m,length=2.580m; width=2.440m,6.295,m2,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room floor area
+Room Perimeter,Kitchen,2 * (length_m + width_m),length=2.580m; width=2.440m,10.040,m,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room perimeter
+Room Floor Area,Attached Toilet,length_m * width_m,length=2.700m; width=1.400m,3.780,m2,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room floor area
+Room Perimeter,Attached Toilet,2 * (length_m + width_m),length=2.700m; width=1.400m,8.200,m,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat room basis,Proof of method for room perimeter
+Room Floor Area,Living Balcony,length_m * width_m,length=2.280m; width=1.365m,3.112,m2,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat balcony basis,Proof of method for balcony floor area
+Room Perimeter,Living Balcony,2 * (length_m + width_m),length=2.280m; width=1.365m,7.290,m,controlled_room_register.csv,DERIVED_BASIC_GEOMETRY,Single flat balcony basis,Proof of method for balcony perimeter
+

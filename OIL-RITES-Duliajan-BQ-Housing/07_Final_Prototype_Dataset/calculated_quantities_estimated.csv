@@ -1,0 +1,25 @@
+Quantity ID,Trade Category,Element Description,Estimated Value,Unit,Concrete Grade,Steel Grade,Governing Assumption,Drawing Reference,Confidence Classification,Audit Downgrade Rationale
+EST-001,Substructure,Bored RCC Piles Concrete,1053.49,m3,M30,-,ASM-001 (18m depth),STR/TD/100 & DBR p.35,ESTIMATED,"207 piles counted; depth 18m is derived from DBR range 15-20m, not on drawing."
+EST-002,Substructure,Bored RCC Piles Reinforcement Steel,99.24,MT,-,Fe 500D,ASM-001/002 (8-T20 cage),STR/TD/100 & DBR p.35,ESTIMATED,Assumed 8-T20 cage and 18m length (94.2 kg/m3 intensity); no sheet-wise BBS.
+EST-003,Superstructure,Columns C1-C3 Concrete,126.00,m3,M30,-,Assumed 3.0m clear ht x 7 levels,STR/TD/104,MEDIUM,Sections scheduled on Sheet 104; uses repeated floor height assumption.
+EST-004,Superstructure,Columns C1-C3 Reinforcement Steel,52.41,MT,-,Fe 500D,Scheduled bars + 50d lap rule,STR/TD/104,MEDIUM,"Bar counts scheduled (14-T32+8-T25, 22-T25, 22-T20); cut lengths use 3.0m floor ht."
+EST-005,Superstructure,Shear Walls SW1-SW10 Concrete,349.45,m3,M30,-,Assumed 3.0m clear ht x 7 levels,STR/TD/104,MEDIUM,Cross sections scheduled on Sheet 104; uses repeated floor height assumption.
+EST-006,Superstructure,Shear Walls SW1-SW10 Steel,30.12,MT,-,Fe 500D,Scheduled cages + web mesh,STR/TD/104,MEDIUM,Boundary bars and web mesh scheduled on Sheet 104; cut lengths assume 3.0m ht.
+EST-007,Substructure,Plinth Beams PB1-PB34 Concrete,47.61,m3,M30,-,Reconciled 403.5m length,STR/TD/105,ESTIMATED,Uses 403.5m grid run and weighted section 0.118 m2; no individual member schedule.
+EST-008,Substructure,Plinth Beams Reinforcement Steel,6.43,MT,-,Fe 500D,Assumed 135 kg/m3 intensity,STR/TD/105,ESTIMATED,Uses preliminary steel intensity rule of thumb; no sheet-wise BBS.
+EST-009,Superstructure,Floor Beams B1-B34 (Floors 1-6) Concrete,289.80,m3,M30,-,Reconciled 403.5m x 6 levels,STR/TD/107,ESTIMATED,"Uses 403.5m grid run, 0.1197 m2 weighted section, and 6 repeated floors."
+EST-010,Superstructure,Terrace Beams TB1-TB34 Concrete,48.30,m3,M30,-,Reconciled 403.5m length,STR/TD/108,ESTIMATED,Uses 403.5m grid run and 0.1197 m2 weighted section.
+EST-011,Superstructure,Floor & Terrace Beams Reinforcement,47.33,MT,-,Fe 500D,Assumed 140 kg/m3 intensity,STR/TD/107-108,ESTIMATED,Uses preliminary steel intensity rule of thumb across 7 levels; no shop BBS.
+EST-012,Superstructure,Suspended Floor Slabs (Floors 1-6) Concrete,331.47,m3,M30,-,Reconciled 424.96 m2 net slab,STR/TD/107,ESTIMATED,Uses 424.96 m2 net slab (483.60 - 58.64 core voids) x 6 x 130mm weighted thickness.
+EST-013,Superstructure,Terrace Roof Slab Concrete,55.24,m3,M30,-,Reconciled 424.96 m2 net slab,STR/TD/108,ESTIMATED,Uses 424.96 m2 net slab x 130mm weighted thickness.
+EST-014,Superstructure,Suspended Slabs Reinforcement Steel,36.69,MT,-,Fe 500D,Assumed 89.17 kg/m3 intensity,STR/TD/107,ESTIMATED,Slab schedules S1/S2 T8@125/150 c/c; cut lengths use preliminary intensity.
+EST-015,Superstructure,Balconies & Chajjas Concrete,20.02,m3,M30,-,Projected area across 7 levels,STR/TD/107,ESTIMATED,Derived without individual piece schedule.
+EST-016,Superstructure,Doglegged Staircase Cores Concrete,26.60,m3,M30,-,28 flights x 0.95 m3/flight,STR/TD/110,MEDIUM,Flight geometry scheduled on Sheet 110; 28 flights repeated across 7 levels.
+EST-017,Superstructure,Doglegged Staircases Reinforcement Steel,2.92,MT,-,Fe 500D,Direct flight schedule,STR/TD/110,MEDIUM,Flight rebar scheduled on Sheet 110; repeated across 28 flights.
+EST-018,Superstructure,Mumty Structure Concrete,16.77,m3,M30,-,Dimensions scheduled,STR/TD/109,MEDIUM,Mumty columns (6.74 m3) + walls/roof (10.03 m3).
+EST-019,Superstructure,Mumty Reinforcement Steel,1.29,MT,-,Fe 500D,Scheduled rebar,STR/TD/109,MEDIUM,Columns (0.58 MT) + wall/roof links (0.71 MT).
+EST-020,Substructure,PCC Lean Concrete (1:5:10),18.00,m3,M10,-,ASM-003 (75mm thickness),STR/TD/101,ESTIMATED,Assumed 75mm leveling layer under caps and plinth trenches.
+EST-021,Masonry,External 230mm & Internal 115mm Brickwork,623.65,m3,-,-,ASM-007/008 (assumed deductions),AR/TD/005-012,ESTIMATED,External (216.80 m3) + Internal (406.85 m3); uses assumed opening deduction ratios.
+EST-022,Finishes,Internal 12mm & External 18mm Cement Plaster,14850.00,sq.m,-,-,ASM-009 (surface ratio),AR/TD/006-013,ESTIMATED,"Internal (11,450 sq.m) + External (3,400 sq.m); uses gross surface area ratio."
+EST-023,Finishes,"Tile & Stone Flooring (Vitrified, Ceramic, Kota)",2700.00,sq.m,-,-,Carpet area approximations,"AR/TD/005-007, 110",ESTIMATED,"Vitrified (1,848 sq.m) + Ceramic (372 sq.m) + Kota stone (480 sq.m)."
+EST-024,Finishes,Internal & External Painting Surface,14850.00,sq.m,-,-,Plaster surface equivalence,Tender Specifications,ESTIMATED,Estimated indirectly from gross plaster area.

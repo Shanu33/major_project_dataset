@@ -1,0 +1,3 @@
+file,issue_type,description,severity,status
+02_Cost_BOQ_Makes/PART_F_PRICE_BID_AND_BOQ.pdf,Extraction Pending,"PDF structure needs to be parsed for structured tabular BOQ data",High,Open
+02_Cost_BOQ_Makes/PART_F_FINANCIAL_BID.pdf,Extraction Pending,"Financial bid structure needs to be parsed for BOQ data",High,Open

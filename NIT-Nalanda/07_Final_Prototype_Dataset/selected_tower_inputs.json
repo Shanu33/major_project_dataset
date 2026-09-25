@@ -1,0 +1,42 @@
+{
+  "entity_name": "Faculty Housing Apartment Type 1B Block",
+  "architectural_parameters": {
+    "storey_profile": {
+      "value": "G+2 Floors",
+      "source_document": "a.2.1-type-1b-ground-floor-plan.pdf",
+      "status": "VERIFIED_ON_PLAN"
+    },
+    "ground_floor_bua_sqm": {
+      "value": 264.67,
+      "source_document": "a.2.1-type-1b-ground-floor-plan.pdf",
+      "status": "VERIFIED_ON_PLAN"
+    },
+    "typical_floor_height_m": {
+      "value": null,
+      "source_document": "MISSING (Requires Architectural Sections A.3.x)",
+      "status": "NOT_AVAILABLE"
+    },
+    "plinth_level_datum": {
+      "value": "+101.85",
+      "source_document": "a.2.1-type-1b-ground-floor-plan.pdf",
+      "status": "VERIFIED_ON_PLAN"
+    }
+  },
+  "structural_parameters": {
+    "foundation_type": {
+      "value": "Bored cast-in-situ pile foundation",
+      "source_document": "1.1-pile-layout-and-details-for-faculty-housing-appt-type-1b-.pdf",
+      "status": "VERIFIED_ON_PLAN"
+    },
+    "pile_diameter_mm": {
+      "value": null,
+      "source_document": "1.1-pile-layout-and-details-for-faculty-housing-appt-type-1b-.pdf",
+      "status": "REQUIRES_PDF_PAGE_EXTRACTION"
+    },
+    "safe_bearing_capacity": {
+      "value": null,
+      "source_document": "MISSING_STANDALONE_REPORT",
+      "status": "NOT_AVAILABLE"
+    }
+  }
+}

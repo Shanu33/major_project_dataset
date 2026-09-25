@@ -1,0 +1,14 @@
+Finish ID,Finish Category,Specification as printed,Location / Scope,Exact Sheet ID,PDF Page,Derivation (Direct/Derived/Unclear),Confidence,Evidence / Notes
+FIN-E-001,Plastering,12MM THK. CEMENT PLASTER (1:6),Internal walls of living bed kitchen corridor,RITES/BLD/AR/TD/016-017,20-21 (Drg 1),Direct,HIGH,Printed notes on flooring/finish layouts
+FIN-E-002,Plastering,6MM THK. CEMENT PLASTER (1:3),Ceiling soffits of all RCC slabs and beams,RITES/BLD/AR/TD/016-017,20-21 (Drg 1),Direct,HIGH,Printed notes on finish schedules
+FIN-E-003,Plastering,18MM THK. CEMENT PLASTER (1:5+1:4),External exposed brick facade and RCC faces,RITES/BLD/AR/TD/010-011,14-15 (Drg 1),Direct,HIGH,Printed facade finish notes
+FIN-E-004,Painting,ACRYLIC EMULSION PAINT (2 COATS),All internal plastered walls and ceilings,RITES/BLD/AR/TD/010-013,14-17 (Drg 1),Direct,HIGH,Specified in DBR Section 8 & drawings
+FIN-E-005,Painting,PREMIUM EXTERIOR ACRYLIC PAINT,Exterior plastered elevations,RITES/BLD/AR/TD/010-011,14-15 (Drg 1),Direct,HIGH,Specified in DBR Section 8 & drawings
+FIN-E-006,Painting,SYNTHETIC ENAMEL PAINT,Door frames MS railings and structural steelwork,RITES/BLD/AR/TD/014-015,18-19 (Drg 1),Direct,HIGH,Specified on door/window schedule
+FIN-E-007,Flooring,VITRIFIED TILES (600 X 600 MM),Living dining bedrooms and internal passages,RITES/BLD/AR/TD/017,21 (Drg 1),Direct,HIGH,"Printed label: 600X600 VITRIFIED TILE FLOORING"
+FIN-E-008,Flooring,ANTI-SKID CERAMIC TILES (300 X 300),Toilets and apartment balconies,RITES/BLD/AR/TD/017 & TD/019,21 & 23 (Drg 1),Direct,HIGH,"Printed label: ANTI-SKID CERAMIC TILES"
+FIN-E-009,Wall Dado,CERAMIC GLAZED TILES (300 X 450),Toilet walls up to 2.1m ht and kitchen counter,RITES/BLD/AR/TD/019 & TD/020,23-24 (Drg 1),Direct,HIGH,"Printed label: CERAMIC WALL TILES UPTO +2100 LVL"
+FIN-E-010,Flooring,KOTA STONE (25MM THICK),Staircase treads risers and landings,RITES/BLD/AR/TD/013 & TD/022,17 & 1 (Drg 1 & 2),Direct,HIGH,"Printed label: 25MM THK. POLISHED KOTA STONE"
+FIN-E-011,Platform,18MM POLISHED BLACK GRANITE,Kitchen cooking counters with molded edges,RITES/BLD/AR/TD/005 & TD/025,9 & 4 (Drg 1 & 2),Direct,HIGH,"Printed label: 18MM THK. GRANITE SILL/COUNTER"
+FIN-E-012,Flooring,VDF FLOORING (100MM THK. M20),Stilt floor covered parking and driveways,RITES/BLD/AR/TD/016,20 (Drg 1),Direct,HIGH,"Printed label: 100MM THK. VDF FLOORING"
+FIN-E-013,Waterproofing,WATERPROOFING TREATMENT ON TERRACE,Terrace structural roof slab and parapet upstand,RITES/BLD/AR/TD/018,22 (Drg 1),Direct,HIGH,"Printed label: WATERPROOFING WITH CHINA MOSAIC"

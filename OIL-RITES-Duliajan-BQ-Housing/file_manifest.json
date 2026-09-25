@@ -1,0 +1,178 @@
+[
+  {
+    "filename": "NIT_9_pdf-2025-Aug-28-17-28-23.pdf",
+    "url": "https://www.rites.com/Upload/Tender/NIT_9_pdf-2025-Aug-28-17-28-23.pdf",
+    "category_path": "01_Tender_NIT_Contract/01_NIT_Conditions",
+    "description": "Notice Inviting Tender (NIT eligibility, EMD \u20b980.01L, EPC scope, milestones)",
+    "is_core": true,
+    "core_label": "1. NIT (full conditions)"
+  },
+  {
+    "filename": "Technical_Bid_pdf-2025-Aug-28-19-39-38.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Technical_Bid_pdf-2025-Aug-28-19-39-38.pdf",
+    "category_path": "01_Tender_NIT_Contract/02_Technical_Bid_Volume",
+    "description": "Technical Bid Volume (CPWD/NBC/IS specs, General & Special Conditions of Contract)",
+    "is_core": true,
+    "core_label": "2. Technical Bid (full tender / specs volume)"
+  },
+  {
+    "filename": "Corrigendum-Time_Date_pdf-2025-Sep-17-09-33-36.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Corrigendum-Time_Date_pdf-2025-Sep-17-09-33-36.pdf",
+    "category_path": "01_Tender_NIT_Contract/03_Corrigenda_Clarifications",
+    "description": "Corrigendum - Extension of Tender Submission and Opening Dates",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Corrigendum-Reply_to_Queries_pdf-2025-Sep-17-09-35-31.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Corrigendum-Reply_to_Queries_pdf-2025-Sep-17-09-35-31.pdf",
+    "category_path": "01_Tender_NIT_Contract/03_Corrigenda_Clarifications",
+    "description": "Corrigendum - Pre-Bid Query Clarification (Recovered from RITES; classified as SUPPORTING_REFERENCE, ACCEPTED; resolves 0 quantity/cost/duration blockers; does not update material quantities, cost, or duration)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Corrigendum-1-Technical_with_Drawings_Updated_pdf-2025-Sep-17-09-40-28.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Corrigendum-1-Technical_with_Drawings_Updated_pdf-2025-Sep-17-09-40-28.pdf",
+    "category_path": "01_Tender_NIT_Contract/03_Corrigenda_Clarifications",
+    "description": "Corrigendum 1 - Technical Addenda with Updated Architectural & Structural Drawings",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Major_Order_Secured-oil-India-010425_pdf-2025-Apr-01-21-39-19.pdf",
+    "url": "https://www.rites.com/Upload/MediaGallery/PDF/3/Major_Order_Secured-oil-India-010425_pdf-2025-Apr-01-21-39-19.pdf",
+    "category_path": "01_Tender_NIT_Contract/04_Award_LoA_Media",
+    "description": "RITES Letter of Award (LoA) from OIL India — SUPERSEDED: media figure ₹157.25 Crore and 36 months are excluded from official baseline. Official award: ₹128.14 Crore (excl GST), 24 months per Dec 2025 status record.",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "BoQ_1_pdf-2025-Aug-28-17-27-34.pdf",
+    "url": "https://www.rites.com/Upload/Tender/BoQ_1_pdf-2025-Aug-28-17-27-34.pdf",
+    "category_path": "02_Cost_BOQ_EPC/BoQ_Part_1",
+    "description": "BOQ Part 1 - EPC Lump-Sum Scope of Work & Payment Milestones",
+    "is_core": true,
+    "core_label": "4. BOQ Part 1 (EPC Lump-sum Scope)"
+  },
+  {
+    "filename": "BoQ_2_pdf-2025-Aug-28-17-27-48.pdf",
+    "url": "https://www.rites.com/Upload/Tender/BoQ_2_pdf-2025-Aug-28-17-27-48.pdf",
+    "category_path": "02_Cost_BOQ_EPC/BoQ_Part_2",
+    "description": "BOQ Part 2 - Built-Up Area Schedule (Housing Towers, Guest House, Community Centre)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "BoQ_3_pdf-2025-Aug-28-17-28-6.pdf",
+    "url": "https://www.rites.com/Upload/Tender/BoQ_3_pdf-2025-Aug-28-17-28-6.pdf",
+    "category_path": "02_Cost_BOQ_EPC/BoQ_Part_3",
+    "description": "BOQ Part 3 - External Infrastructure, Substation, STP, UGT & Site Development",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "DBR_pdf-2025-Aug-28-17-46-57.pdf",
+    "url": "https://www.rites.com/Upload/Tender/DBR_pdf-2025-Aug-28-17-46-57.pdf",
+    "category_path": "03_Specs_DBR_Finishes/Design_Basis_Report_DBR",
+    "description": "Design Basis Report (Architecture, Structure, MEP, GRIHA 3-star, 600mm dia pile criteria)",
+    "is_core": true,
+    "core_label": "3. Design Basis Report (DBR)"
+  },
+  {
+    "filename": "Schedule_of_Finishes_pdf-2025-Aug-28-17-48-28.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Schedule_of_Finishes_pdf-2025-Aug-28-17-48-28.pdf",
+    "category_path": "03_Specs_DBR_Finishes/Schedule_of_Finishes",
+    "description": "Schedule of Finishes (Flooring, wall finishes, doors, windows, paint, and fittings)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Topographic_survey_report_1_pdf-2025-Aug-28-17-46-0.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Topographic_survey_report_1_pdf-2025-Aug-28-17-46-0.pdf",
+    "category_path": "04_Survey_Geotech/Topographic_Survey",
+    "description": "Topographic Survey Report 1 (Site coordinates, levels, benchmark, and land boundary)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Topographic_survey_report_2_pdf-2025-Aug-28-17-46-16.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Topographic_survey_report_2_pdf-2025-Aug-28-17-46-16.pdf",
+    "category_path": "04_Survey_Geotech/Topographic_Survey",
+    "description": "Topographic Survey Report 2 (Contour drawings, existing structures & site features)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "GT_report_pdf-2025-Aug-28-17-46-44.pdf",
+    "url": "https://www.rites.com/Upload/Tender/GT_report_pdf-2025-Aug-28-17-46-44.pdf",
+    "category_path": "04_Survey_Geotech/Geotechnical_Investigation",
+    "description": "Geotechnical Investigation Report (310 pages: borehole strata, N-values, pile load capacity)",
+    "is_core": true,
+    "core_label": "7. GT Report (310 pages geotechnical)"
+  },
+  {
+    "filename": "Tender_drawing_1_pdf-2025-Aug-28-17-38-39.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_1_pdf-2025-Aug-28-17-38-39.pdf",
+    "category_path": "05_Tender_Drawings/Vol_1_Architectural_Housing_Towers",
+    "description": "Tender Drawing Vol 1 - Architectural Site Layout & Stilt+6 Housing Towers (192 \u00d7 2.5 BHK)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Tender_drawing_2_pdf-2025-Aug-28-17-38-57.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_2_pdf-2025-Aug-28-17-38-57.pdf",
+    "category_path": "05_Tender_Drawings/Vol_2_Architectural_GuestHouse_CommunityCentre_Landscape",
+    "description": "Tender Drawing Vol 2 - Architectural Guest House (G+3), Community Centre (G+1), ESS & Landscape",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Tender_drawing_3_pdf-2025-Aug-28-17-39-16.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_3_pdf-2025-Aug-28-17-39-16.pdf",
+    "category_path": "05_Tender_Drawings/Vol_3_Structural_Housing_GuestHouse",
+    "description": "Tender Drawing Vol 3 - Structural Housing Stilt+6 (Pile /100, Pile cap /101, Beams) + Guest House G+3 (/120-128)",
+    "is_core": true,
+    "core_label": "5. Drawing 3 \u2014 Structural Housing & GH"
+  },
+  {
+    "filename": "Tender_drawing_4_pdf-2025-Aug-28-17-39-32.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_4_pdf-2025-Aug-28-17-39-32.pdf",
+    "category_path": "05_Tender_Drawings/Vol_4_Structural_CommunityCentre_Electrical_MEP",
+    "description": "Tender Drawing Vol 4 - Structural Community Centre (/135-142) & ESS (/144) + Electrical MEP (/201-209)",
+    "is_core": true,
+    "core_label": "6. Drawing 4 \u2014 Structural & Electrical MEP"
+  },
+  {
+    "filename": "Tender_drawing_5_pdf-2025-Aug-28-17-39-56.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_5_pdf-2025-Aug-28-17-39-56.pdf",
+    "category_path": "05_Tender_Drawings/Vol_5_MEP_Plumbing_FireFighting",
+    "description": "Tender Drawing Vol 5 - MEP Plumbing, Sanitation, Drainage & Fire Fighting Network Schemes",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Tender_drawing_6_pdf-2025-Aug-28-17-44-31.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_6_pdf-2025-Aug-28-17-44-31.pdf",
+    "category_path": "05_Tender_Drawings/Vol_6_Infrastructure_ExternalServices",
+    "description": "Tender Drawing Vol 6 - External Civil Infrastructure, Roads, Culverts & Storm Water Drains",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Tender_drawing_7_pdf-2025-Aug-28-17-44-55.pdf",
+    "url": "https://www.rites.com/Upload/Tender/Tender_drawing_7_pdf-2025-Aug-28-17-44-55.pdf",
+    "category_path": "05_Tender_Drawings/Vol_7_Infrastructure_SiteServices",
+    "description": "Tender Drawing Vol 7 - Sewage Treatment Plant (STP), Underground Tank (UGT) & External Works",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "NIT_CPI4685P21.pdf",
+    "url": "https://www.oil-india.com/files/oldtender/national/NIT_CPI4685P21.pdf",
+    "category_path": "06_Historical_Reference/EPMC_Consultancy_2020",
+    "description": "OIL Historical EPMC Consultancy Tender (2020, 123 pages) for G+6 Housing (NIT CPI4685P21)",
+    "is_core": false,
+    "core_label": ""
+  }
+]

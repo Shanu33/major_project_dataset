@@ -1,0 +1,3 @@
+file_name,issue_type,description,impact_on_training,proposed_action
+"Tender_Document_Quarter_KQR_HZB_RJ3Y.pdf","Missing Detailed Line Items","Detailed line items for the schedules are not extracted yet; only top-level schedule values were extracted from the markdown summary.","high","Implement full PDF table extraction/scraping for the complete detailed line items."
+"Tender_document_DHN_I_ZDV9.pdf","Missing Detailed Line Items","Detailed BOQ line items pending extraction.","high","Implement full PDF table extraction/scraping."

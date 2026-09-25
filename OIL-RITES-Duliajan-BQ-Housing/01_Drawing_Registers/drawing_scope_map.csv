@@ -1,0 +1,19 @@
+Drawing Sheet Range,Discipline,Building / Facility Scope,Contract Package Status,Model Scope Status,Scope Allocation Rationale
+RITES/BLD/AR/TD/001,Architecture,Campus Master Layout (8 Towers),RITES/NERPO/OIL/BQ-HOUSING/25,REFERENCE_ONLY,Establishes spatial coordinates and site relationships for all 8 towers
+RITES/BLD/AR/TD/002-004,Architecture,Campus Surface Parking & Landscape,RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,External campus infrastructure outside building footprint
+RITES/BLD/AR/TD/005-021,Architecture,Typical Housing Tower (Stilt+6),RITES/NERPO/OIL/BQ-HOUSING/25,CORE_MODEL_INPUT,Core architectural plans elevations sections and opening schedules
+RITES/BLD/AR/TD/022-025,Architecture,Housing Tower Details (Stair/Lift/Built-ins),RITES/NERPO/OIL/BQ-HOUSING/25,CORE_MODEL_INPUT,Enlarged architectural staircase lift core and kitchen counter details
+RITES/BLD/AR/TD/026-027,Architecture,Guard Rooms & Boundary Wall,RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Peripheral campus security structures outside tower scope
+RITES/BLD/AR/TD/028-046,Architecture,Guest House Building (G+3),RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Independent transient accommodation facility outside tower scope
+RITES/BLD/AR/TD/047-056,Architecture,Community Centre Building (G+1),RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Independent recreational facility outside tower scope
+RITES/BLD/STR/TD/HOUSING(G+6)/100-110,Structural,Typical Housing Tower (Stilt+6),RITES/NERPO/OIL/BQ-HOUSING/25,CORE_MODEL_INPUT,Core structural drawings: 207 piles caps plinth beams columns beams slabs
+RITES/BLD/STR/TD/GH(G+3)/111-128,Structural,Guest House Building (G+3),RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Structural drawings for independent guest house outside tower scope
+RITES/BLD/STR/TD/CS/129-143,Structural,Community Centre Building (G+1),RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Structural drawings for independent community centre outside tower scope
+RITES/BLD/STR/TD/ESS/144-150,Structural,Electrical Substation & Panel Room,RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Structural drawings for campus electrical substation outside tower scope
+RITES/BLD/EL/TEN/201-205,Electrical,Typical Housing Tower Electrification,RITES/NERPO/OIL/BQ-HOUSING/25,SUPPORTING_REFERENCE,Tower lighting power DBs and lightning protection
+RITES/BLD/EL/TEN/206-221,Electrical,Campus External HT & Non-Tower Facilities,RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,External HT power network and guest house/community centre electrical
+RITES/BLD/HVAC/TEN/301-302,Mechanical,Housing Tower Ventilation & AC Ledges,RITES/NERPO/OIL/BQ-HOUSING/25,SUPPORTING_REFERENCE,Tower ventilation exhaust and AC drainage provisions
+RITES/BLD/DR/TEN/401-404 407-409,Plumbing,Housing Tower Internal Drainage & Water,RITES/NERPO/OIL/BQ-HOUSING/25,SUPPORTING_REFERENCE,Tower sanitary drainage soil stacks and water risers
+RITES/BLD/DR/TEN/405-406 410-421,Plumbing,Campus External Utilities & Non-Tower,RITES/NERPO/OIL/BQ-HOUSING/25,EXCLUDED,Campus UGT STP central network and non-tower plumbing
+RITES/BLD/FF/TEN/501-504,Fire Fighting,Housing Tower Wet Riser & Hose Reels,RITES/NERPO/OIL/BQ-HOUSING/25,SUPPORTING_REFERENCE,Tower fire wet riser landing valves and hose reel stations
+RITES/BLD/WS/TEN/601 & GS/701-703,Services,Housing Tower Water Supply & Piped Gas,RITES/NERPO/OIL/BQ-HOUSING/25,SUPPORTING_REFERENCE,Tower internal domestic/flushing distribution and gas risers

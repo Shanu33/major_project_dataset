@@ -1,0 +1,130 @@
+[
+  {
+    "filename": "Tendernotice_1_Pkg_III_Commercial_C.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/01_NIT_Conditions",
+    "description": "Package III Commercial C Near Metro Station \u2014 Notice Inviting Tender (NIT Ref: NBCC/CPG/Sarojini Nagar/Delhi/2020/Pkg-III/281, \u20b9229.91 Cr)",
+    "is_core": true,
+    "core_label": "1. Package III Master NIT (Commercial C, \u20b9229.91 Cr)"
+  },
+  {
+    "filename": "Package_VI_Type_V_800Nos_NIT.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?page=FrontEndTenderDetailsExternal&service=page&tnid=1086023",
+    "category_path": "02_Package_VI_Type_V_Quarters_800Nos/01_NIT_Conditions",
+    "description": "Package VI \u2014 800 Nos Type-V Quarters Tender (NIT Ref: NBCC/CPG/GPRA/Redev/Sarojini/Pkg-VI/2025/544, Tender ID: 2025_NBCC_821574_1, \u20b9946.16 Cr)",
+    "is_core": true,
+    "core_label": "2. Package VI Mega Residential Tender (800 Type-V, \u20b9946.16 Cr)"
+  },
+  {
+    "filename": "Package_VB_Type_V_1048Nos_Tender_Scope.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=SU5Fj48u01AA0sAVek4uRdA==",
+    "category_path": "03_Package_VB_Type_V_Quarters_1048Nos/01_Tender_Scope",
+    "description": "Package V-B \u2014 1,048 Nos Type-V Quarters + Community Centre (Ref: NBCC/CPG/Sarojini Nagar/Package IV-B/2023/355, 600 days + 5 yrs O&M)",
+    "is_core": true,
+    "core_label": "3. Package V-B Type-V Quarters (1,048 Nos + Community)"
+  },
+  {
+    "filename": "Package_VA_Type_IV_1307Nos_Tender_Scope.pdf",
+    "url": "https://www.tendersontime.com/india/details/redevelopment-gpra-colony-sarojini-nagar-new-delhi---pkg-v-a-3900b4f/",
+    "category_path": "04_Package_VA_Type_IV_Quarters_1307Nos/01_Tender_Scope",
+    "description": "Package V-A \u2014 1,307 Nos Type-IV Quarters (Ref: NBCC/CPG/Sarojini Nagar/Pkg V-A/2021/308, Tender ID: 2021_NBCC_581502_1)",
+    "is_core": true,
+    "core_label": "4. Package V-A Type-IV Quarters (1,307 Nos)"
+  },
+  {
+    "filename": "Package_VC_Apartments_99Nos_CommunityHall.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?page=FrontEndTenderDetailsExternal&service=page&tnid=1086024",
+    "category_path": "05_Package_VC_Apartments_99Nos_CommunityHall/01_Tender_Scope",
+    "description": "Package VC \u2014 99 Nos Residential Apartments + Community Hall (Ref: NBCC/CPG/GPRA/Redev/Sarojini/Pkg-VC/2025/545, ID: 2025_NBCC_821575_1)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Package_IVA_ShoppingCentre_CGHS_Dispensary.pdf",
+    "url": "https://www.tenderdetail.com/Indian-Tenders/TenderNotice/38139144/b6d7ac611915eb41d7bf2fc0d74f490f",
+    "category_path": "06_Package_IV_Commercial_CGHS_Dispensary/01_Shopping_Dispensary_IVA",
+    "description": "Package IV-A \u2014 Local Shopping Centre + CGHS Dispensary (Tender ID: 2023_NBCC_674320_1)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Package_IVC_Type_IV_Quarters.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink_0&page=FrontEndAdvancedSearchResult&service=direct&sp=SpZ8ELPt3qWRsiWpyBYgmuA==",
+    "category_path": "06_Package_IV_Commercial_CGHS_Dispensary/02_Type_IV_Quarters_IVC",
+    "description": "Package IV-C \u2014 Type IV Quarters Construction Package (Ref: NBCC/CPG/Sarojini Nagar/Pkg IVC/2023/387, ID: 2023_NBCC_674322_1)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Package_VIIA_Commercial_D_Block_A.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink_10&page=FrontEndTenderDetails&service=direct&sp=Sc46LkGrA2Krl6IkOYOmrkQ==",
+    "category_path": "07_Package_VII_Commercial_D_Blocks/01_Commercial_D_Block_A_VIIA",
+    "description": "Package VII-A \u2014 Commercial D Block A (Ref: NBCC/CPG/GPRA/Redev/SarojiniNagar/PkgVIIA/2024/453, ID: 2024_NBCC_781872_1)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Package_VIIB_Commercial_D_Block_B.pdf",
+    "url": "https://sigmatenders.com/tender/wRsn3LVBdDkSn9w2CMZURY",
+    "category_path": "07_Package_VII_Commercial_D_Blocks/02_Commercial_D_Block_B_VIIB",
+    "description": "Package VII-B \u2014 Commercial D Block B (Ref: NBCC/CPG/GPRA/Redev/SarojiniNagar/PkgVIIB/2024/454, ID: 2024_NBCC_781873_1)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Volume_III_DBR_Geotechnical_Report.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/03_DBR_Geotech_Vol_III",
+    "description": "Volume III \u2014 Design Basis Report (DBR) & Complete Geotechnical Investigation Report (Bearing capacity, soil strata, foundation)",
+    "is_core": true,
+    "core_label": "5. Volume III: DBR & Geotechnical Report"
+  },
+  {
+    "filename": "Volume_IV_Technical_Specifications_Civil_MEP.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/04_Specifications_Vol_IV",
+    "description": "Volume IV \u2014 Comprehensive Technical Specifications: Civil, Structural, Electrical, Plumbing, HVAC & Fire Fighting",
+    "is_core": true,
+    "core_label": "6. Volume IV: Technical Specifications (Civil & MEP)"
+  },
+  {
+    "filename": "Volume_V_Tender_Drawings_Arch_Structural.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/05_Tender_Drawings_Vol_V",
+    "description": "Volume V \u2014 Complete Engineering Drawings: Architectural Plans, Sections, Elevations & Structural Framing/Foundation",
+    "is_core": true,
+    "core_label": "7. Volume V: Tender Drawings (Arch + Struct)"
+  },
+  {
+    "filename": "Volume_VI_BOQ_Excel_Schedule.xlsx",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/06_BOQ_Excel_Vol_VI",
+    "description": "Volume VI \u2014 Itemized Bill of Quantities (BOQ Excel format with DSR items and market-rate descriptions)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Volume_VII_Schedule_of_Finishes_Approved_Makes.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/07_Finishes_Approved_Makes_Vol_VII",
+    "description": "Volume VII \u2014 Schedule of Finishes & Approved Manufacturers / Preferred Makes List",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Volume_I_GCC_SCC_Contract_Conditions.pdf",
+    "url": "https://eprocure.gov.in/epublish/app?component=$DirectLink&page=FrontEndViewTender&service=direct&sp=S6lXrtT/fvpG4Tx8e8i2Dtw==",
+    "category_path": "01_Package_III_Commercial_C/08_Contract_GCC_SCC_Vol_I",
+    "description": "Volume I \u2014 General Conditions of Contract (GCC), Special Conditions of Contract (SCC), and Bid Formats",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "CPPP_and_NBCC_Enivida_Procurement_Guide.pdf",
+    "url": "https://nbcc.enivida.com/",
+    "category_path": "08_Procurement_Portals_Access/01_Portal_Registration_Guidelines",
+    "description": "Step-by-Step Access Protocol for Central Public Procurement Portal (CPPP) and RailTel NBCC e-Tender Portal (nbcc.enivida.com)",
+    "is_core": false,
+    "core_label": ""
+  }
+]

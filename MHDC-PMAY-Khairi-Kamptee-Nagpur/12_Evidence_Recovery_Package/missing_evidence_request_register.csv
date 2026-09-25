@@ -1,0 +1,3 @@
+rfi_id,priority,missing_item,impact,status
+RFI-001,HIGH,Detailed itemized BOQ (currently missing from Volume I),Blocks BOQ transcription and estimation,OPEN
+RFI-002,HIGH,Full architectural and structural drawing sets,Blocks drawing register and quantity takeoff,OPEN

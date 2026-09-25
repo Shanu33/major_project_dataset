@@ -1,0 +1,9 @@
+project_id,plot_area,built_up_area,number_of_floors,source_document,origin,confidence
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,MISSING,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+EPI-Dhenkanal-ICDS-Staff-Quarters,MISSING,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+MHDC-PMAY-Khairi-Kamptee-Nagpur,MISSING,MISSING,MISSING,Text Extraction,MISSING,MEDIUM
+NIT-Nalanda,.,MISSING,MISSING,Text Extraction,DIRECT,MEDIUM
+OIL-RITES-Duliajan-BQ-Housing,.,MISSING,MISSING,Text Extraction,DIRECT,MEDIUM
+SBI-DN-Nagar-Andheri-122-Flats,.,MISSING,MISSING,Text Extraction,DIRECT,MEDIUM
+SBI-GIFT-City-Twin-Towers,.,MISSING,MISSING,Text Extraction,DIRECT,MEDIUM
+TCIL-NVS-JNV-Azamgarh-Quarters,MISSING,MISSING,MISSING,Text Extraction,MISSING,MEDIUM

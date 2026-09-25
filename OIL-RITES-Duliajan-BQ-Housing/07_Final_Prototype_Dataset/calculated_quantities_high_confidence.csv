@@ -1,0 +1,11 @@
+Parameter ID,Scope Category,Parameter Description,Verified Quantity,Unit,Drawing Reference,Sheet ID,Drawing Revision,Confidence Classification,Audit Verification Basis
+HC-001,Project Scope,Single Tower Allocated Plinth Area,3419.38,sq.m,BoQ_3 Item 1.01 & AR/TD/001,Sheet 001,R0,HIGH,"Calculated from 30.08m x 16.08m footprint + mumty (34.18 m2); matches BoQ_3 Item 1.01 (27,355 / 8)."
+HC-002,Project Scope,Dwelling Units Count per Tower,24,units,AR/TD/002-007 & DBR Section 1,Sheets 002-007,R0,HIGH,Direct architectural plan count: 4 units/floor x 6 residential floors.
+HC-003,Project Scope,Storey Profile Count,7 (Stilt + 6),storeys,AR/TD/010-013,Sheets 010-013,R0,HIGH,Direct architectural elevation count: Stilt floor + 6 residential floors.
+HC-004,Building Geometry,Gross Tower Footprint Dimensions,30.08 x 16.08 (483.60),m (sq.m),AR/TD/001 & STR/TD/105,Sheet 001 / 105,R0,HIGH,"Directly printed structural grid dimensions (Grid 1-10: 30.08m, Grid A-F: 16.08m)."
+HC-005,Substructure,Foundation Bored Piles Count,207,piles,STR/TD/HOUSING(G+6)/100,Sheet 100,R0,HIGH,Direct visual count of individual pile symbols on foundation layout plan.
+HC-006,Substructure,Bored Pile Diameter,600,mm,STR/TD/HOUSING(G+6)/100 & DBR p.35,Sheet 100,R0,HIGH,Directly scheduled on Sheet 100 title block notes and DBR Section 3.
+HC-007,Superstructure,Framed Columns Count,16,columns,STR/TD/HOUSING(G+6)/104,Sheet 104,R0,HIGH,"Direct schedule count: 4 C1 (1200x350), 8 C2 (1200x300), 4 C3 (1200x300)."
+HC-008,Superstructure,Ductile Shear Walls Count,33,wall legs,STR/TD/HOUSING(G+6)/104,Sheet 104,R0,HIGH,"Direct schedule count: 12 SW1, 4 SW2, 4 SW3, 4 SW4, 4 SW5, 5 CW (SW6-SW10)."
+HC-009,Openings,Scheduled Flush Door Units,216,nos,AR/TD/005 Door Schedule,Sheet 005,R0,HIGH,"Direct schedule count: 48 D1 (1000x2100), 96 D2 (900x2100), 72 D3 (750x2100)."
+HC-010,Openings,Scheduled Window & Ventilator Units,168,nos,AR/TD/005 Window Schedule,Sheet 005,R0,HIGH,Direct schedule count: W1-W4 (120 nos) + V1-V2 (48 nos).

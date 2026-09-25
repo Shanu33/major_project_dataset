@@ -1,0 +1,69 @@
+{
+  "project_id": "OIL-RITES-DULIAJAN-BQ-HOUSING-2025",
+  "project_title": "Construction of Workman Housing Complex (BQ Area) on EPC Mode-II of Contract at OIL Duliajan, Assam",
+  "client": "Oil India Limited (OIL)",
+  "executing_agency": "RITES Limited (A Govt. of India Enterprise)",
+  "tender_reference": "RITES/NERPO/OIL/BQ-HOUSING/25",
+  "cpp_tender_id": "2025_RITES_246752_1",
+  "contract_type": "EPC Mode-II (Lump Sum Component Basis)",
+  "location": {
+    "town": "Duliajan",
+    "district": "Dibrugarh",
+    "state": "Assam",
+    "country": "India",
+    "seismic_zone": "Zone V (Z = 0.36)",
+    "basic_wind_speed_m_per_s": 50.0
+  },
+  "contract_award_value_inr": 1281400000,
+  "overall_contract_duration_months_HISTORICAL_NOTE": "Original DBR stated 36 months; superseded by Dec 2025 award record of 24 months",
+  "total_complex_scope": {
+    "residential_towers_count": 8,
+    "residential_towers_storeys": "Stilt + 6 Storeys",
+    "total_dwelling_units": 192,
+    "total_residential_plinth_area_sqm": 27355.0,
+    "guest_house_plinth_area_sqm": 1990.0,
+    "community_centre_plinth_area_sqm": 1035.0,
+    "substation_plinth_area_sqm": 368.0,
+    "guard_rooms_plinth_area_sqm": 76.0,
+    "external_development_ground_area_sqm": 24675.0,
+    "boundary_wall_length_m": 768.0
+  },
+  "selected_model_scope": {
+    "target_entity": "Exactly ONE Typical Stilt+6 Residential Workmen Housing Tower",
+    "allocation_factor_of_boq_item_1_01": 0.125,
+    "number_of_dwelling_units": 24,
+    "unit_typology": "Type-2BHK (4 units per floor x 6 residential floors)",
+    "single_tower_plinth_area_sqm": 3419.38,
+    "single_tower_footprint_dimensions_m": "30.08m x 16.08m",
+    "single_tower_architectural_height_m": 24.0,
+    "independent_construction_duration_months": "NOT_CALCULATED",
+    "tower_duration_note": "Single tower construction duration has not been calculated. No duration model has been run."
+  },
+  "data_integrity": {
+    "isolation_boundary_enforced": true,
+    "historical_2020_tender_mixed": false,
+    "historical_reference_quarantined": "NIT_CPI4685P21_pdf-2025-Aug-28-17-48-28.pdf in 99_Unverified",
+    "drawing_coverage_percentage": 83.9,
+    "external_boq_material_coverage_percentage": 0.0,
+    "macro_scope_concordance_percentage": 100.0,
+    "dataset_status": "DRAWING_BASED_TAKEOFF_REQUIRES_RECONCILIATION",
+    "next_phase_status": "READY_FOR_CONTROLLED_TRANSCRIPTION"
+  },
+  "contract_award_contractor": "M/s Badri Rai & Company",
+  "contract_award_record_date": "December 2025",
+  "award_baseline_source": "status_of_Tender_dealt_Dec_2025_Badri_Rai_Award.pdf",
+  "award_baseline_note": "Earlier corporate media figure of \u20b9157.25 Cr is excluded from official tender award baseline",
+  "contract_award_value_text": "\u20b9128.14 Crore (excluding GST)",
+  "contract_scheduled_duration_months": 24,
+  "award_baseline_notes": "Awarded to M/s Badri Rai & Company for \u20b9128.14 Crore (excluding GST) with 24 months duration. Pro-rata 1/8th tower division (\u20b916.0175 Cr) is a rough project-level proportional benchmark only, NOT a validated tower cost. Earlier figures of \u20b9113.06 Cr and \u20b9157.25 Cr are superseded/excluded.",
+  "cost_validation": {
+    "cost_accuracy": "NOT CALCULATED",
+    "reason": "no official itemized priced BOQ available for the selected tower scope"
+  },
+  "quantity_validation": {
+    "quantity_validation_coverage": "0%",
+    "quantity_accuracy": "NOT CALCULATED",
+    "reason": "no independent itemized BOQ quantities available for selected tower scope",
+    "scope_consistency_check": "PASS"
+  }
+}

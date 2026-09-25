@@ -1,0 +1,23 @@
+Parameter,Dimension / Label as printed,Unit,Exact Sheet ID,PDF Page,Derivation (Direct/Derived/Unclear),Confidence,Evidence / Notes
+Building footprint length,30080,mm,RITES/BLD/AR/TD/006 & STR/101,10 (Drg 1) & 17 (Drg 3),Direct,HIGH,Direct dimension 30080 mm along outer grid
+Building footprint width,16080,mm,RITES/BLD/AR/TD/006 & STR/101,10 (Drg 1) & 17 (Drg 3),Direct,HIGH,Direct dimension 16080 mm along cross grid
+Stilt floor plinth area,483.60,sq.m,RITES/BLD/AR/TD/001 & TD/006,4 & 10 (Drg 1),Direct,HIGH,Printed on site layout area schedule table
+Typical residential floor plinth area,483.60,sq.m,RITES/BLD/AR/TD/001 & TD/007,4 & 11 (Drg 1),Direct,HIGH,Printed on site layout area schedule table
+Number of typical residential floors,6 (Floors 1 to 6),nos,RITES/BLD/AR/TD/007 & TD/010-013,11 & 14-17 (Drg 1),Direct,HIGH,Levels +3.00m to +21.30m
+Terrace floor area,483.60,sq.m,RITES/BLD/AR/TD/008,12 (Drg 1),Direct,HIGH,Identical structural roof slab footprint
+Mumty & machine room plinth area,34.18,sq.m,RITES/BLD/AR/TD/001 & TD/009,4 & 13 (Drg 1),Direct,HIGH,Printed on site layout area schedule table
+Total Tower Plinth Area,3419.38,sq.m,BoQ_3 Item 1.01 & AR/TD/001,1 (BoQ 3) & 4 (Drg 1),Derived,HIGH,483.60 + (6 x 483.60) + 34.18 = 3419.38 sq.m
+Number of dwelling units per floor,4,units,RITES/BLD/AR/TD/007,11 (Drg 1),Direct,HIGH,4 symmetric 2BHK apartments shown on plan
+Total dwelling units in tower,24,units,RITES/BLD/AR/TD/007 & DBR,11 (Drg 1) & p.12,Derived,HIGH,4 units/floor x 6 residential floors = 24 units
+Typical unit plinth area,90.00,sq.m,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,"Printed note: TYPICAL UNIT AREA = 90 SQ.M."
+Typical unit carpet area,69.00,sq.m,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,"Printed note: TYPICAL CARPET AREA = 69 SQ.M."
+Stilt floor clear height,3000,mm,RITES/BLD/AR/TD/012 (Sec A-A),16 (Drg 1),Direct,HIGH,Level +0.00 to Level +3.00m
+Typical floor-to-floor height,3050,mm,RITES/BLD/AR/TD/012 (Sec A-A),16 (Drg 1),Direct,HIGH,Level-to-level dimension printed on section
+Terrace mumty clear height,2700,mm,RITES/BLD/AR/TD/012 (Sec A-A),16 (Drg 1),Direct,HIGH,Level +21.30 to Level +24.00m
+Total building architectural height,24000,mm,RITES/BLD/AR/TD/010-013,14-17 (Drg 1),Direct,HIGH,Level +0.00 to top of mumty slab (+24.00m)
+Central corridor width,3200,mm,RITES/BLD/AR/TD/007,11 (Drg 1),Direct,HIGH,"Printed label: 3.2M WIDE PASSAGE"
+Staircase flight clear width,1500,mm,RITES/BLD/STR/TD/HOUSING(G+6)/110,26 (Drg 3),Direct,HIGH,"Printed label: W=1500"
+Staircase riser,150,mm,RITES/BLD/STR/TD/HOUSING(G+6)/110,26 (Drg 3),Direct,HIGH,"Printed label: R=150"
+Staircase tread,300,mm,RITES/BLD/STR/TD/HOUSING(G+6)/110,26 (Drg 3),Direct,HIGH,"Printed label: T=300"
+Staircase waist slab thickness,150,mm,RITES/BLD/STR/TD/HOUSING(G+6)/110,26 (Drg 3),Direct,HIGH,Printed dimension on Section X-X & Y-Y
+Passenger lifts count,2,nos,RITES/BLD/AR/TD/006 & TD/007,10 & 11 (Drg 1),Direct,HIGH,"Printed labels: LIFT-1 (15 Passenger) and LIFT-2 (MRL Bed Lift)"

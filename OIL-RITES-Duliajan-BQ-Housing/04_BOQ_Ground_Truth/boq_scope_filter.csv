@@ -1,0 +1,11 @@
+BOQ Item No,Item Description / Scope Summary,Project Total Quantity,Unit,Scope Inclusion Decision,Single Tower Scope Factor,Allocated Single Tower Plinth Area (sq.m),Allocated Dwelling Units,Exclusion / Inclusion Rationale
+1.01,Residential Blocks (Stilt+6) - Total 08 Towers (27355 sq.m),27355.00,sq.m,INCLUDED,0.1250 (1/8th),3419.38,24,Target of analysis: exactly one typical Stilt+6 tower block
+1.02,Guest House (G+3) (1990 sq.m),1990.00,sq.m,EXCLUDED,0.0000,0.00,0,Ancillary standalone building outside typical tower scope
+1.03,Community Centre (G+1) (1035 sq.m),1035.00,sq.m,EXCLUDED,0.0000,0.00,0,Ancillary standalone building outside typical tower scope
+1.04,SUB STATION & PANEL ROOM (368 sq.m),368.00,sq.m,EXCLUDED,0.0000,0.00,0,Central campus utility structure
+1.05,External development works (24675 sq.m ground),24675.00,sq.m,EXCLUDED,0.0000,0.00,0,Campus-wide civil infrastructure works
+1.06,Guard rooms & security hut (76 sq.m),76.00,sq.m,EXCLUDED,0.0000,0.00,0,Campus entrance security structures
+1.07,Boundary Wall (768 m length),768.00,m,EXCLUDED,0.0000,0.00,0,Perimeter boundary wall
+1.08,Parking shed (Cantilever type),1.00,Lump Sum,EXCLUDED,0.0000,0.00,0,Surface campus parking shelter
+1.09,Other External development works (STP/UGT/Roads),1.00,Lump Sum,EXCLUDED,0.0000,0.00,0,Shared civil and environmental works
+1.10,Statutory approvals local clearances GRIHA,1.00,Lump Sum,EXCLUDED,0.0000,0.00,0,General project management and licensing obligations

@@ -1,0 +1,2 @@
+project_id,element_id,quantity_type,formula,input_values,derived_quantity,unit,source,confidence
+OIL-RITES-Duliajan-BQ-Housing,PC-01,Concrete Volume,L * W * D * Count,"L=2.0, W=2.0, D=0.6, Count=54",129.6,m3,Pile Cap Schedule,HIGH

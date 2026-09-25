@@ -1,0 +1,11 @@
+item_no,sub_head,description,quantity,unit,rate,amount,source_page,extraction_method,confidence
+"A(i)","Civil Works","Earthwork excavation, diaphragm wall, RCC raft & frame, AAC block masonry, etc.","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"A(ii)","Plumbing Works","Water supply piping, drainage, sanitary fixtures, etc.","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"B","Fire Fighting","External hydrant ring, wet risers, sprinklers, fire pumps, fire alarm, PAS","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"C","Electrical & Lifts","HT/LT panels, cabling, lighting, lifts, IT/telecom","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"D","Security & IBMS","CCTV, access control, boom barriers, BMS software","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"E","Garbage Chute","Stainless steel centralized garbage chute system","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"F","Automated Parking","Puzzle Car Parking System for 96 cars","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"G","HVAC System","Basement ventilation, VRF air conditioning, etc.","","","","","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"Total","Grand Total","Grand Total (Excluding GST)","","","","2533255034.00","Cost_Abstract_and_BOQ_Schedule_Intelligence.md","EXTRACTED_FROM_MD","HIGH"
+"","","Pending extraction from Price_Bid_BOQ_Revised_Corrigendum.pdf","","","","","","MANUAL_SETUP","LOW"

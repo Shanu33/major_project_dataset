@@ -1,0 +1,14 @@
+{
+  "selected_scope": "Tower A (Block 41A High-Rise, 3B+G+25) (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)",
+  "structural_parameters": {
+    "basements": "3 Common Basements (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)",
+    "superstructure_floors": "Ground + 25 Floors (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)",
+    "skip_amenity_floor": "20th Floor (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)",
+    "foundation": "Heavy RCC Raft on continuous 600mm Diaphragm Wall (Source: Structural_Design_Basis_and_Diaphragm_Wall_Notes.md, Section 1)",
+    "structural_system": "RCC shear wall and moment-resisting frame (Source: Structural_Design_Basis_and_Diaphragm_Wall_Notes.md, Section 2)"
+  },
+  "architectural_parameters": {
+    "total_built_up_area_sqm": "22,472.00 (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)",
+    "total_construction_area_sqm": "51,588.00 (Source: Project_Executive_Summary_and_Data_Extraction.md, Section 2)"
+  }
+}

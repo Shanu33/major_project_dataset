@@ -1,0 +1,8 @@
+file_name,directory,status
+invalid_data_register.csv,15_Quarantine,VERIFIED
+dataset_quality_report.csv,16_Dataset_Readiness,VERIFIED
+sample_coverage_matrix.csv,16_Dataset_Readiness,VERIFIED
+Dataset_A_Projects.csv,18_Final_Dataset,VERIFIED
+Dataset_C_Engineering_Elements.csv,18_Final_Dataset,VERIFIED
+Dataset_D_BOQ_Items.csv,18_Final_Dataset,VERIFIED
+Dataset_L_Validation.csv,18_Final_Dataset,VERIFIED

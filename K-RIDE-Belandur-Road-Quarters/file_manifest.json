@@ -1,0 +1,82 @@
+[
+  {
+    "filename": "Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "01_Tender_NIT_Bidding_Docs/01_Belandur_Road_Station_Tender_Volume",
+    "description": "Complete 313-Page Bid Document for Belandur Road Station & Facilities (NIT, Scope, GCC, SCC & BOQ Section 9)",
+    "is_core": true,
+    "core_label": "1. Belandur Road Complete Bid Volume (313 pages)"
+  },
+  {
+    "filename": "HSRA-Staff-Quarters-Tender-Document.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/03/HSRA-Staff-Quarters-Tender-Document.pdf",
+    "category_path": "06_Related_Railway_Quarters_HSRA/01_Hosur_Staff_Quarters_Tender_Volume",
+    "description": "Complete Tender Volume for Railway Staff Quarters Type-II (8 units) & Type-III (8 units) \u2014 Baiyyappanahalli-Hosur Doubling",
+    "is_core": true,
+    "core_label": "2. Hosur Railway Staff Quarters Type-II & III Volume"
+  },
+  {
+    "filename": "Section_5_Works_Requirements_Pages_88_119.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "02_Works_Requirements_Specifications/01_Scope_of_Work_Section_5",
+    "description": "Section 5: Works Requirements \u2014 Scope of Civil Works, Platform, RCC Framing & Technical Specifications",
+    "is_core": true,
+    "core_label": "3. Works Requirements & Technical Specifications (Section 5)"
+  },
+  {
+    "filename": "Section_6_General_Conditions_Pages_120_227.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "03_Contract_Conditions_GCC_SCC/01_General_Conditions_Section_6",
+    "description": "Section 6: General Conditions of Contract (GCC) \u2014 Contract Administration, Variations & Payment Protocols",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Section_7_Particular_Special_Conditions_Pages_228_259.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "03_Contract_Conditions_GCC_SCC/02_Special_Conditions_Section_7B",
+    "description": "Section 7A & 7B: Particular Conditions (PC) and Special Conditions of Contract (SCC)",
+    "is_core": false,
+    "core_label": ""
+  },
+  {
+    "filename": "Section_9_Bill_of_Quantities_Pages_281_313.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "04_Cost_BOQ_Schedules/02_Civil_BOQ_Schedule_Section_9",
+    "description": "Section 9: Complete Bill of Quantities (BOQ) \u2014 Earthwork, RCC, Brickwork, Plastering, Flooring, Painting, Electrical & Plumbing",
+    "is_core": true,
+    "core_label": "4. Complete BOQ Schedule Section 9 (Pages 281\u2013313)"
+  },
+  {
+    "filename": "Drawing_Access_Inspection_Protocol_Page_31.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "05_Drawing_Access_Protocols/01_Office_Inspection_Protocol",
+    "description": "Official Tender Clause (Page 31) for Physical Inspection of Detailed Engineering Drawings at K-RIDE Bangalore Office",
+    "is_core": true,
+    "core_label": "5. Office Drawing Inspection Protocol (Page 31)"
+  },
+  {
+    "filename": "Contractor_Structural_Design_Framework.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/02/Tender-Document-Belandur-Road-Baiyyappanahalli-Station-Building.pdf",
+    "category_path": "05_Drawing_Access_Protocols/02_Contractor_Detailed_Design_Framework",
+    "description": "Contractor Design Mandate \u2014 Structural Analysis, RCC Framed Calculations (Zone II Seismic) & AutoCAD Working Drawings Submission",
+    "is_core": true,
+    "core_label": "6. Contractor Design & Engineering Responsibility Framework"
+  },
+  {
+    "filename": "Railway_Staff_Quarters_Type_II_Scope.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/03/HSRA-Staff-Quarters-Tender-Document.pdf",
+    "category_path": "06_Related_Railway_Quarters_HSRA/02_Type_II_Quarters_8_Units",
+    "description": "Scope & Specifications for 8 Units Type-II Railway Staff Quarters (Foundation, RCC Superstructure & Services)",
+    "is_core": true,
+    "core_label": "7. Type-II Staff Quarters (8 Units) Technical Scope"
+  },
+  {
+    "filename": "Railway_Staff_Quarters_Type_III_Scope.pdf",
+    "url": "https://kride.in/wp-content/uploads/2021/03/HSRA-Staff-Quarters-Tender-Document.pdf",
+    "category_path": "06_Related_Railway_Quarters_HSRA/03_Type_III_Quarters_8_Units",
+    "description": "Scope & Specifications for 8 Units Type-III Railway Staff Quarters (Civil Construction, Plumbing & Electrification)",
+    "is_core": false,
+    "core_label": ""
+  }
+]

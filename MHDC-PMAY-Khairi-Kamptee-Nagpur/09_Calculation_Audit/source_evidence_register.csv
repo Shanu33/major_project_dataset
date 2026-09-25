@@ -1,0 +1,5 @@
+document_id,document_category,filename,relative_path,file_size_bytes,project_identity_match,selected_scope_match,authority_status,usable_for_model_input,usable_as_training_target_evidence,notes
+MHDC-DOC-001,06_MEP_Services,VolumeIK-P1.pdf,06_MEP_Services/VolumeIK-P1.pdf,2704927,YES,YES,OFFICIAL,YES,YES,"Primary turnkey master tender"
+MHDC-DOC-002,99_Unverified_or_Related_References,Bhilgaon_Package-1-VolumeI.pdf,99_Unverified_or_Related_References/Bhilgaon_Package-1-VolumeI.pdf,2503965,NO,NO,UNCERTAIN,NO,NO,"Reference only"
+MHDC-DOC-003,99_Unverified_or_Related_References,Bhilgaon_Package-2-VolumeI.pdf,99_Unverified_or_Related_References/Bhilgaon_Package-2-VolumeI.pdf,3229699,NO,NO,UNCERTAIN,NO,NO,"Reference only"
+MHDC-DOC-004,99_Unverified_or_Related_References,TechnicalBidwithsign.pdf,99_Unverified_or_Related_References/TechnicalBidwithsign.pdf,362225,NO,NO,UNCERTAIN,NO,NO,"Reference only"

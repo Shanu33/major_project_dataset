@@ -1,0 +1,21 @@
+{
+  "project_id": "SBI-GIFT-CITY-TWIN-TOWERS-2024",
+  "project_title": "Composite Construction works of Civil, Plumbing, Sanitary, Electrical, Firefighting, HVAC, SECURITY EQUIPMENTS, LIFTS, IBMS, Landscaping, and Allied Services, etc. Proposed Construction of Residential Twin Towers at Block No 41 A & B, GIFT City, Gandhinagar, Gujarat",
+  "client": {
+    "name": "State Bank of India",
+    "sector": "Banking PSU"
+  },
+  "tender_reference": "SBI/GNR/26-27/02",
+  "location": {
+    "city": "GIFT City",
+    "district": "Gandhinagar",
+    "state": "Gujarat"
+  },
+  "selected_model_scope": {
+    "scope_description": "Tower A (Block 41A High-Rise, 3B+G+25)"
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DOCUMENT_AUDIT_IN_PROGRESS"
+  }
+}

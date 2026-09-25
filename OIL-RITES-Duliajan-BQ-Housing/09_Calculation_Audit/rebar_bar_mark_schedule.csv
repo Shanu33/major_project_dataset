@@ -1,0 +1,31 @@
+Bar Mark ID,Structural Element,Member Mark,Bar Diameter (mm),Bar Type / Position,Number of Members,Bars per Member,Total Bars,Theoretical Unit Wt (kg/m),Cut Length (m),Total Length (m),Total Weight (kg),Total Weight (MT),Drawing Reference,Confidence Classification,Audit Notes
+BM-C1-01,Superstructure Columns,C1 (1200x350),32,Longitudinal Main Corner/Face,28,14,392,6.313,3.45,1352.4,8537.7,8.54,STR/TD/HOUSING(G+6)/104,MEDIUM,14-T32 scheduled on Sheet 104; cut length includes lap length 50d
+BM-C1-02,Superstructure Columns,C1 (1200x350),25,Longitudinal Main Inner,28,8,224,3.853,3.45,772.8,2977.6,2.98,STR/TD/HOUSING(G+6)/104,MEDIUM,8-T25 scheduled on Sheet 104
+BM-C1-03,Superstructure Columns,C1 (1200x350),10,Confinement Ties (4-legged),28,30,840,0.617,3.4,2856.0,1764.0,1.76,STR/TD/HOUSING(G+6)/104,MEDIUM,4-legged T10 ties @ 100/150 c/c
+BM-C2-01,Superstructure Columns,C2 (1200x300),25,Longitudinal Main,56,22,1232,3.853,3.25,4004.0,15422.0,15.42,STR/TD/HOUSING(G+6)/104,MEDIUM,22-T25 scheduled on Sheet 104
+BM-C2-02,Superstructure Columns,C2 (1200x300),10,Confinement Ties (4-legged),56,30,1680,0.617,2.92,4905.6,3024.0,3.02,STR/TD/HOUSING(G+6)/104,MEDIUM,4-legged T10 ties @ 100/150 c/c
+BM-C3-01,Superstructure Columns,C3 (1200x300),20,Longitudinal Main,28,22,616,2.466,3.25,2002.0,6768.0,6.77,STR/TD/HOUSING(G+6)/104,MEDIUM,22-T20 scheduled on Sheet 104
+BM-C3-02,Superstructure Columns,C3 (1200x300),10,Confinement Ties (4-legged),28,30,840,0.617,2.92,2452.8,1512.0,1.51,STR/TD/HOUSING(G+6)/104,MEDIUM,4-legged T10 ties @ 100/150 c/c
+BM-SW-01,Shear Walls,SW1-SW5,16,Boundary Element Verticals,196,8,1568,1.578,3.25,5096.0,8041.49,8.04,STR/TD/HOUSING(G+6)/104,MEDIUM,Boundary element vertical cages per IS 13920
+BM-SW-02,Shear Walls,SW1-SW5,12,Web Vertical Reinforcement,196,16,3136,0.888,3.25,10192.0,9050.5,9.05,STR/TD/HOUSING(G+6)/104,MEDIUM,Web curtain vertical bars T12@150 c/c both faces
+BM-SW-03,Shear Walls,SW1-SW5,8,Horizontal Shear Ties / Curtains,196,24,4704,0.395,5.0,23520.0,9290.4,9.29,STR/TD/HOUSING(G+6)/104,MEDIUM,Horizontal web bars T8@150 c/c both faces + cross ties
+BM-SW-04,Core Shear Walls,SW6-SW10,12,Vertical & Boundary Bars,35,20,700,0.888,3.25,2275.0,2020.2,2.02,STR/TD/HOUSING(G+6)/104,MEDIUM,Lift and duct shear wall verticals
+BM-SW-05,Core Shear Walls,SW6-SW10,8,Horizontal Curtains & Links,35,30,1050,0.395,4.15,4357.5,1721.21,1.72,STR/TD/HOUSING(G+6)/104,MEDIUM,Lift and duct shear wall horizontals
+BM-PB-01,Plinth Beams,PB1 to PB34,20,Longitudinal Main Bars,108,4,432,2.466,4.2,1814.4,4474.31,4.47,STR/TD/HOUSING(G+6)/105,MEDIUM,Plinth beam top and bottom through bars
+BM-PB-02,Plinth Beams,PB1 to PB34,8,Stirrups (2-legged),108,30,3240,0.395,1.52,4924.8,1945.3,1.95,STR/TD/HOUSING(G+6)/105,MEDIUM,T8@100/150 c/c 2-legged shear stirrups
+BM-FB-01,Floor & Terrace Beams,B1 to B34 (7 levels),25,Top Support Extra Bars,756,2,1512,3.853,2.1,3175.2,12234.04,12.23,STR/TD/HOUSING(G+6)/107-108,MEDIUM,T25 hogging moment negative bars at supports
+BM-FB-02,Floor & Terrace Beams,B1 to B34 (7 levels),20,Bottom Mid-span Bars,756,3,2268,2.466,4.2,9525.6,23490.13,23.49,STR/TD/HOUSING(G+6)/107-108,MEDIUM,T20 sagging moment positive bars
+BM-FB-03,Floor & Terrace Beams,B1 to B34 (7 levels),12,Side Face Reinforcement,756,2,1512,0.888,4.2,6350.4,5639.16,5.64,STR/TD/HOUSING(G+6)/107-108,MEDIUM,Side face reinforcement for deep beams (>750mm total depth)
+BM-FB-04,Floor & Terrace Beams,B1 to B34 (7 levels),8,Shear Stirrups,756,30,22680,0.395,1.55,35154.0,13885.83,13.89,STR/TD/HOUSING(G+6)/107-108,MEDIUM,"T8 stirrups @ 100mm in support zones, 150mm midspan"
+BM-SL-01,Suspended Floor Slabs,S1/S2 (7 levels),8,Bottom Mesh Both Ways,7,2800,19600,0.395,4.5,88200.0,34839.0,34.84,STR/TD/HOUSING(G+6)/107-108,MEDIUM,"T8@125 c/c main, T8@150 c/c distribution"
+BM-SL-02,Stilt Grade Slab,GS1/GS2,8,Bottom Single Mesh,1,1500,1500,0.395,4.5,6750.0,2666.25,2.67,STR/TD/HOUSING(G+6)/105,MEDIUM,T8@150 c/c both ways in grade slab
+BM-ST-01,Staircase Cores,Doglegged (2 cores),12,Waist Slab Main Reinforcement,28,16,448,0.888,4.2,1881.6,1670.86,1.67,STR/TD/HOUSING(G+6)/110,MEDIUM,T12@125 c/c main tension reinforcement
+BM-ST-02,Staircase Cores,Doglegged (2 cores),10,Landing & Distribution Bars,28,20,560,0.617,3.6,2016.0,1243.87,1.24,STR/TD/HOUSING(G+6)/110,MEDIUM,T10@150 c/c distribution and landing mesh
+BM-MUM-01,Mumty & Tank Structure,Columns/Slabs/Walls,10,Longitudinal and Mesh Bars,1,600,600,0.617,4.0,2400.0,1480.8,1.48,STR/TD/HOUSING(G+6)/109,MEDIUM,"Mumty roof slab, columns, and lintel bands"
+BM-PL-01,Bored RCC Piles,600mm Dia Piles,20,Longitudinal Cage Bars,207,8,1656,2.466,18.5,30636.0,75548.38,75.55,STR/TD/HOUSING(G+6)/100,ESTIMATED,Assumed 8-T20 bars full cage length (ASM-001/002); depth is estimated
+BM-PL-02,Bored RCC Piles,600mm Dia Piles,10,Helical Ties / Spiral,207,1,207,0.617,185.0,38295.0,23628.02,23.63,STR/TD/HOUSING(G+6)/100,ESTIMATED,Assumed T10 spiral @ 150 c/c along 18m cage (ASM-001/002)
+BM-PC-01,RCC Pile Caps,1 to 4 Pile Caps,20,Bottom Reinforcement Mesh,84,18,1512,2.466,3.0,4536.0,11185.78,11.19,STR/TD/HOUSING(G+6)/101,ESTIMATED,"Assumed T20@125 c/c bottom mesh (ASM-002/003); preliminary 84 count subject to unresolved 54 vs 84 contradiction"
+BM-PC-02,RCC Pile Caps,1 to 4 Pile Caps,16,Top Shrinkage Mesh & Side Links,84,14,1176,1.578,3.0,3528.0,5567.18,5.57,STR/TD/HOUSING(G+6)/101,ESTIMATED,"Assumed T16@150 c/c top mesh; preliminary 84 count subject to unresolved 54 vs 84 contradiction"
+BM-PC-03,RCC Pile Caps,1 to 4 Pile Caps,12,Vertical Shear Links,84,20,1680,0.888,2.4,4032.0,3580.42,3.58,STR/TD/HOUSING(G+6)/101,ESTIMATED,"Assumed vertical links (ASM-003); preliminary 84 count subject to unresolved 54 vs 84 contradiction"
+BM-OHT-01,Overhead Water Tank,Twin Compartment OHT,12,Wall & Base Slab Mesh,2,80,160,0.888,7.5,1200.0,1065.6,1.07,STR/TD/HOUSING(G+6)/109,ESTIMATED,Assumed T12@150 c/c both faces (ASM-010)
+BM-OHT-02,Overhead Water Tank,Twin Compartment OHT,10,Top Roof Slab & Links,2,80,160,0.617,7.5,1200.0,740.4,0.74,STR/TD/HOUSING(G+6)/109,ESTIMATED,Assumed T10@150 c/c top slab and cross ties (ASM-010)

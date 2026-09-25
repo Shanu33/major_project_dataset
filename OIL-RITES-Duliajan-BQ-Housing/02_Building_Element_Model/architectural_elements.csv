@@ -1,0 +1,26 @@
+Element ID,Element Category,Sub-Element,Dimension / Label as printed,Unit,Exact Sheet ID,PDF Page,Derivation (Direct/Derived/Unclear),Confidence,Evidence / Notes
+ARC-E-001,Walls,External perimeter brick walls,230 THK. BRICK WALL,mm,RITES/BLD/AR/TD/007,11 (Drg 1),Direct,HIGH,External wall thickness printed on plan
+ARC-E-002,Walls,Internal partition brick walls,115 THK. BRICK WALL,mm,RITES/BLD/AR/TD/007,11 (Drg 1),Direct,HIGH,Internal wall thickness printed on plan
+ARC-E-003,Walls,Terrace parapet wall,230 THK. & 1000 HT. PARAPET,mm,RITES/BLD/AR/TD/008 & 012,12 & 16 (Drg 1),Direct,HIGH,Printed note on terrace plan and section
+ARC-E-004,Doors,Door D1 (Toilets),800MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Single leaf WPC frame, WPC flush shutter"
+ARC-E-005,Doors,Door D2 (Bedrooms/Kitchen),1000MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Single leaf Teak wood frame, flush door"
+ARC-E-006,Doors,Door D3 (Main Entry),1050MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Single leaf Teak frame, flush door & wire mesh shutter"
+ARC-E-007,Doors,Door DW1 (Bed Balcony),2000MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Teak frame flush door + casement window with wire mesh"
+ARC-E-008,Doors,Door DW2 (Living Balcony),2295MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Teak frame flush door + casement window with wire mesh"
+ARC-E-009,Service Doors,Door SD1 (Electrical Shaft),900MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,"Double leaf MS door (2 Hr fire rated per NBC)"
+ARC-E-010,Service Doors,Door SD2 (LV Shaft),600MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,Single leaf MS door as per drawing/specs
+ARC-E-011,Service Doors,Door SD3 (FHC Shaft),900MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,MS single leaf door with glass (FHC Shaft)
+ARC-E-012,Service Doors,Door SD4 (Mumty Entrance),1200MM X 2100MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,MS double leaf door as per drawing/specs
+ARC-E-013,Windows,Window W1 (Bedrooms),1200 X 1200 MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,"Aluminium frame sliding with wire mesh and MS grill"
+ARC-E-014,Windows,Window W2 (Kitchen),1000 X 1225 MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,"Aluminium frame sliding with wire mesh and MS grill"
+ARC-E-015,Windows,Window W3 (Staircase Well),2300 X 1100 MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,"Aluminium frame partly sliding cum fixed panels"
+ARC-E-016,Windows,Window W4 (Living Room),1200 X 1200 MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,"Aluminium frame sliding with wire mesh and MS grill"
+ARC-E-017,Ventilators,Ventilator V1 (Common Toilet),515 X 875 MM,mm,RITES/BLD/AR/TD/005 & TD/014,9 & 18 (Drg 1),Direct,HIGH,Aluminium fixed frosted glass with exhaust fan provision
+ARC-E-018,Ventilators,Ventilator V2 (Attached Toilet),615 X 875 MM,mm,RITES/BLD/AR/TD/005 & TD/015,9 & 19 (Drg 1),Direct,HIGH,Aluminium fixed frosted glass with exhaust fan provision
+ARC-E-019,Shafts,Kitchen Plumbing Shaft SH-01,600 X 600,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-020,Shafts,Toilet Plumbing Shaft SH-02,600 X 600,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-021,Shafts,Rainwater Pipe Shaft SH-03,600 X 840,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-022,Shafts,Toilet Plumbing Shaft SH-04,600 X 600,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-023,Shafts,Rising Main Shaft SH-05,1500 X 800,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-024,Shafts,Fire Hydrant Shaft SH-06,1200 X 800,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule
+ARC-E-025,Shafts,Low Voltage Shaft SH-07,800 X 800,mm,RITES/BLD/AR/TD/005,9 (Drg 1),Direct,HIGH,Printed on shaft schedule

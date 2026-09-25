@@ -1,0 +1,11 @@
+Trade / Activity,Gang Composition,Daily Productivity,Unit per Gang-Day,Indian Standard Reference,Productivity Basis
+Piling (600mm dia bored piles),1 Rig operator + 2 mechanics + 4 helpers,2.5,piles/rig-day,IS 2911 / Industry standard,Hydraulic rotary piling rig in alluvial soil
+RCC Concreting (Batch plant & pump),1 Pump operator + 2 vibrator operators + 6 helpers,40.0,m3/day,CPWD DAR 2021 Table 5.1,Ready-mix concrete placement with mobile pump
+Bar bending & fixing (TMT rebar),1 Bar bender + 1 helper,250.0,kg/pair-day,IS 7272 (Part 1) & CPWD DAR,Cutting bending fabricating and placing in formwork
+Formwork & Shuttering,1 Shuttering carpenter + 1 helper,15.0,sq.m/pair-day,CPWD DAR 2021 Table 5.2,Erection and dismantling of ply/steel shuttering
+Brick Masonry (230mm & 115mm),1 Mason + 1.5 helpers,1.25,m3/gang-day,CPWD DAR 2021 Table 6.1,Traditional clay brick masonry in cement mortar
+Internal Plastering (12mm/6mm),1 Plasterer mason + 1 helper,10.0,sq.m/pair-day,CPWD DAR 2021 Table 12.1,Internal wall and ceiling cement plaster
+External Plastering (18mm 2 coats),1 Plasterer mason + 1.5 helpers,7.5,sq.m/gang-day,CPWD DAR 2021 Table 12.2,External scaffolding and two-coat plaster
+Flooring & Tiling,1 Tile layer + 1 helper,8.0,sq.m/pair-day,CPWD DAR 2021 Table 11.1,Vitrified ceramic and stone flooring in CM 1:4
+Painting (Internal & External),1 Painter + 0.5 helper,35.0,sq.m/day,CPWD DAR 2021 Table 13.1,Two coats emulsion painting over primer and putty
+Waterproofing (Terrace & Toilets),1 Applicator + 1 helper,20.0,sq.m/pair-day,Industry standard / CPWD DAR,Membrane laying brick-bat coba and joint treatment

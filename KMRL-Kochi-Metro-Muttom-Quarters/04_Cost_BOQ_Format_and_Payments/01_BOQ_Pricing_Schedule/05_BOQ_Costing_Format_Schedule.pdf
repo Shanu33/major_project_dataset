@@ -1,0 +1,68 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1065 >>
+stream
+BT
+/F1 15 Tf
+50 740 Td
+(BILL OF QUANTITIES \(BOQ\) FORMAT & PRICING STRUCTURE) Tj
+ET
+BT
+/F1 11 Tf
+50 720 Td
+(Standard Metro Rail Rate Schedule & Item Classification Format) Tj
+ET
+BT
+/F1 9 Tf
+50 690 Td
+(BOQ Schedule Structure:) Tj
+-50 -690 Td
+50 676 Td
+(  - Part A: Architectural & Civil Works \(Earthwork, Piling, RCC, Masonry, Plastering, Painting\)) Tj
+-50 -676 Td
+50 662 Td
+(  - Part B: Plumbing & Public Health Engineering \(Sanitary fixtures, drainage, water supply, pumps\)) Tj
+-50 -662 Td
+50 648 Td
+(  - Part C: Electrical & Mechanical Services \(Conduiting, wiring, switchboards, LT panels, DG, lifts\)) Tj
+-50 -648 Td
+50 634 Td
+(  - Part D: External Site Infrastructure \(Compound wall, security gates, roads, stormwater drains, STP\)) Tj
+-50 -634 Td
+50 620 Td
+(Bidder Pricing Instructions:) Tj
+-50 -620 Td
+50 606 Td
+(  - Lump-sum percentage fee for complete architectural and engineering consultancy services) Tj
+-50 -606 Td
+50 592 Td
+(  - Item rate schedule for turnkey construction execution based on Kerala PWD / CPWD DSR benchmarks) Tj
+-50 -592 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF

@@ -1,0 +1,16 @@
+Work Package,Total Quantity,Unit,Gang Productivity,Mandays Required,Key Trades Involved,Average Crew Size,Estimated Working Days
+Piling Foundation (207 piles),207.00,piles,2.5 piles/rig-day,580,Rig operators mechanics helpers,7 workers,83 (2 rigs -> 42 days)
+Substructure Concrete & Caps,293.06,m3,25 m3/day,117,Pump operators masons helpers,10 workers,12 days
+Plinth Beams & Grade Slab,108.06,m3,20 m3/day,54,Masons pump crew helpers,10 workers,6 days
+Substructure Reinforcement,128.74,MT,250 kg/pair-day,1030,Bar benders and helpers,16 workers,65 days
+Superstructure Columns & Walls,482.19,m3,20 m3/day,241,Masons concrete crew vibrators,10 workers,25 days
+Superstructure Beams & Slabs,745.71,m3,30 m3/day,249,Pump crew masons helpers,10 workers,25 days
+Superstructure Reinforcement,172.11,MT,250 kg/pair-day,1377,Bar benders and helpers,20 workers,69 days
+Superstructure Shuttering,9160.00,sq.m,15 sq.m/pair-day,1221,Carpenters and helpers,16 workers,76 days
+Brick Masonry (230mm & 115mm),623.65,m3,1.25 m3/gang-day,1247,Brick masons and helpers,16 workers,78 days
+Internal & External Plastering,14850.00,sq.m,9.0 sq.m/pair-day,3300,Plasterers and helpers,24 workers,138 days
+Flooring Tiling & Stone Work,3803.60,sq.m,8.0 sq.m/pair-day,951,Tile masons and helpers,12 workers,79 days
+Internal & External Painting,15700.00,sq.m,35 sq.m/day,673,Painters and helpers,10 workers,67 days
+Terrace Waterproofing,483.60,sq.m,20 sq.m/pair-day,48,Waterproofing crew,4 workers,12 days
+Doors Windows & Railings,420.00,assemblies,4 units/day,210,Carpenters fitters welders,6 workers,35 days
+TOTAL SINGLE TOWER LABOUR (PRELIMINARY),-,-,-,11298,All civil and architectural trades — PRELIMINARY ESTIMATE ONLY,Peak 65-80 workers (assumed),NOT_VALIDATED — Duration not calculated. This estimate uses assumed productivity rates and is NOT ready for model training.

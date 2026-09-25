@@ -1,0 +1,9 @@
+Scope Domain,Drawing Coverage Ratio (%),Independent BOQ Material Coverage (%),Scope Consistency Check,Audit Classification,Domain Audit Findings
+Macro Scope & Geometry,100.0%,100.0% (Item 1.01),PASS,SCOPE_CONSISTENCY_CHECK,"Plinth area (3419.38 sqm), unit count (24), and storey count (Stilt+6) concordant with tender scope."
+Foundation (Piles & Caps),60.0%,0.0%,PARTIAL,ASSUMPTION_REQUIRED,"207 piles counted, but depth (18m) and cap thickness (1.0m) are assumed; cap count contradictory (54 vs 84)."
+Superstructure Frame (Columns & Walls),95.0%,0.0%,N/A,MEDIUM_CONFIDENCE_DRAWING,All 49 columns/shear walls detailed on Sheet 104; height assumes repeated 3.0m clear floors.
+Floor Framing & Slabs,75.0%,0.0%,N/A,ESTIMATED_DRAWING,Beams use average cross-sections and 403.5m grid runs; slabs use assumed 130mm weighted thickness.
+Staircase & Roof Enclosures,80.0%,0.0%,N/A,MEDIUM_AND_ESTIMATED,Staircases and mumty detailed; OHT wall/slab thickness estimated without structural schedule.
+Masonry & Finishes,70.0%,0.0%,N/A,ESTIMATED_DRAWING,Masonry and plaster rely on gross opening deduction percentages without floor-wise room schedules.
+Scheduled Openings,100.0%,0.0%,PASS,DIRECT_DRAWING_EVIDENCE,All 384 door and window assemblies directly transcribed from Sheet 005 schedule.
+Overall Selected Tower Scope,83.9%,0.0%,PARTIAL,DRAWING_BASED_TAKEOFF_REQUIRES_RECONCILIATION,Quantity validation coverage: 0%. Quantity accuracy: NOT CALCULATED. No itemized BOQ available.

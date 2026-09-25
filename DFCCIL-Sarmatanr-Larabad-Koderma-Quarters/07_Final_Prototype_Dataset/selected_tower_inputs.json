@@ -1,0 +1,17 @@
+{
+  "tower_name": {
+    "value": "Type-II Staff Quarters Block",
+    "source": "README.md - Section 2. Selected Single-Building Model Scope",
+    "status": "VERIFIED"
+  },
+  "location": {
+    "value": "Koderma",
+    "source": "README.md - Section 2",
+    "status": "VERIFIED"
+  },
+  "number_of_floors": {
+    "value": "G+2 Floors (6 Units)",
+    "source": "README.md - Section 2",
+    "status": "VERIFIED"
+  }
+}

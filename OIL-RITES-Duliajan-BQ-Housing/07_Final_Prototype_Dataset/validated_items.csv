@@ -1,0 +1,9 @@
+Item Code,Item Description,Model Calculated Value,Official Reference Value,Unit,Scope Consistency Check,Validation Status,Quantity / Cost Accuracy,Audit Traceability Reference
+VAL-001,Tower Plinth Area,3419.38,3419.38,sq.m,PASS,SCOPE_CONSISTENCY_CHECK,N/A,BoQ_3 Item 1.01 (27355 sqm / 8) & AR/TD/001
+VAL-002,Dwelling Unit Count,24,24,units,PASS,SCOPE_CONSISTENCY_CHECK,N/A,DBR Section 1 & AR/TD/007 (4 units/flr x 6 flrs)
+VAL-003,Building Height & Storeys,Stilt + 6,Stilt + 6,storeys,PASS,SCOPE_CONSISTENCY_CHECK,N/A,BoQ_3 Item 1.01 & AR/TD/010-013 (24.0m ht)
+VAL-004,Foundation Bored Piles Count,207,Not in BOQ,piles,PASS,DRAWING_VERIFIED_COUNT,N/A,Direct count from STR/TD/HOUSING(G+6)/100
+VAL-005,Concrete Intensity (Superstructure),0.372,0.35 - 0.40,m3/sq.m,N/A,BENCHMARK_COMPARISON_ONLY,NOT_CALCULATED,IS 456 / High-rise residential benchmark
+VAL-006,Steel Intensity (Superstructure),135.41,125 - 145,kg/m3,N/A,BENCHMARK_COMPARISON_ONLY,NOT_CALCULATED,IS 13920:2016 / Zone V Ductile Detailing
+VAL-007,Overall Steel Intensity,87.98,80 - 95,kg/sq.m,N/A,BENCHMARK_COMPARISON_ONLY,NOT_CALCULATED,Indian High Seismic Deep Piling Benchmark
+VAL-008,Single Tower Construction Cost,125000000,No Itemized BOQ,INR,N/A,NOT_VALIDATED,NOT_CALCULATED,Cost accuracy: NOT CALCULATED. Reason: no official itemized priced BOQ available.

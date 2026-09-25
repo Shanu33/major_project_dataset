@@ -1,0 +1,2 @@
+project_id,drawings_found,boq_found,geometry_extracted
+ALL,YES,YES,NO (Requires VLM)

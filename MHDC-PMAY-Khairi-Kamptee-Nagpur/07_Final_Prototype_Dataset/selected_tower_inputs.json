@@ -1,0 +1,8 @@
+{
+  "tower_id": "Building B1",
+  "description": "LIG High-Rise Tower",
+  "floors": "G+14",
+  "units": 240,
+  "source_reference": "VolumeIK-P1.pdf",
+  "status": "VERIFIED"
+}

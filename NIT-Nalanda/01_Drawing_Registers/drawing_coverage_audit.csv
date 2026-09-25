@@ -1,0 +1,3 @@
+tower_id,drawing_type,drawing_number,element_coverage,missing_information,audit_notes
+Type_1B,Architectural,a.2.1,Ground Floor Plan,Upper floors; Elevations; Sections,Incomplete coverage based on current files
+Type_1B,Structural,1.1,Pile Layout and Details,Superstructure; Columns; Slabs; Beams,Only foundation details found

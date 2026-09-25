@@ -1,0 +1,7 @@
+building_id,discipline,expected_drawings,found_drawings,coverage_percentage,missing_critical_drawings,notes
+LIG_TYPE_A,Architectural,UNKNOWN,0,0,ALL,Pending extraction
+LIG_TYPE_B,Architectural,UNKNOWN,0,0,ALL,Pending extraction
+LIG_TYPE_C,Architectural,UNKNOWN,0,0,ALL,Pending extraction
+LIG_TYPE_A,Structural,UNKNOWN,0,0,ALL,Pending extraction
+LIG_TYPE_B,Structural,UNKNOWN,0,0,ALL,Pending extraction
+LIG_TYPE_C,Structural,UNKNOWN,0,0,ALL,Pending extraction

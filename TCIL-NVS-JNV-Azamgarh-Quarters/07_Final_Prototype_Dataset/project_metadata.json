@@ -1,0 +1,18 @@
+{
+  "project_id": "TCIL-NVS-JNV-AZAMGARH-QUARTERS-2026",
+  "project_title": "Conversion of SP Shed to Regular Staff Quarters at JNV Azamgarh (UP)",
+  "client": {
+    "name": "Navodaya Vidyalaya Samiti (NVS)",
+    "sector": "Central Government Education"
+  },
+  "executing_agency": {
+    "name": "Telecommunications Consultants India Limited (TCIL)"
+  },
+  "selected_model_scope": {
+    "scope_description": "Type-II Staff Quarters Block (G+1, 8 Units)"
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "dataset_status": "DOCUMENT_AUDIT_IN_PROGRESS"
+  }
+}

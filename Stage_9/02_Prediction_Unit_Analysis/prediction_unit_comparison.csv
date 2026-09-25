@@ -1,0 +1,5 @@
+level,supported,sample_count,reason
+Level A - Project,YES,8,Too few samples for ML
+Level B - Tower,NO,0,No isolated tower cost labels
+Level C - Element,YES,54,Geometry extracted from pilot
+Level D - BOQ Item,NO,0,Unmapped to geometry

@@ -1,0 +1,21 @@
+# 00 - Core Intelligence Benchmark Dataset
+
+The 7 primary engineering benchmark packages and **both official DFCCIL master tender PDFs (July 2024 & Dec 2023, ~4.54 MB)** for the Type-3 Staff Quarters across 7 stations and the FLN service building vertical extension.
+
+**Total Verified Files:** 9 (2 Official Master Tender PDFs + 7 Benchmark Charters)
+
+---
+
+## 📋 Verified Dataset Registry
+
+| # | Local File Link | Size | Scope & Description | Source |
+|---|---|---|---|---|
+| **0A** | [`Tender_document_12_07_M359.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/Tender_document_12_07_M359.pdf) | **2.12 MB** | **Official July 2024 Complete Master Tender Document (200+ Pages)**: Parts I to VIII Complete — NIT, GCC, SCC, Milestones, Form No. 1 BOQ, Indicative Drawings | [DFCCIL Official](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **0B** | [`Tender_document_JP_EN_ZIHU.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/Tender_document_JP_EN_ZIHU.pdf) | **2.42 MB** | **Official Dec 2023 Earlier Tender Document (184 Pages)**: Tender No. JP-EN-Quarter-2023-18 complete baseline comparison volume | [DFCCIL Official](https://dfccil.com/upload/Tender_document_JP_EN_ZIHU.pdf) |
+| **1** | [`01_Master_Project_Charter_Scope.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/01_Master_Project_Charter_Scope.pdf) | **1.7 KB** | Master Project Charter: ₹8.80 Cr, 15 months completion, 7 DFC stations & FLN building extension | [DFCCIL Portal](https://www.dfccil.com) |
+| **2** | [`02_Station_Wise_Quarters_Allocation.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/02_Station_Wise_Quarters_Allocation.pdf) | **1.7 KB** | Station-Wise Deployment Schedule: REJN, AELN, DBLN, BAGN, SMPN, PMPN, and FLN | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **3** | [`03_FLN_Service_Building_Vertical_Extension.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/03_FLN_Service_Building_Vertical_Extension.pdf) | **1.7 KB** | FLN Service Building Vertical Extension: Column rebar anchoring, retrofitting & live rail operations safety | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **4** | [`04_Civil_Structural_Design_Vetting_Protocol.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/04_Civil_Structural_Design_Vetting_Protocol.pdf) | **1.7 KB** | Geotechnical & Structural Vetting Protocol: Clauses 1.5 & 2.17 Govt-approved structural engineer mandate | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **5** | [`05_BOQ_Rate_Analysis_Schedule.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/05_BOQ_Rate_Analysis_Schedule.pdf) | **1.8 KB** | Form No. 1 BOQ Schedule of Quantities: Item rate analysis across all civil, structural & finishing items | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **6** | [`06_Milestone_Schedule_15_Months.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/06_Milestone_Schedule_15_Months.pdf) | **1.7 KB** | Part VI 15-Month Execution Milestones: Month-by-month progress milestones and liquidated damages clauses | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |
+| **7** | [`07_General_Special_Conditions_Contract.pdf`](file:///c:/Users/shahnawaz%20khan/OneDrive/Documents/DataRequirement/DFCCIL-Jaipur-Staff-Quarters/00_Core_Intelligence_Dataset/07_General_Special_Conditions_Contract.pdf) | **1.7 KB** | Part IV (GCC) & Part V (SCC): Indian Railways Standard GCC April 2022 and project special conditions | [DFCCIL Tender](https://dfccil.com/upload/Tender_document_12_07_M359.pdf) |

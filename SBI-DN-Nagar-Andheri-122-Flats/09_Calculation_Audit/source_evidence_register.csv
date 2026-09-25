@@ -1,0 +1,20 @@
+document_id,document_category,filename,relative_path,file_size_bytes,project_identity_match,selected_scope_match,authority_status,usable_for_model_input,usable_as_training_target_evidence,notes
+SBI-DN-DOC-001,CAT1,NOTICE_INVITING_TENDER20250828084234367.pdf,00_Core_Intelligence_Dataset/NOTICE_INVITING_TENDER20250828084234367.pdf,1046842,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-002,CAT1,PART_B_GCC.pdf,00_Core_Intelligence_Dataset/PART_B_GCC.pdf,1248071,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-003,CAT1,PART_C_SCC.pdf,00_Core_Intelligence_Dataset/PART_C_SCC.pdf,1009938,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-004,CAT5,PART_D_TECH_SPEC.pdf,00_Core_Intelligence_Dataset/PART_D_TECH_SPEC.pdf,2205680,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-005,CAT2/CAT3,PART_E_Tender_Drawings.pdf,00_Core_Intelligence_Dataset/PART_E_Tender_Drawings.pdf,2221560,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-006,CAT4/CAT6,PART_F_FINANCIAL_BID.pdf,00_Core_Intelligence_Dataset/PART_F_FINANCIAL_BID.pdf,1472797,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-007,CAT4/CAT6,PART_F_PRICE_BID_AND_BOQ.pdf,00_Core_Intelligence_Dataset/PART_F_PRICE_BID_AND_BOQ.pdf,63621,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-008,CAT1,Corrigendum.pdf,01_Tender_NIT_PreBid/Corrigendum.pdf,53868,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-009,CAT1,NOTICE_INVITING_TENDER20250828084234367.pdf,01_Tender_NIT_PreBid/NOTICE_INVITING_TENDER20250828084234367.pdf,1046842,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-010,CAT1,PREBID_QUERIES_REPLIES.pdf,01_Tender_NIT_PreBid/PREBID_QUERIES_REPLIES.pdf,149528,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-011,CAT4/CAT6,PART_F_FINANCIAL_BID.pdf,02_Cost_BOQ_Makes/PART_F_FINANCIAL_BID.pdf,1472797,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-012,CAT4/CAT6,PART_F_PRICE_BID_AND_BOQ.pdf,02_Cost_BOQ_Makes/PART_F_PRICE_BID_AND_BOQ.pdf,63621,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-013,CAT1,PART_B_GCC.pdf,03_Technical_Specifications_Reports/PART_B_GCC.pdf,1248071,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-014,CAT1,PART_C_SCC.pdf,03_Technical_Specifications_Reports/PART_C_SCC.pdf,1009938,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-015,CAT5,PART_D_TECH_SPEC.pdf,03_Technical_Specifications_Reports/PART_D_TECH_SPEC.pdf,2205680,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-016,CAT2/CAT3,PART_E_Tender_Drawings.pdf,04_Architectural_Drawings/PART_E_Tender_Drawings.pdf,2221560,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-017,CAT2/CAT3,PART_E_Tender_Drawings.pdf,05_Structural_Drawings/PART_E_Tender_Drawings.pdf,2221560,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-018,CAT5,PART_D_TECH_SPEC.pdf,06_MEP_Services/PART_D_TECH_SPEC.pdf,2205680,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document
+SBI-DN-DOC-019,CAT2/CAT3,PART_E_Tender_Drawings.pdf,07_Landscape_Infrastructure/PART_E_Tender_Drawings.pdf,2221560,VERIFIED,VERIFIED,Official,YES,YES,Critical tender document

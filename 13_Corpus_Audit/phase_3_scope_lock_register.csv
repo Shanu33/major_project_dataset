@@ -1,0 +1,9 @@
+project_folder,project_id,assigned_track,entity_name,storey_profile,plinth_area_sqm,dwelling_units,footprint_m,scope_status,source,notes
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,PRJ-18,A,Staff Quarters Block (one station),TBD,TBD,TBD,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,
+EPI-Dhenkanal-ICDS-Staff-Quarters,PRJ-15,A,E-Type Staff Quarters Building,Stilt+4 (estimated),TBD,TBD,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,
+MHDC-PMAY-Khairi-Kamptee-Nagpur,PRJ-19,A,LIG Tenement Block (one typical block),TBD,TBD,TBD,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,
+NIT-Nalanda,PRJ-01,A_IN_PROGRESS,Faculty Housing Apartment Type 1B Block,G+2,264.67 (ground floor BUA),TBD,TBD,LOCKED,selected_scope_lock.md,
+OIL-RITES-Duliajan-BQ-Housing,PRJ-02,A_COMPLETE,Typical BQ Workmen Housing Tower,Stilt + 6,3419.38,24,30.08 x 16.08,LOCKED,project_metadata.json; selected_tower_inputs.json,
+SBI-DN-Nagar-Andheri-122-Flats,PRJ-13,A,Tower 1 (Executive Quarters High-Rise),2B+Stilt+17,TBD,122,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,
+SBI-GIFT-City-Twin-Towers,PRJ-20,A,Tower A (Block 41A Luxury High-Rise),3B+G+25,TBD,TBD,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,
+TCIL-NVS-JNV-Azamgarh-Quarters,PRJ-17,A,Type-II Staff Quarters Block,G+1,TBD,8,TBD,SUGGESTED,30_PROJECT_REFINEMENT_REPORT.csv,

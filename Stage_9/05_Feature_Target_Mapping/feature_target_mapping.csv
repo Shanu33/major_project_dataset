@@ -1,0 +1,4 @@
+Feature,Source,Engineering_Meaning,Target,Relationship,Leakage_Risk
+Length,Structural Drawing,Element extent,Concrete Vol,Engineering,Low
+Width,Structural Drawing,Element span,Concrete Vol,Engineering,Low
+Depth,Structural Drawing,Element thickness,Concrete Vol,Engineering,Low

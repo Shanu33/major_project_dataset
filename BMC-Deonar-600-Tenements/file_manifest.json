@@ -1,0 +1,58 @@
+[
+  {
+    "filename": "ETH_7000022191_020922.pdf",
+    "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_020922.pdf",
+    "category_path": "01_Tender_NIT_Eligibility/01_Main_Bid_Document",
+    "description": "Complete 253-Page Master Bid Document \u2014 NIT, Eligibility, Scope, BOQ, GCC, Specifications (M-40 Concrete & Prefabrication) & Payment Schedule",
+    "is_core": true,
+    "core_label": "1. Master Bid Document (253 Pages Complete)"
+  },
+  {
+    "filename": "ETH_7000022191_DRAWING-4.pdf",
+    "url": "https://portal.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_DRAWING-4.pdf",
+    "category_path": "04_Architectural_Drawings_Building_04/01_Full_Drawing_Set_PDF",
+    "description": "Building 04 Complete Architectural Drawings (8 Sheets) \u2014 Typical Plans, Refuge/Terrace, Stilt/UGT, Sections A-A' & B-B', Elevations NE/SW/NW",
+    "is_core": true,
+    "core_label": "2. Building 04 Architectural Drawing Pack (8 Sheets)"
+  },
+  {
+    "filename": "ETH_7000022191_DRAWING-8.pdf",
+    "url": "https://portal.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_DRAWING-8.pdf",
+    "category_path": "05_Podium_Site_Infrastructure_Drawings/01_Full_Podium_Drawing_PDF",
+    "description": "Podium Levels & Master Site Details (8 Sheets) \u2014 Podium P1, P2, P3 Plans (60,881 m\u00b2), Block/GIS Plan, Nallah Details & Ramps",
+    "is_core": true,
+    "core_label": "3. Podium Levels P1-P3 & Master Site Plan (8 Sheets)"
+  },
+  {
+    "filename": "ETH_7000022191_11_130922.pdf",
+    "url": "https://r3app.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_11_130922.pdf",
+    "category_path": "02_Project_Scope_BUA_Payment/04_Draft_MOU_Format",
+    "description": "Official Draft Memorandum of Understanding (MOU) Format for Bidders / Joint Ventures",
+    "is_core": true,
+    "core_label": "4. Official Joint Venture MOU Format"
+  },
+  {
+    "filename": "Section_7_Scope_of_Work_2068_Tenements.pdf",
+    "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_020922.pdf",
+    "category_path": "02_Project_Scope_BUA_Payment/01_Scope_of_Work_Section_7",
+    "description": "Section 7: Scope of Work \u2014 Construction of 2,068 Nos 300 sq.ft Tenements across 6 Buildings (P1+P2+P3+Stilt+22 Floors)",
+    "is_core": true,
+    "core_label": "5. Turnkey Project Scope (2,068 Tenements across 6 Towers)"
+  },
+  {
+    "filename": "Section_10_Specifications_Composite_Prefab_M40.pdf",
+    "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_020922.pdf",
+    "category_path": "03_Technical_Specifications_Prefab/01_Composite_Prefab_Technology_Specs",
+    "description": "Section 10: Specifications and Special Conditions \u2014 Mandatory Prefabrication / Composite Construction & M-40 Concrete",
+    "is_core": true,
+    "core_label": "6. Prefabrication / Composite Technology & M-40 Concrete Specs"
+  },
+  {
+    "filename": "IIT_VJTI_Structural_Design_Vetting_Protocol.pdf",
+    "url": "https://www.mcgm.gov.in/irj/go/km/docs/documents/Tenders/ETH/ETH_7000022191_020922.pdf",
+    "category_path": "06_Structural_Design_IIT_VJTI_Protocol/01_Structural_Engineering_Mandate",
+    "description": "Contractor Structural Engineering Responsibilities \u2014 STAAD Pro Analysis & Mandatory Third-Party Vetting by IIT Bombay / VJTI Mumbai",
+    "is_core": true,
+    "core_label": "7. Structural Design Mandate & IIT/VJTI Vetting Protocol"
+  }
+]

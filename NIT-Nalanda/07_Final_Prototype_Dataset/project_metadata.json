@@ -1,0 +1,23 @@
+{
+  "project_id": "NIT-NALANDA-RESIDENTIAL-PKG-1C-2017",
+  "project_title": "Development of Permanent Campus (Phase-I) for Nalanda University, at Rajgir, Bihar",
+  "client": { "name": "Nalanda University", "sector": "Education" },
+  "executing_agency": { "name": "Vastu Shilpa Consultants" },
+  "tender_reference": "NU/ENGG/54/2016-17/Tender: 01 dated 25th March 2017",
+  "location": { "city": "Rajgir", "district": "Nalanda", "state": "Bihar" },
+  "contract_type": "Item-rate contract based on CPWD Specifications and Delhi Schedule of Rates (DSR 2014)",
+  "contract_award_value_inr_crore": null,
+  "contract_duration_months": 24,
+  "total_complex_scope": {
+    "description": "Package 1C: Residential Buildings parcel (Faculty Bungalows, VC Bungalow, Faculty Apartments Type 1B, 2A, 2B, Staff Apartments, Hostels)"
+  },
+  "selected_model_scope": {
+    "scope_description": "Faculty Housing Apartment Type 1B Block",
+    "allocation_factor": "NOT_AVAILABLE"
+  },
+  "data_integrity": {
+    "boq_validation_percent": 0,
+    "drawing_coverage_percent": "NOT_AVAILABLE",
+    "dataset_status": "DRAWING_BASED_TAKEOFF_REQUIRES_RECONCILIATION"
+  }
+}

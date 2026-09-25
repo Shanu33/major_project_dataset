@@ -1,0 +1,23 @@
+{
+  "project_id": "TCIL-NVS-JNV-AZAMGARH-QUARTERS-2024",
+  "document_name": "Type_II_Quarters_Architectural_Floor_Plan_and_Area_Statement.pdf",
+  "page_number": 1,
+  "drawing_title": "TYPE-II (G+1) TYPICAL FLOOR PLAN",
+  "elements": [
+    {
+      "element_id": "BLDG-TYPE-II",
+      "element_type": "BUILDING_FOOTPRINT",
+      "dimensions": {
+        "length_m": {"value": 18.15, "origin": "DIRECT"},
+        "width_m": {"value": 20.65, "origin": "DERIVED"},
+        "total_plinth_area_sqm": {"value": 346.74, "origin": "DIRECT"},
+        "unit_area_sqm": {"value": 75.0, "origin": "DIRECT"},
+        "corridor_area_sqm": {"value": 38.0, "origin": "DIRECT"}
+      },
+      "count": {"value": 1, "origin": "DIRECT"},
+      "source_evidence": "TYPE II AREA STATEMENT on drawing bottom left",
+      "confidence": "HIGH"
+    }
+  ]
+}
+

@@ -1,0 +1,8 @@
+Diameter (mm),Unit Weight (kg/m),Total Length (m),Total Weight (kg),Weight (MT),Percentage of Total (%),Confidence Classification,Primary Structural Elements,BBS Audit Finding
+8,0.395,107316.0,42390.0,42.39,14.09,ESTIMATED,"Slab mesh (S1/S2/GS1), beam shear stirrups, shear wall horizontal ties",Mesh spacing scheduled; exact cut lengths and hook deductions require shop BBS
+10,0.617,32852.0,20270.0,20.27,6.74,MEDIUM_AND_ESTIMATED,"Column ties (C1-C3), staircase distribution, pile helical spirals (estimated)",Ties scheduled; pile spirals estimated (ASM-001/002)
+12,0.888,33671.0,29900.0,29.9,9.94,MEDIUM,"Shear wall web verticals, stair waist slab main, beam side-face",Directly scheduled on Sheet 104 and Sheet 110; repeated across 7 levels
+16,1.578,62389.0,98450.0,98.45,32.72,ESTIMATED_AND_MEDIUM,"Bored pile cage verticals (estimated), wall boundary elements, beam main bars",Pile cage is estimated (ASM-001/002); wall boundaries scheduled
+20,2.466,25628.0,63200.0,63.2,21.01,ESTIMATED_AND_MEDIUM,"Bored pile cage verticals (estimated), C3 column verticals, beam bottom bars",C3 scheduled on Sheet 104; piles and beams estimated
+25,3.853,7656.0,29500.0,29.5,9.81,MEDIUM,"C1 & C2 column verticals, beam top support extra bars",Bar counts directly scheduled on Sheet 104
+32,6.313,2715.0,17143.0,17.14,5.7,MEDIUM,C1 column corner and outer face verticals (14-T32 per column),Bar count directly scheduled on Sheet 104; mechanical couplers/laps required

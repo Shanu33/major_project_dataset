@@ -1,0 +1,11 @@
+Assumption ID,Scope Trade,Parameter Name,Value Adopted,Rationale / Engineering Basis,Exact Source Document,Confidence,Sensitivity / Impact
+ASM-001,Piling / Geotech,Average pile length,18.0 m below cutoff,DBR specifies 15m to 20m into bearing sand/gravel stratum,DBR p.35 & Geotech Report,MEDIUM,Sets foundation concrete volume baseline
+ASM-002,Pile Caps,Average pile cap thickness,1000 mm,Standard seismic pile cap depth for 600mm piles,STR/TD/HOUSING(G+6)/101 & IS 2911,MEDIUM,Sets foundation concrete volume baseline
+ASM-003,Piling / Rebar,Pile reinforcement ratio,1.20% by volume (94.2 kg/m),Ductile confinement at pile head in Seismic Zone V,IS 2911 & IS 13920:2016,MEDIUM,Sets substructure reinforcement baseline
+ASM-004,Superstructure / Rebar,Column rebar intensity,172.5 kg/m3,Direct integration of bar schedules C1-C3 SW1-SW10,STR/TD/HOUSING(G+6)/104,MEDIUM,Reflects heavy Zone V ductile detailing
+ASM-005,Superstructure / Rebar,Beam rebar intensity,140.0 kg/m3,Longitudinal and shear reinforcement integration,STR/TD/HOUSING(G+6)/108,MEDIUM,Reflects continuous framing beam schedules
+ASM-006,Superstructure / Rebar,Slab rebar intensity,90.0 kg/m3 (7.2 kg/m2),Two-way mesh T8@125 main and T8@150 distribution,STR/TD/HOUSING(G+6)/107,MEDIUM,Reflects standard two-way residential slab
+ASM-007,Enclosure / Masonry,External wall opening deductions,23.0% gross wall area,Direct deduction of windows W1-W4 and balcony doors,AR/TD/005 010 011,MEDIUM,Ensures precise net brickwork calculation
+ASM-008,Enclosure / Masonry,Internal partition deductions,10.0% gross wall area,Direct deduction of door openings D1-D3,AR/TD/005 007,MEDIUM,Ensures precise net partition brickwork
+ASM-009,Finishes,Plaster thickness,12mm int / 18mm ext,Two-coat external waterproof and single-coat internal plaster,CPWD Specifications 2019,MEDIUM,Standard Indian public works specification
+ASM-010,Contract / Commercial,Current tender status award,Badri Rai & Company (Dec 2025),December 2025 official tender dealt record from RITES,status_of_Tender_dealt_Dec_2025,MEDIUM,Excludes March 2025 media announcement

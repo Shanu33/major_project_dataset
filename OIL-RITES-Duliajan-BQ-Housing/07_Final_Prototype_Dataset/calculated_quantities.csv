@@ -1,0 +1,14 @@
+Quantity ID,Item Category,Item Description,Takeoff Value,Unit,Concrete Grade,Steel Grade,Engineering Intensity,Source Drawing,Confidence Classification
+QTY-CONC-SUB,Concrete,"Substructure RCC Concrete (Piles, Caps, Plinth Beams, Grade Slab)",1346.55,m3,M30,-,0.394 m3/sq.m plinth,STR/TD/100-106,ESTIMATED_DOMINANT
+QTY-CONC-SUP,Concrete,"Superstructure RCC Concrete (Columns, Walls, Beams, Slabs, Stairs, OHT)",1271.00,m3,M30,-,0.372 m3/sq.m plinth,STR/TD/103-110,MEDIUM_DOMINANT
+QTY-CONC-TOT,Concrete,TOTAL RCC M30 CONCRETE (Substructure + Superstructure),2617.55,m3,M30,-,0.766 m3/sq.m plinth,All Structural Sheets,DRAWING_BASED_ESTIMATE
+QTY-CONC-PCC,Concrete,PCC Lean Concrete (1:5:10) under pile caps and plinth trenches,18.00,m3,M10,-,-,STR/TD/101,ESTIMATED
+QTY-STEL-SUB,Steel,"Substructure Reinforcement Steel (Piles, Caps, Plinth Beams, Grade Slab)",128.74,MT,-,Fe 500D,95.61 kg/m3 concrete,STR/TD/100-106,ESTIMATED_DOMINANT
+QTY-STEL-SUP,Steel,"Superstructure Reinforcement Steel (Columns, Walls, Beams, Slabs, Stairs, OHT)",172.11,MT,-,Fe 500D,135.41 kg/m3 concrete,STR/TD/103-110,MEDIUM_DOMINANT
+QTY-STEL-TOT,Steel,TOTAL REINFORCEMENT STEEL (Substructure + Superstructure),300.85,MT,-,Fe 500D,87.98 kg/sq.m plinth,All Structural Sheets,DRAWING_BASED_ESTIMATE
+QTY-MAS-EXT,Masonry,External 230mm Brick Masonry in CM 1:6,216.80,m3,-,-,0.063 m3/sq.m plinth,AR/TD/006-012,ESTIMATED
+QTY-MAS-INT,Masonry,Internal 115mm Partition Brick Masonry in CM 1:4 with hoop iron,406.85,m3,-,-,0.119 m3/sq.m plinth,AR/TD/005-007,ESTIMATED
+QTY-MAS-TOT,Masonry,TOTAL BRICKWORK (External + Internal),623.65,m3,-,-,0.182 m3/sq.m plinth,AR/TD/005-012,ESTIMATED
+QTY-FIN-PLS,Finishes,Total Cement Plaster (Internal 12mm + External 18mm),14850.00,sq.m,-,-,4.34 m2/sq.m plinth,AR/TD/006-013,ESTIMATED
+QTY-FIN-FLR,Finishes,"Total Tile & Stone Flooring (Vitrified, Ceramic, Kota)",2700.00,sq.m,-,-,0.790 m2/sq.m plinth,"AR/TD/005-007, 110",ESTIMATED
+QTY-OPN-TOT,Openings,"Total Doors, Windows & Ventilators",384,nos,-,-,16 nos per flat equivalent,AR/TD/005 Schedule,HIGH

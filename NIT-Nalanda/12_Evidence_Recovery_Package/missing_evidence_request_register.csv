@@ -1,0 +1,4 @@
+request_id,priority,missing_document,reason
+REQ-001,HIGH,05.-boq-schedule-b-combined.pdf (Editable or OCR),Required for BOQ extraction and item take-offs as manual transcription is blocked.
+REQ-002,HIGH,Missing upper floor architectural drawings,Required for complete spatial and architectural estimation.
+REQ-003,HIGH,Superstructure structural framing drawings,Required for structural estimation and concrete/rebar calculations.

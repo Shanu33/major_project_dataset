@@ -1,0 +1,2 @@
+drawing_number,drawing_title,revision,category,source_file,extraction_status,confidence,notes
+TBD,"Structural Drawings",,Structural,05_Structural_Drawings/PART_E_Tender_Drawings.pdf,PENDING_EXTRACTION,Low,"File exists, individual drawings pending extraction from PDF"

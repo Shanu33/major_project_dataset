@@ -1,0 +1,25 @@
+Required category,Matching sheet ID(s),Status,Missing evidence,Next action
+Site/stilt plan,"RITES/BLD/AR/TD/001, RITES/BLD/AR/TD/006",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: footprint 30.08m x 16.08m area 483.60 sqm
+Typical residential floor plan,RITES/BLD/AR/TD/007,LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: 4 units/floor 483.60 sqm/floor corridor 3.2m
+All distinct floor plans,"RITES/BLD/AR/TD/006, 007, 008, 009",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Stilt Typical 1-6 Terrace and Mumty floor plates
+Roof/terrace plan,"RITES/BLD/AR/TD/008, RITES/BLD/AR/TD/009",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Terrace 483.60 sqm Mumty 34.18 sqm parapet 1.0m
+Sections,"RITES/BLD/AR/TD/012, RITES/BLD/AR/TD/013",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Sections A-A and B-B heights 3.05m total 24.0m
+Elevations,"RITES/BLD/AR/TD/010, RITES/BLD/AR/TD/011",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Elevations A and B facade openings chajjas
+Unit layout,"RITES/BLD/AR/TD/005, RITES/BLD/AR/TD/007",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: 2BHK layout 90 sqm plinth 69 sqm carpet area
+Door-window schedule,"RITES/BLD/AR/TD/005, 014, 015",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Schedules of D1-D3 DW1-DW2 SD1-SD4 W1-W4 V1-V2
+Staircase details,"RITES/BLD/AR/TD/013, 022, 023, STR/110",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Flight 1.50m R150 T300 waist slab 150mm
+Toilet details,"RITES/BLD/AR/TD/019, RITES/BLD/AR/TD/020",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Plan sections sunken 300mm dado 2.1m
+Kitchen details,"RITES/BLD/AR/TD/005, 019, 025",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Granite counter 600mm width sink plumbing
+Finish schedule,"RITES/BLD/AR/TD/016, 017, 018, DBR Sec 8",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Vitrified ceramic kota VDF waterproofing
+Pile/foundation layout,RITES/BLD/STR/TD/HOUSING(G+6)/100,LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: 207 bored cast-in-situ piles (600mm dia)
+Pile schedule,"RITES/BLD/STR/TD/HOUSING(G+6)/100, DBR Sec 3",LEGIBLE_FOR_TRANSCRIPTION,Pile depth not on drawing,Pile count (207) and diameter (600mm) directly visible. Depth 18m is assumed from DBR range 15-20m — not scheduled on drawing.
+Pile-cap details,"RITES/BLD/STR/TD/HOUSING(G+6)/101, 102",PARTIAL_RECONCILIATION_REQUIRED,Cap count contradiction (54 vs 84) and pile allocation unresolved,Unresolved 54 vs 84 cap contradiction. Cap depth 1.0m unverified. Pile allocation to caps unresolved (91 piles unaccounted).
+Grade/plinth beam layout,"RITES/BLD/STR/TD/HOUSING(G+6)/105, 106",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: PB1-PB34 framing sections and reinforcement
+Column layout and schedule,"RITES/BLD/STR/TD/HOUSING(G+6)/103, 104",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: 49 elements (C1-C3 SW1-SW10) and bar schedules
+Beam layout,"RITES/BLD/STR/TD/HOUSING(G+6)/107, 108",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: B1-B34 floor beam layout sections and reinforcement
+Slab layout,RITES/BLD/STR/TD/HOUSING(G+6)/107,LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: 125mm two-way slabs S1-S2 reinforcement spacing
+Roof framing,"RITES/BLD/STR/TD/HOUSING(G+6)/107, 109",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Terrace roof framing mumty and lift machine slab
+Staircase details (Structural),RITES/BLD/STR/TD/HOUSING(G+6)/110,LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Waist slab 150mm landing beam 230x450 rebar
+Water-tank details,RITES/BLD/STR/TD/HOUSING(G+6)/109,PARTIAL_RECONCILIATION_REQUIRED,OHT wall/slab thickness assumed from IS 3370,OHT wall (150mm) and base slab (200mm) assumed from standard practice. Structural schedule confirmation required for OHT quantities.
+Reinforcement details,"RITES/BLD/STR/TD/HOUSING(G+6)/104, 106, 108",LEGIBLE_FOR_TRANSCRIPTION,None,Directly legible: Full schedules for columns walls beams slabs
+Bar bending schedule,"RITES/BLD/STR/TD/HOUSING(G+6)/104, 106, 108",PARTIAL,Cut-length pre-tabulation table not issued,Derive bar cut lengths directly from bar marks and spans

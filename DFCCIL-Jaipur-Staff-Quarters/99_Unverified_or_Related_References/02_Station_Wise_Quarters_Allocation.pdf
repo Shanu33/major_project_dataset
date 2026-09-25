@@ -1,0 +1,68 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1152 >>
+stream
+BT
+/F1 15 Tf
+50 740 Td
+(STATION-WISE TYPE-3 QUARTERS DEPLOYMENT SCHEDULE) Tj
+ET
+BT
+/F1 11 Tf
+50 720 Td
+(Western Dedicated Freight Corridor \(WDFC\) - REJN to KSGN Section \(Jaipur\)) Tj
+ET
+BT
+/F1 9 Tf
+50 690 Td
+(Type-3 Standard Residential Quarters deployed along Western DFC Stations:) Tj
+-50 -690 Td
+50 676 Td
+(  1. REJN Station \(Renwal\) - Type-3 Residential Block with Water Supply & Internal Electrification) Tj
+-50 -676 Td
+50 662 Td
+(  2. AELN Station \(Asalpur Jobner\) - Type-3 Residential Staff Quarters & Sewerage Disposal) Tj
+-50 -662 Td
+50 648 Td
+(  3. DBLN Station \(Dabla\) - Type-3 Staff Quarters, Boundary Wall, Gates & Approach Pathway) Tj
+-50 -648 Td
+50 634 Td
+(  4. BAGN Station \(Bagru\) - Type-3 Residential Quarters for Station Operations & Signal Crew) Tj
+-50 -634 Td
+50 620 Td
+(  5. SMPN Station \(Srimadhopur\) - Type-3 Residential Quarters & Overhead Water Storage) Tj
+-50 -620 Td
+50 606 Td
+(  6. PMPN Station \(Pachar Malikpur\) - Type-3 Staff Quarters & External Electrical Connection) Tj
+-50 -606 Td
+50 592 Td
+(  7. FLN Station \(Phulera Junction\) - Type-3 Staff Housing Complex and Campus Development) Tj
+-50 -592 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000000300 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+400
+%%EOF

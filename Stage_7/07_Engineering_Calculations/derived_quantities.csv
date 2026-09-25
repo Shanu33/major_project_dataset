@@ -1,0 +1,9 @@
+project_id,formula,input_values,derived_value,unit,confidence
+DFCCIL-Sarmatanr-Larabad-Koderma-Quarters,slab_area * thickness,MISSING,MISSING,m3,MISSING
+EPI-Dhenkanal-ICDS-Staff-Quarters,slab_area * thickness,MISSING,MISSING,m3,MISSING
+MHDC-PMAY-Khairi-Kamptee-Nagpur,slab_area * thickness,MISSING,MISSING,m3,MISSING
+NIT-Nalanda,slab_area * thickness,MISSING,MISSING,m3,MISSING
+OIL-RITES-Duliajan-BQ-Housing,slab_area * thickness,MISSING,MISSING,m3,MISSING
+SBI-DN-Nagar-Andheri-122-Flats,slab_area * thickness,MISSING,MISSING,m3,MISSING
+SBI-GIFT-City-Twin-Towers,slab_area * thickness,MISSING,MISSING,m3,MISSING
+TCIL-NVS-JNV-Azamgarh-Quarters,slab_area * thickness,MISSING,MISSING,m3,MISSING

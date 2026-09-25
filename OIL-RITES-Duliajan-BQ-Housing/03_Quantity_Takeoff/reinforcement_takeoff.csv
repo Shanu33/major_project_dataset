@@ -1,0 +1,15 @@
+Element ID,Structural Element,T8 (kg),T10 (kg),T12 (kg),T16 (kg),T20 (kg),T25 (kg),T32 (kg),Total Steel (kg),Total Steel (MT),Steel Intensity (kg/m3),Drawing Reference,Confidence Classification,Audit Reconciliation Notes
+REBAR-001,Bored RCC Piles (207 nos),0,23628,0,45611,30000,0,0,99239,99.24,94.2,STR/TD/HOUSING(G+6)/100,ESTIMATED,Pile depth (18m) and 8-T20 cage are assumed (ASM-001/002); no BBS on drawing sheet.
+REBAR-002,Pile Caps (84 caps summary vs 54 layout),0,0,3580,5567,11203,0,0,20350,20.35,110.0,STR/TD/HOUSING(G+6)/101,ASSUMPTION_REQUIRED,Unresolved cap count contradiction (54 vs 84); assumed 110 kg/m3 intensity without BBS.
+REBAR-003,Plinth Beams (PB1 to PB34),1945,0,0,0,4474,8,0,6427,6.43,135.0,STR/TD/HOUSING(G+6)/105,ESTIMATED,Assumed 135 kg/m3 intensity across 403.5m grid length; no bar cut schedule.
+REBAR-004,Stilt Grade Slab (GS1-GS2),2666,0,0,0,0,0,0,2666,2.67,44.1,STR/TD/HOUSING(G+6)/105,ESTIMATED,T8@150 mesh scheduled on Sheet 105; lap and edge allowances estimated.
+REBAR-005,Columns C1 (14-T32 + 8-T25),0,1764,0,0,0,6774,17142,25680,25.68,727.89,STR/TD/HOUSING(G+6)/104,MEDIUM,Bar count (14-T32+8-T25) directly scheduled on Sheet 104; 3.0m floor ht and 50d lap rule used across 7 levels.
+REBAR-006,Columns C2 (22-T25),0,3024,0,0,0,15422,0,18446,18.45,304.99,STR/TD/HOUSING(G+6)/104,MEDIUM,Bar count (22-T25) directly scheduled on Sheet 104; 3.0m floor ht and 50d lap rule used across 7 levels.
+REBAR-007,Columns C3 (22-T20),0,1512,0,0,6768,0,0,8280,8.28,273.81,STR/TD/HOUSING(G+6)/104,MEDIUM,Bar count (22-T20) directly scheduled on Sheet 104; 3.0m floor ht and 50d lap rule used across 7 levels.
+REBAR-008,Shear Walls SW1 to SW5,9290,0,9051,8041,0,0,0,26382,26.38,93.42,STR/TD/HOUSING(G+6)/104,MEDIUM,Boundary elements and web mesh scheduled on Sheet 104; vertical cut lengths assume 3.0m clear ht.
+REBAR-009,Core Walls SW6 to SW10,1721,0,2020,0,0,0,0,3741,3.74,55.76,STR/TD/HOUSING(G+6)/104,MEDIUM,Duct/lift core reinforcement scheduled on Sheet 104; 3.0m floor ht assumed.
+REBAR-010,Mumty Columns & Pedestals,0,115,0,467,0,0,0,582,0.58,86.35,STR/TD/HOUSING(G+6)/109,MEDIUM,Columns detailed on Sheet 109.
+REBAR-011,Floor Beams (Floors 1-6 + Terrace),13886,0,5639,0,15575,12234,0,47334,47.33,140.0,STR/TD/HOUSING(G+6)/107-108,ESTIMATED,Assumed 140 kg/m3 intensity across 7 levels x 403.5m length; no sheet-wise BBS.
+REBAR-012,Suspended Slabs & Chajjas (7 levels),25680,11005,0,0,0,0,0,36685,36.69,89.17,STR/TD/HOUSING(G+6)/107,ESTIMATED,Slab schedules S1/S2 T8@125/150 c/c on Sheet 107; assumed 89.17 kg/m3 intensity.
+REBAR-013,Doglegged Staircases (2 cores),0,1244,1671,0,0,0,0,2915,2.92,109.59,STR/TD/HOUSING(G+6)/110,MEDIUM,Flight reinforcement detailed on Sheet 110; 28 flights repeated.
+REBAR-014,Mumty & Tank Slabs & OHT Walls,172,740,1066,0,0,0,0,1978,1.98,119.88,STR/TD/HOUSING(G+6)/109,ASSUMPTION_REQUIRED,OHT reinforcement estimated (ASM-010); no structural drawing schedule.
